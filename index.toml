@@ -1,0 +1,116 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "70b2a115b12368173e9ddc8d9eda97198dfa3fd39aef92fc4c94d104eaef0474"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "2cb26af7c55326d4888d015d374bb3d0f7c2b971826f20bcc06cfc3ee4d3ea75"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8435fe34f180c963234295c6bf8de293b3450d74f2ab74389ac9bdf198d84612"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+metafile = true
+
+[[files]]
+file = "mods/filters-api.pw.toml"
+hash = "b9480e9b507930881bda195d5ddebe107084261e5afcd1ab61cc107bef116c61"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "3e03836593b028b8b258d6cc0d9c66770fc27663b3a24c0e86e76caf83c808ea"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
+metafile = true
+
+[[files]]
+file = "mods/magic-mtr.pw.toml"
+hash = "408196f3f15338bc8eda9f6afe3edb356b3fc18d35e2dd0dd74e3401ef41b3c1"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "99d5d752bc5cbb1d1458bb824e7dce2151607696641f92011b0b6d6c82ece8b0"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "af6cdd0fcc0d327c5d26c3c0fb49cf238d572be9985420aba71a4f2bddc01583"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "7bc33ad1e752b8ccb749bd6aec6485e19ceeef54be207b11af559c7318e9396a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
+metafile = true
+
+[[files]]
+file = "mods/tianjin-metro.pw.toml"
+hash = "f89d4a82d1da74b427110b25665e057bd2e2308a668a75ce35953bb32ba103be"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-cui.pw.toml"
+hash = "bcfe68e5cb7c51a93f77a3e624fbaeece07a874db2f8e5fde2e0fa04363f2088"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "3dd6c8de2f486b3d02ce62015221841680163f6205f6ed10c7b364ac0df7fcac"
+metafile = true

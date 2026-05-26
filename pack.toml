@@ -1,0 +1,13 @@
+name = "All The Trains MTR"
+author = "igaktbr"
+version = "4.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2069a57b83be0ccc253ee08b05174f284955f2fde2530a2f5a0e60ae694847de"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "1.20.4"
