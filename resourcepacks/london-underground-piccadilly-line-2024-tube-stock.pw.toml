@@ -1,0 +1,13 @@
+name = "[MTR4] London Underground Piccadilly Line 2024 Tube Stock"
+filename = "London Underground Piccadilly Line 2024 Tube Stock (New Tube For London)-Skywalker_6517.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nyIjTORD/versions/1jYKw0Ys/London%20Underground%20Piccadilly%20Line%202024%20Tube%20Stock%20%28New%20Tube%20For%20London%29-Skywalker_6517.zip"
+hash-format = "sha512"
+hash = "3138ca99c174a0b6d3e7047113d8ffd938a382fdfa6f523f7a407ba7f879c7ed5cc4eb5eb753b4bed5f6bfa60e6e03826e1ae853075a8ca4d2a46858a3ef2d19"
+
+[update]
+[update.modrinth]
+mod-id = "nyIjTORD"
+version = "1jYKw0Ys"

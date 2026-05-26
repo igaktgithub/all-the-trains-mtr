@@ -1,0 +1,13 @@
+name = "[MTR3/4] Cross Country BR Class 221 Super Voyager"
+filename = "XC_voyager_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CtnKNEyI/versions/n5VUvxK5/XC_voyager_MTR4.zip"
+hash-format = "sha512"
+hash = "acafc6e9836d049e9923ff423099fecdc3e32264f24c60cfcbdb85f88b59f11cde847c3d43f5e89b6988b2eb784b2252171ff5fea68bf8db2d6f1614f0c32521"
+
+[update]
+[update.modrinth]
+mod-id = "CtnKNEyI"
+version = "n5VUvxK5"

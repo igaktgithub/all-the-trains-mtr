@@ -1,0 +1,13 @@
+name = "WelshieRail"
+filename = "Harwell Metro.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vcwas0FV/versions/aYO3KuJc/Harwell%20Metro.zip"
+hash-format = "sha512"
+hash = "6145e9e0297904ca6c36312d682a35144608a64c14a89163503a0946cd4405d0242bce181c0f8f6f50159f34ce99a301177daa509c31f4dd7fc6f3134cb86d49"
+
+[update]
+[update.modrinth]
+mod-id = "Vcwas0FV"
+version = "aYO3KuJc"

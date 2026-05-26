@@ -1,0 +1,13 @@
+name = "[MTR3/4] Virgin BR Class 221 Super Voyager"
+filename = "virgin_voyager_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f0dLQNii/versions/DpBOTins/virgin_voyager_MTR4.zip"
+hash-format = "sha512"
+hash = "3611e0cb35ffeff1b7f4774f9247484ff8b9cd869e8f9e8579a92fc630011b78be30985121ae52ef1d57ee9c236abb7a3213995090ae734b2c67d14cbe7c4db6"
+
+[update]
+[update.modrinth]
+mod-id = "f0dLQNii"
+version = "DpBOTins"

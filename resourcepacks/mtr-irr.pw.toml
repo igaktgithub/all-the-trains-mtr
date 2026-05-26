@@ -1,0 +1,13 @@
+name = "[MTR] Indian Railways Resources"
+filename = "IRR-5.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/id8qqQsh/versions/ZQStAFiG/IRR-5.0.zip"
+hash-format = "sha512"
+hash = "78bed83b386aa5ae100c30561d5c2e8de2abc89b2e410c4faffd8f2b18f57ca0460ae1459dab0871e2454705f0f0663ac208898e49b23445e0da15d3d15303b6"
+
+[update]
+[update.modrinth]
+mod-id = "id8qqQsh"
+version = "ZQStAFiG"

@@ -1,0 +1,13 @@
+name = "[MTR4] Grand Central BR Class 221 Super Voyager"
+filename = "GC_voyager_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/quyGT7Vt/versions/X6WLjn7A/GC_voyager_MTR4.zip"
+hash-format = "sha512"
+hash = "e186357ee65ca7995c5b8a997bfab3f394e18d7d22e94732c0c93bd0f405c412b957b85ed706cd4dd69c7635f6b2be3842e225b3b30e54a030f8fc175efbca46"
+
+[update]
+[update.modrinth]
+mod-id = "quyGT7Vt"
+version = "X6WLjn7A"

@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bteterrarenderer.pw.toml"
+hash = "c85ccde0561ca838e948d8d22a0b7686be3a7a4ff710f19778c32a316e337fe6"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "70b2a115b12368173e9ddc8d9eda97198dfa3fd39aef92fc4c94d104eaef0474"
 metafile = true
@@ -113,4 +118,159 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "3dd6c8de2f486b3d02ce62015221841680163f6205f6ed10c7b364ac0df7fcac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/american-bus-pack.pw.toml"
+hash = "2e017f9eb397449477bcf58b90f393497d4b346a799b4dda707f340d10f42091"
+metafile = true
+
+[[files]]
+file = "resourcepacks/avanti-west-coast-br-class-221-super-voyager.pw.toml"
+hash = "00d3c5460aba547f83256546faf15afc79de8d8b5965f4f533f940ef05ac4054"
+metafile = true
+
+[[files]]
+file = "resourcepacks/class-710.pw.toml"
+hash = "9552e0dfe6d531660da5737ba4934b552460cdb54134f4f8b2010432e7521146"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dart-slrv.pw.toml"
+hash = "803af38747e02590315515b56074367012db639cf1176ebb994b5cf596ad939e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dragon_railway.pw.toml"
+hash = "a11f5f7e452f8d24cfd0ee34f391eb95383c5101b8482d5f076c4ae39999d609"
+metafile = true
+
+[[files]]
+file = "resourcepacks/london-underground-piccadilly-line-2024-tube-stock.pw.toml"
+hash = "f430a1cc8d3695aab4c41a3d9ed6bffc561a418d2e6686772839df360b068811"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modular-tram-tracks.pw.toml"
+hash = "ad15b82129bf4f59f466a35c3ff6eb8fd577c9ff01404ba4b755a90e02430747"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-ecitaro-one-door-variant.pw.toml"
+hash = "0931c72fd04c65ac8f0063bb596a2f397976f73ed534de35b0340daa4af343c3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-french-coral-car.pw.toml"
+hash = "886386efd6b0941a1ae96d6eaf250a77fe6f67f10053d0851dd946dcc57c4acd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-irr.pw.toml"
+hash = "8fe749eab204be215e079c1188cdacad825ba15093d38a782946a99cb82f92b6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-tgv-duplex.pw.toml"
+hash = "2e2ea05b5f6618a488fdbb2c0abf112e99d7aafe60d17bd545c8890fe935a3b1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr34-cross-country-br-class-221-super-voyager.pw.toml"
+hash = "28b89455ce43c2eba5eea19fb8b834b58fa3a58f021414c0760809e06d56262a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr34-metr-rio-crrc-4000.pw.toml"
+hash = "687e1815be2839d5ae36d7fb458be39cc7fc14318d022361bb7f5cf50d5edf9a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr34-stepford-express-br-class-221-super-voyager.pw.toml"
+hash = "ce879f7b3c14e5250e677434f2865fc2c2deeeffc142cb4ffa829ebc96490037"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr34-virgin-br-class-221-super-voyager.pw.toml"
+hash = "607176656d9bc91695bbee5236a5028944cbe9589863484d23861fa40c27a554"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-commonwealth-transport-group-resources-for-mtr.pw.toml"
+hash = "e5997bfa5ba6d913b385e98fafb0355dafcb5753800f43d673b9549bc900d200"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-grand-central-br-class-221-super-voyager.pw.toml"
+hash = "25546c4e8c1c69f2b77105ff552592adc73821a4586ddb8754b83f0189bce371"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-great-british-railways-387.pw.toml"
+hash = "0b8875dfd6d12115405772a83c6548cb7dffccb76e0a834c65592abb6869323f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-ricecooker-trains.pw.toml"
+hash = "dbf034917ad45bb6f6cd37cb63e558f9b887a85293d05a91e80500d04190a5c6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-seoul-metro-2000-series-(2nd-batch).pw.toml"
+hash = "f610e5049aac8ce87b6c79e7cf198291e1fb77e159d49f311a15ec51e23e462b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrkorail_suburban_trains.pw.toml"
+hash = "e9d39dc3c100751b5f14ae8e6ed625977396c4e1cf8bdfbd5816d62b3537f71b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrseoul-metro-trains.pw.toml"
+hash = "a3836833eb4626754813a2604614d926fa6a1ceb14cd0c71b87dc8de123f5b22"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrwest-midlands-trains.pw.toml"
+hash = "25ab576ef31bd966513dbb9805dae4461a9705f39666b21e08d52a430f80d9ed"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rotterdam-metro-rsg3.pw.toml"
+hash = "0461698b252f7f0ca620791ad624e28df25d53dd52791c9f31dbeb3096f4d41e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/s-bahn-berlin-br481.pw.toml"
+hash = "6dc2e75bb3d0953e09c8374acf9a103f5faf1777319fd8f22dc94d52a9d8f685"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shirahanevehicle.pw.toml"
+hash = "65c22a8b0194b934581fb99b362f4e0fb31c55e8c69884abd85a23c8caf91d81"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stb-trains-pack.pw.toml"
+hash = "04c481519192acdf1fdb3a5d741dd973ec8b4b8d5878d04a0b61c50e012877a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/the-turbostar-class-168170171172-pack-mtr4.pw.toml"
+hash = "ae063d0b5bfd2d4eff6a00ec6a32b0e4eb44e50578dba12d5011fef2d5402b4f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/u-bahn-berlin-pack.pw.toml"
+hash = "f8bdb1f2d3caaee7601419e42462bf8870193223349eb77df3911634d579011b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/welshierail.pw.toml"
+hash = "9d90115e074768ac9f065fe355ed7cdf1d1afd9dcc08d47f9f4191695ff9681f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/world-pids-pack.pw.toml"
+hash = "e74bec5a7d9c66b4732daa12897ee2d710ec4e68b9c11954e8f2ee0c055b195d"
 metafile = true

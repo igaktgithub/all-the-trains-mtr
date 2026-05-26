@@ -1,0 +1,13 @@
+name = "[MTR4] STB Trains Pack"
+filename = "stb_trains_1.2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VnJ20Eb5/versions/Da2TSUSL/stb_trains_1.2.1.zip"
+hash-format = "sha512"
+hash = "8824f3812467e8e126bcabfed7e5f78ee167b11ba36551ceedb7cf5ac7ad4492746c00209c85e9102417c44ff2b7566684d96f3e0121e3d2ddce435bd3f00810"
+
+[update]
+[update.modrinth]
+mod-id = "VnJ20Eb5"
+version = "Da2TSUSL"

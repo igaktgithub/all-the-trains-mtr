@@ -1,0 +1,13 @@
+name = "[MTR4] 밥솥|Ricecooker trains"
+filename = "ricecooker_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KwosP7Pt/versions/kbvfqTPp/ricecooker_mtr4.zip"
+hash-format = "sha512"
+hash = "3899460f7a99e3ebed137a1d1d8b504278aaaa377bf32c527bec67eb8c4e86d879665c5f42e28a5c2b45608717618e98f0145a8fe2261f10cd510f78ae69351a"
+
+[update]
+[update.modrinth]
+mod-id = "KwosP7Pt"
+version = "kbvfqTPp"

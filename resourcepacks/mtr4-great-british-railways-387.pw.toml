@@ -1,0 +1,13 @@
+name = "[MTR4] Great British Railways | Southern Class 387 Electrostar"
+filename = "mtr4_great_british_railways_387_pack_hotfix.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/glvka9d2/versions/W1Fmkb5I/mtr4_great_british_railways_387_pack_hotfix.zip"
+hash-format = "sha512"
+hash = "4ec6b5a1f90edc64672df8d390342617be15191f9c1ed6bc9fe50b762ab0e74b3a6f2382be63fd1f36ced364618e92337878cf190f0083d7bfe37fd1607b25bd"
+
+[update]
+[update.modrinth]
+mod-id = "glvka9d2"
+version = "W1Fmkb5I"

@@ -1,0 +1,13 @@
+name = "Class 710 (London Overground)"
+filename = "Class 710 (May 24th release).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4TDl6GH5/versions/xkyt2ite/Class%20710%20%28May%2024th%20release%29.zip"
+hash-format = "sha512"
+hash = "ff9c4b5a084a3727de9ad3c09caff8586a0c90f8a19627b0f41af0c0ca98995472177a5e1b80939ff3854d824111a9e94d560e6dfa86ff17fa4905087f026b6e"
+
+[update]
+[update.modrinth]
+mod-id = "4TDl6GH5"
+version = "xkyt2ite"

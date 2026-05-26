@@ -1,0 +1,13 @@
+name = "The Turbostar Class 168/170/171/172 DMU Pack [MTR4]"
+filename = "mtr4_turbostar_168_170_171_172_pack_v1_4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f44fvFms/versions/6vGXc9ZJ/mtr4_turbostar_168_170_171_172_pack_v1_4.zip"
+hash-format = "sha512"
+hash = "502c88d048e239a242362aa8ddc92d2c7db79c485771c08b42fe95efbfd9521c8a12757f6b335f7c3a9c316bb698ababccbfbe1789f7f75c0aee1af537ef75b2"
+
+[update]
+[update.modrinth]
+mod-id = "f44fvFms"
+version = "6vGXc9ZJ"

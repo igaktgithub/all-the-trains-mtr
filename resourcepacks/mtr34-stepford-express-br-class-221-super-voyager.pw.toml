@@ -1,0 +1,13 @@
+name = "[MTR3/4] Stepford Express BR Class 221 Super Voyager"
+filename = "Stepford_voyager_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WQcNmsyO/versions/a6Dq4TzX/Stepford_voyager_MTR4.zip"
+hash-format = "sha512"
+hash = "6da5a4f325e528da00b6d25e27ae780840fd72e3b92e8b6f020b64fff25ff10af8bfb882f10945f38679081e26329f0c81319a9eb732dbf2bb26947d59e0d546"
+
+[update]
+[update.modrinth]
+mod-id = "WQcNmsyO"
+version = "a6Dq4TzX"

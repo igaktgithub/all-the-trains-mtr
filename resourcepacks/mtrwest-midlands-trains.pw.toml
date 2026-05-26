@@ -1,0 +1,13 @@
+name = "[MTR3/4]West Midlands Trains"
+filename = "MTR_WestmidlandsTrains_srt_4.0_260524.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/taGjiQfp/versions/LDQJYVo1/MTR_WestmidlandsTrains_srt_4.0_260524.zip"
+hash-format = "sha512"
+hash = "031b94a0f26706a217a96f0515faf30fbfdc45bf927780c0af9a0bdffaf5f2297fded24d346c320c39acb5775cd75a1e703af8be9715585905f765e402564167"
+
+[update]
+[update.modrinth]
+mod-id = "taGjiQfp"
+version = "LDQJYVo1"

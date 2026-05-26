@@ -1,0 +1,13 @@
+name = "[MTR] French Coral Car"
+filename = "corail_car_r2.0.1_hotfix1-20260517-124945.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4ZbtqgnT/versions/ZwO7Naup/corail_car_r2.0.1_hotfix1-20260517-124945.zip"
+hash-format = "sha512"
+hash = "1b9de58d5f0048115314b9b28cbbee111711cb4992657519532f99fa8d0d94b9af62bcf608bcdd39d117198ae4d47a3bb90f42c7a4c921fb547986103c57e2e1"
+
+[update]
+[update.modrinth]
+mod-id = "4ZbtqgnT"
+version = "ZwO7Naup"

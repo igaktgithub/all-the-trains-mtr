@@ -1,0 +1,13 @@
+name = "[MTR4] Rotterdam Metro RSG3"
+filename = "RET RSG3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nRXhUcPj/versions/K6P8q3ew/RET%20RSG3.zip"
+hash-format = "sha512"
+hash = "c17e3e0c4af4fc2c97307ed67e8361b70932f62b19f76f24c7c124dd389c878dbf198153a8aeac9eba4f08e464aad3592571d18d686c11ebccf7322e0281dd76"
+
+[update]
+[update.modrinth]
+mod-id = "nRXhUcPj"
+version = "K6P8q3ew"

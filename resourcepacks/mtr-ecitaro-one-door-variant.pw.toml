@@ -1,0 +1,13 @@
+name = "[MTR4] UK eCitaro One Door Conversion"
+filename = "Ecitaro One Door.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iZOlKXJB/versions/iOGzwUkv/Ecitaro%20One%20Door.zip"
+hash-format = "sha512"
+hash = "33c00048607f2a558a0b6f0028beba74dd3b6e14780c098423f8dbe600c3ab016a550bf2549d0d541d52a5337877a7a803d99af4196d9874cf5c2674fbd7e4fd"
+
+[update]
+[update.modrinth]
+mod-id = "iZOlKXJB"
+version = "iOGzwUkv"

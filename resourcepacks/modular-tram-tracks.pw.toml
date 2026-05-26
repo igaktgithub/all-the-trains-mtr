@@ -1,0 +1,13 @@
+name = "Modular Tram Tracks"
+filename = "Modular Tram Tracks.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/58q363Vx/versions/CGQPlRFl/Modular%20Tram%20Tracks.zip"
+hash-format = "sha512"
+hash = "0a5ef9675ee4d479faf4e14ba23913dc39dccdd46b91bee3e1f7ca77367b034060d8c9f34f187d3d2f8c8e28befa83c98c7737b7aca49b39efe3c76c908277ed"
+
+[update]
+[update.modrinth]
+mod-id = "58q363Vx"
+version = "CGQPlRFl"

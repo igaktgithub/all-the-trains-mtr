@@ -1,0 +1,13 @@
+name = "S Bahn Berlin BR481"
+filename = "DB BR481_V17_Mod_redesign-20260517-170949.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YnyDI0w/versions/4LSYs5GR/DB%20BR481_V17_Mod_redesign-20260517-170949.zip"
+hash-format = "sha512"
+hash = "a978c17ba3b5356b5b01e46cab051b12d9d191dd84c017eb3e8bc7c239326d97381970900ff322cbce0661a4c5424fd584fdf5ce2e52f39de6cbdb72e7a09b91"
+
+[update]
+[update.modrinth]
+mod-id = "6YnyDI0w"
+version = "4LSYs5GR"

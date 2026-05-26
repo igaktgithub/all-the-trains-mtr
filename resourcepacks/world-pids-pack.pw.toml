@@ -1,0 +1,13 @@
+name = "World PIDS-Pack [MTR 4/JCM]"
+filename = "World_PIDS-Pack-1113.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/szeOgXns/versions/1OYeKeSc/World_PIDS-Pack-1113.zip"
+hash-format = "sha512"
+hash = "225cbd7934ef987c6a4601eb6042485e1f2fa652916fa89f8ace85b5dc7c69359e8a705b4289617aad45ac2d08e2f22a9dd81eaca752e77d1704e117f7134181"
+
+[update]
+[update.modrinth]
+mod-id = "szeOgXns"
+version = "1OYeKeSc"

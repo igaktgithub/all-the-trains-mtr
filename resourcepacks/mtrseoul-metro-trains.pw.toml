@@ -1,0 +1,13 @@
+name = "[MTR3/4]Seoul Metro Woojin Trains"
+filename = "MTR_srt_seoulmetro_4.0_260519.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2HPRiUi8/versions/dgYXMdee/MTR_srt_seoulmetro_4.0_260519.zip"
+hash-format = "sha512"
+hash = "75352fd88a3a3dc7b173a9e3b4bc300a3a949c6bffdb1f89ca113170359a093c2710e822b824c44667155e3bc231ca020b57696b282c592083c880a3000fd97d"
+
+[update]
+[update.modrinth]
+mod-id = "2HPRiUi8"
+version = "dgYXMdee"

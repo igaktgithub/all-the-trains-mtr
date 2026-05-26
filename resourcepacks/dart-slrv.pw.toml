@@ -1,0 +1,13 @@
+name = "[MTR4] DART SLRV"
+filename = "DART SLRV v1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQ1Cdil0/versions/gKYzMi6S/DART%20SLRV%20v1.4.zip"
+hash-format = "sha512"
+hash = "0199044f564a839b9aaad6b7a293ba69a65f6124c2f0ac179bad60c22280484f9e871c757f66b266a89b8e410f44667a716f51b96ef46bec5886f654e36a3774"
+
+[update]
+[update.modrinth]
+mod-id = "fQ1Cdil0"
+version = "gKYzMi6S"
