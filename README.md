@@ -17,4 +17,4 @@ Q: I can use this modpack instead of official MTR Let's Play Modpack to play the
 A: yes but you may need to add some mtr addon mods in order to get acess to the server becouse the main focus of the modpack is to update and add any new resource pack, please note that you might not get help in official mtr discord server, as this modpack is not official from the server.
 
 # how to install
-You can get All the trains mtr by entering in the [modrinth](https://modrinth.com/modpack/all-the-trains-mtr/version/4.1.0) website.
+You can get all the trains mtr by entering in the [modrinth](https://modrinth.com/modpack/all-the-trains-mtr) website.
