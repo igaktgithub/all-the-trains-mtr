@@ -1,0 +1,13 @@
+name = "GWR Class 230"
+filename = "GWR Class 230.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3kMzfZ56/versions/KAWstyti/GWR%20Class%20230.zip"
+hash-format = "sha512"
+hash = "7a2e1ec55a2f3b7b882f414972e41cdc45537faff0c6e835fbf879184e805b158336ff04d7d5464a5e3e8d42d7c4789a670b6ebe5c021aa9b9d0a39acf083bde"
+
+[update]
+[update.modrinth]
+mod-id = "3kMzfZ56"
+version = "KAWstyti"

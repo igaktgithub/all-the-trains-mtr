@@ -1,0 +1,13 @@
+name = "[MTR4] PCMA & LRR"
+filename = "PCMA And LLR.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RObaDbqh/versions/mjBdfJz9/PCMA%20And%20LLR.zip"
+hash-format = "sha512"
+hash = "4e71babc54572addc9415087a4fbbeee0817b46d9115230e64cd7cc053c061f3d7c371fea01a1d7854b405a35558b5f51016a04c6b0e8e14c313f4dba94307e7"
+
+[update]
+[update.modrinth]
+mod-id = "RObaDbqh"
+version = "mjBdfJz9"

@@ -1,0 +1,13 @@
+name = "Nuremberg Trains [MTR 3/4]"
+filename = "nuremberg_v4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gzqj7aF8/versions/B57GdbMp/nuremberg_v4.zip"
+hash-format = "sha512"
+hash = "63dbd4e8a4ec8fb16e8b14c99f364801ae1284c1623bddff51b72aefe730dcfe756e5f6ccfb62733fb63e0aca341d3659b1aa77cb285ae071ac06fae508fe940"
+
+[update]
+[update.modrinth]
+mod-id = "Gzqj7aF8"
+version = "B57GdbMp"

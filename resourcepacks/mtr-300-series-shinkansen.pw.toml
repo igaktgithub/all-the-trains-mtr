@@ -1,0 +1,13 @@
+name = "[MTR] 300 Series Shinkansen"
+filename = "DEWON-300-Series_1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OnPlhG0U/versions/H1vB9Bbj/DEWON-300-Series_1.1.zip"
+hash-format = "sha512"
+hash = "cf472bd6b71d3b52132661cf9364fb459119a497969b1d54e2d2c3b7e22efc7081c31368e4a958bd9708a1b9b10044118163fc8dfac26f39d5bae1e093693037"
+
+[update]
+[update.modrinth]
+mod-id = "OnPlhG0U"
+version = "H1vB9Bbj"

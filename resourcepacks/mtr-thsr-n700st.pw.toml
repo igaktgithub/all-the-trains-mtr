@@ -1,0 +1,13 @@
+name = "[MTR] THSR N700ST"
+filename = "DEWON-THSR-N700ST-1.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QfmrgnNl/versions/XcBZozQg/DEWON-THSR-N700ST-1.0-MTR4.zip"
+hash-format = "sha512"
+hash = "39d9b6a464512bf936f4a57996dd92caa16f0897a37cf442278980aa4e92493a6fe4d4f494a41ee1b93a5a9217071b2945d826a13c0a559fe8579cb1ad545393"
+
+[update]
+[update.modrinth]
+mod-id = "QfmrgnNl"
+version = "XcBZozQg"

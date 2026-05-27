@@ -1,0 +1,13 @@
+name = "[MTR4] British Rail Class 142 Pacer"
+filename = "MTR4_Pacer_Class142.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sv4kQoDt/versions/nwoA0vQQ/MTR4_Pacer_Class142.zip"
+hash-format = "sha512"
+hash = "36649a06e62fa0121f17f85facd2666aa5784f4a22ca408de02751b73e537dd1efd02b4224133a740f0f0c90dae111c871ec98cacd7432feac914c6318ef3f7f"
+
+[update]
+[update.modrinth]
+mod-id = "sv4kQoDt"
+version = "nwoA0vQQ"

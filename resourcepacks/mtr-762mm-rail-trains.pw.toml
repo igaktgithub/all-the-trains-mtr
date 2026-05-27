@@ -1,0 +1,13 @@
+name = "[MTR3/4]762mm Trains & Fictional Trains"
+filename = "MTR_srt_762andfictionaltrains_4.0_250511.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SCrj3X8n/versions/V0pOYuK3/MTR_srt_762andfictionaltrains_4.0_250511.zip"
+hash-format = "sha512"
+hash = "6b450a768e5a4c27d31f8a85ce9769fdba3f36bc66f9374c2d301c8b1afe32abdaa2b8b162bb6551f222779cce95c12b563b15966f2c92cc8fa69a80053a6ed8"
+
+[update]
+[update.modrinth]
+mod-id = "SCrj3X8n"
+version = "V0pOYuK3"

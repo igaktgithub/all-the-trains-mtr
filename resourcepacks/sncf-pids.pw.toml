@@ -1,0 +1,13 @@
+name = "[MTR/JCM] SNCF PIDS"
+filename = "SNCF_PIDS.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/y38iCL9N/versions/6EMUpgaT/SNCF_PIDS.zip"
+hash-format = "sha512"
+hash = "20f5455e1da6178ce775f6befd10738d0d8231c6411b377d6409069d2db95a9f20dcd2f6486cb44f23ad1ee295c89bd63f2940c8b070bbfba8216261a80c1a39"
+
+[update]
+[update.modrinth]
+mod-id = "y38iCL9N"
+version = "6EMUpgaT"

@@ -1,0 +1,13 @@
+name = "[MTR3/4] Slumbering Tartarus's Fictional Buses"
+filename = "[MTR4] EV Bus Set V1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yOXDcILC/versions/YajNZNGG/%5BMTR4%5D%20EV%20Bus%20Set%20V1.zip"
+hash-format = "sha512"
+hash = "086bc5ebb1156c38dac176a071c3f0c8fe76a6223cf230dd926c59e907f218c51164cea4a6fc3fcb3c02a99e97b0c2943eb797154ebcd1e6bd32aeebffe19df8"
+
+[update]
+[update.modrinth]
+mod-id = "yOXDcILC"
+version = "YajNZNGG"

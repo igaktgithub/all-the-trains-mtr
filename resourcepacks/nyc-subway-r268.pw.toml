@@ -1,0 +1,13 @@
+name = "[MTR4] NYC Subway R268"
+filename = "R268 v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CcmQbfWY/versions/qZwmp4Di/R268%20v1.1.zip"
+hash-format = "sha512"
+hash = "af7015941e4dd7d53008f5bbd6f3b25659d3739504a18a6bc2d76629b1ae850be860bba3447877e08ce418c9ffb30d711680d0bef8462ca4b6544432fbd1fc7e"
+
+[update]
+[update.modrinth]
+mod-id = "CcmQbfWY"
+version = "qZwmp4Di"

@@ -1,0 +1,13 @@
+name = "[MTR/NTE] World Tram pack"
+filename = "world tram pack 1.2.5f.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zCEtMibU/versions/IA6uh7WJ/world%20tram%20pack%201.2.5f.zip"
+hash-format = "sha512"
+hash = "1c81a8e92db6677990c0a920e2d84f3dcadac27096ed48d3ea77e397802ee57659328d6c7583a359687db9b08b07d603df6d8839b3c68796380081f59941fb9f"
+
+[update]
+[update.modrinth]
+mod-id = "zCEtMibU"
+version = "IA6uh7WJ"

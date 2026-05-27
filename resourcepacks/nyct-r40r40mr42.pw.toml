@@ -1,0 +1,13 @@
+name = "NYCT R40/R40M/R42"
+filename = "NYCT R40-R40M-R42 - V1.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tyWGu93K/versions/FZHtkH2D/NYCT%20R40-R40M-R42%20-%20V1.1.1.zip"
+hash-format = "sha512"
+hash = "afb0a5b5b3cd2f3f11f16d13135d813414c73fe1e9b5454b1608169a1e91aabfdb48f205baa7f06a11eb5b83e383f79117f7db59d2d1c610cf3874b35a949b2c"
+
+[update]
+[update.modrinth]
+mod-id = "tyWGu93K"
+version = "FZHtkH2D"

@@ -1,0 +1,13 @@
+name = "[MTR4] Kítòn Transit Adgency Pack"
+filename = "Kiton Transit Agency Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IXg1pvrc/versions/pSAPIroO/Kiton%20Transit%20Agency%20Pack.zip"
+hash-format = "sha512"
+hash = "3f2eb05eb01084f0dd2880ef3080be0bf002395e919425ed48a207f99f86643198da1f2615fdbb10afd447d8dab9b3868285e144526b807f26763ee0c0d62bae"
+
+[update]
+[update.modrinth]
+mod-id = "IXg1pvrc"
+version = "pSAPIroO"

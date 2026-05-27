@@ -1,0 +1,13 @@
+name = "[MTR3/4] Vande Bharat (Train 18) - Saffron Livery"
+filename = "VBS M4-2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DvbzXlDO/versions/DreTALJH/VBS%20M4-2.1.zip"
+hash-format = "sha512"
+hash = "11ea1975c809e1c96fd6d7ebafcaa001640993129b19a193588bc23b6ed628c3a0419f63f7f583b062c20e2ba2b36067492f1b4e95779531caebc916cd6aeb98"
+
+[update]
+[update.modrinth]
+mod-id = "DvbzXlDO"
+version = "DreTALJH"

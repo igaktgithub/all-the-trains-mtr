@@ -1,0 +1,13 @@
+name = "[MTR4] Cityrail Trains"
+filename = "Cityrail_Trains.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DokJagWi/versions/Y1iXrQS2/Cityrail_Trains.zip"
+hash-format = "sha512"
+hash = "cff72d97bc7a0f105f0af52d295bd731b161799c18bd080e04c15be7747d31c0416d057c9cf0ab8acc8e445062fa87bdf5fc552fee103c51fe5858514d16101d"
+
+[update]
+[update.modrinth]
+mod-id = "DokJagWi"
+version = "Y1iXrQS2"

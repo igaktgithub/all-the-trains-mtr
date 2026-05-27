@@ -1,0 +1,13 @@
+name = "[MTR4] WAG9 Locomotive - Indian Railways"
+filename = "WAG9-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ftvwHiHt/versions/lR1TaF0g/WAG9-1.0.zip"
+hash-format = "sha512"
+hash = "7a2a34fe46eaba05997cc6fe83f5b40c693b3308ae909f47ebdb3c2746efbbc560f1de82c2c9d4939ec197a3a118ac83359d84bfb5c90f6e6ba24fe5c9095f6b"
+
+[update]
+[update.modrinth]
+mod-id = "ftvwHiHt"
+version = "lR1TaF0g"

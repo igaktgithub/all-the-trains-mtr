@@ -1,0 +1,13 @@
+name = "[MTR3] Vande Bharat (Train 18)"
+filename = "VB.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aBQz6IxC/versions/vWMOeURd/VB.zip"
+hash-format = "sha512"
+hash = "f2a2103e1e78fa69d86a70eebd94509b2e41132167d823ac2d279697de48b9aef688efa216cfb89ebe18e865ce439e7efc42a8f75f2d4621fec69af96b97e7f5"
+
+[update]
+[update.modrinth]
+mod-id = "aBQz6IxC"
+version = "vWMOeURd"

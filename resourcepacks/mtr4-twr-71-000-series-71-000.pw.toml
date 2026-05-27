@@ -1,0 +1,13 @@
+name = "[MTR4] TWR 71-000 series | 東京臨海高速鉄道71-000形"
+filename = "TWR_71-000_Series_V1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/F8rEqZQd/versions/ZX8xQzSZ/TWR_71-000_Series_V1.2.zip"
+hash-format = "sha512"
+hash = "825ca27799940161fc0ea8066d25c572194fae342f037a6894cc3a7f9bb3446daa82ce5b034f36ce4469bc825ea61b6c770ee53965bf3e4f25b54c7857ca0f20"
+
+[update]
+[update.modrinth]
+mod-id = "F8rEqZQd"
+version = "ZX8xQzSZ"

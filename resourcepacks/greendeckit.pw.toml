@@ -1,0 +1,13 @@
+name = "[MTR] GreenDEC風味キット/GreenDECkit"
+filename = "GreenDEC.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OYitu2py/versions/Bu6M0RHO/GreenDEC.zip"
+hash-format = "sha512"
+hash = "80a80dfbe3de0e8bd03d466faa1acd42588a371fa5b8e45a04a4ec38ae4d71dda222f0dbbf430f3a3c7887a30ab592b4b8d1b9a40a6272eee103fac18fc06145"
+
+[update]
+[update.modrinth]
+mod-id = "OYitu2py"
+version = "Bu6M0RHO"

@@ -1,0 +1,13 @@
+name = "[MTR4] mBus Redux"
+filename = "mBusRedux.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfQUAqVh/versions/X16iy3Jn/mBusRedux.zip"
+hash-format = "sha512"
+hash = "85bb30f36ba212e33062e54cc2e0eb05b76a1a49913133319cb57482fdcd3e77d6eaf76fa385e7b90ecb9bf4fda00bb680334ed3a05282cbc51c2467aa7ba91f"
+
+[update]
+[update.modrinth]
+mod-id = "HfQUAqVh"
+version = "X16iy3Jn"

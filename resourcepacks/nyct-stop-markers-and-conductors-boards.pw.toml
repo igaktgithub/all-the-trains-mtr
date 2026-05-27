@@ -1,0 +1,13 @@
+name = "NYCT Stop Markers and Conductor's Boards"
+filename = "NYCT Stop Markers and Conductors Boards.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CcO7gvOq/versions/U7pYYYq4/NYCT%20Stop%20Markers%20and%20Conductors%20Boards.zip"
+hash-format = "sha512"
+hash = "18b707191fb85d61ccb5191ed7a3210f427fd6833610c5253ad2a3d31f895f72f9dca2debd3fe87425cee391425c70bbccfff1641ff9f2c72b6fb1fc8e9e0fbc"
+
+[update]
+[update.modrinth]
+mod-id = "CcO7gvOq"
+version = "U7pYYYq4"

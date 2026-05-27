@@ -1,0 +1,13 @@
+name = "[MTR4] Stepford Connect Coaches"
+filename = "SCR Class 68 Coaches V1.0 MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AgDp1e7E/versions/id2860Mk/SCR%20Class%2068%20Coaches%20V1.0%20MTR4.zip"
+hash-format = "sha512"
+hash = "3c1d5e58e4252142d707de898b4a222d4eeb03acf9be2ec84a547143766a670e005d73df5513623e87f301f29617c0e4cc2eddb163ac8ef41ed02954c479186a"
+
+[update]
+[update.modrinth]
+mod-id = "AgDp1e7E"
+version = "id2860Mk"

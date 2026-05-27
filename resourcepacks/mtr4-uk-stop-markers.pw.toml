@@ -1,0 +1,13 @@
+name = "[MTR4] UK Stop Markers"
+filename = "UK Stop Markers.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yRkgBdGA/versions/Es2Mrn7B/UK%20Stop%20Markers.zip"
+hash-format = "sha512"
+hash = "103237357b4faae2d98baa591643bf6b12f65376a5bfbc14368d54f7d0d98951745850d9bead7174925ae85c6147c0d895f9789c23c97d7e9007b837b5fb70b3"
+
+[update]
+[update.modrinth]
+mod-id = "yRkgBdGA"
+version = "Es2Mrn7B"

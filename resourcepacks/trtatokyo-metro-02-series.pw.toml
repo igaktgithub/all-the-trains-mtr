@@ -1,0 +1,13 @@
+name = "TRTA/Tokyo Metro 02 Series"
+filename = "TRTA - Tokyo Metro 02 Series.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JKByMQnT/versions/i7arNWmj/TRTA%20-%20Tokyo%20Metro%2002%20Series.zip"
+hash-format = "sha512"
+hash = "b7861d93b15b7af8baf2bf430f3533861dac6803c2fd687722e1c074379b33fd287e7897e087fadf47fd6be261f9efd1011f2cd46deb9d0c0b664a04cd7267c3"
+
+[update]
+[update.modrinth]
+mod-id = "JKByMQnT"
+version = "i7arNWmj"

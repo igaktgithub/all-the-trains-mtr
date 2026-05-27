@@ -1,0 +1,13 @@
+name = "[MTR 4] Metro 802"
+filename = "Metro_802.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VRAy7md6/versions/7mq0HM0K/Metro_802.zip"
+hash-format = "sha512"
+hash = "5c8919df911cb2dee9cc1add4d6e13fe230d3eb011853bdad218f59822e37f4ba501a7f3fa3e3b793cbf3913e17aad664f88b136b971d6a872391363ec406e7f"
+
+[update]
+[update.modrinth]
+mod-id = "VRAy7md6"
+version = "7mq0HM0K"

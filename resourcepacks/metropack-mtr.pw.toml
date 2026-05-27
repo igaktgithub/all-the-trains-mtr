@@ -1,0 +1,13 @@
+name = "Metropack MTR"
+filename = "MP_MTR4_1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jEN85XK3/versions/XHrQKTP7/MP_MTR4_1.0.0.zip"
+hash-format = "sha512"
+hash = "236f369930b42473655ea6004ff5df54c8e07519d6dc42eb59e46af34313e6da45eb7d72112fb63ad2d904841411e9390b38a3e74fb7cff36927d3ac9212ec81"
+
+[update]
+[update.modrinth]
+mod-id = "jEN85XK3"
+version = "XHrQKTP7"

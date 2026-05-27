@@ -1,0 +1,13 @@
+name = "[MTR3/4]Innovia_metro_mark2"
+filename = "MTR_INNOVIA_Metro_Mark2_260401.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wT71fvwF/versions/Jp9KSV5b/MTR_INNOVIA_Metro_Mark2_260401.zip"
+hash-format = "sha512"
+hash = "ea8591a410a0c4db0c787f6cbeffaf71c5f7c8e8c4f1a6cfc7a86b614a0c87172ae08699a84450f9a34cb965d6c4c42b7fcbad7a29334d7c703dc1c6778813b9"
+
+[update]
+[update.modrinth]
+mod-id = "wT71fvwF"
+version = "Jp9KSV5b"

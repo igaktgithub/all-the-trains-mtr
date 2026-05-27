@@ -1,0 +1,13 @@
+name = "SMRT Eidan 9000 C151 [MTR4]"
+filename = "SMRT Eidan 9000 C151 [MTR4].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hyBIxiTg/versions/3VfQlXW2/SMRT%20Eidan%209000%20C151%20%5BMTR4%5D.zip"
+hash-format = "sha512"
+hash = "0daf250a1417967c3b083ec6b5d2276a5e07902e4a6e2bbd071006c182b0e96de8535e2b4dd6bb26e09017180faa69c721ebfbc88ed0613873b034567be8d149"
+
+[update]
+[update.modrinth]
+mod-id = "hyBIxiTg"
+version = "3VfQlXW2"

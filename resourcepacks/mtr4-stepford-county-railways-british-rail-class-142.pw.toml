@@ -1,0 +1,13 @@
+name = "[MTR4] Stepford County Railways British Rail Class 142"
+filename = "MTR4_SCR_Class142.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zHVwfR9j/versions/ha3sRgoj/MTR4_SCR_Class142.zip"
+hash-format = "sha512"
+hash = "36a24fa76b5c50c275c5d37a77b7616ce47befc5cc112aa588b193f3c4a3999e1a13da275378f1571f264ef71670b1c4f45d9fb472310c9069b11c6729d0a88a"
+
+[update]
+[update.modrinth]
+mod-id = "zHVwfR9j"
+version = "ha3sRgoj"

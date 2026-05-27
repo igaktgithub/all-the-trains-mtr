@@ -1,0 +1,13 @@
+name = "Ginza Line 1000 Series for MTR by Skywalker_6517"
+filename = "ginza_line_1000_series_final_20251216.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/56r234Gw/versions/XOvZ0w68/ginza_line_1000_series_final_20251216.zip"
+hash-format = "sha512"
+hash = "352b20501eef6e9d7cadc587e0978f5574beff598080f2fab3cd8c1182915f17e25ab32df925b264f9e9d62bc87caa9568404ba1dbf4282c56c16318c33b5cfe"
+
+[update]
+[update.modrinth]
+mod-id = "56r234Gw"
+version = "XOvZ0w68"

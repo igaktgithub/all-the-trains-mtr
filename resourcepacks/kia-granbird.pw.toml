@@ -1,0 +1,13 @@
+name = "[MTR4] Kia Granbird"
+filename = "Kia Granbird v2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hYZjaCgQ/versions/iB6jgmmF/Kia%20Granbird%20v2.1.zip"
+hash-format = "sha512"
+hash = "af154b58143c812d47714334ea501d77edde625db069a13263ddab9c743428ab339ac80df5df217a109b90214f69c86c1ad82a71c58ac0bf8bd464c6836d81ed"
+
+[update]
+[update.modrinth]
+mod-id = "hYZjaCgQ"
+version = "iB6jgmmF"

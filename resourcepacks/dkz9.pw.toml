@@ -1,0 +1,13 @@
+name = "[MTR3/4]Tianjin Metro Line 1 DKZ9 train"
+filename = "DKZ9_offi1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OIAGzlF4/versions/uyh2aNym/DKZ9_offi1.0.zip"
+hash-format = "sha512"
+hash = "768f9798da972b2b1cb816dfbcf1e3d403bc4e73aeb921b4a2d3b650d0fcad9dc7d21a2fb2a14eab059991e5e6eee3462cddb2cbe81969c38245f3549d5a0549"
+
+[update]
+[update.modrinth]
+mod-id = "OIAGzlF4"
+version = "uyh2aNym"

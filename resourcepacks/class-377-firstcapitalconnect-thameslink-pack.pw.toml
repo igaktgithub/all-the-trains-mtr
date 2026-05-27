@@ -1,0 +1,13 @@
+name = "Class 377/5 First Capital Connect/Thameslink Electrostar Pack"
+filename = "fcc_tl_377_5_pack_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nUQiZFru/versions/cLvPcfUt/fcc_tl_377_5_pack_mtr4.zip"
+hash-format = "sha512"
+hash = "3a47712d736544dc43e3f5cf053053d6c15a25cfc1f32a220264ab574cc65cc6222c7b6fc39529868a99b9d82af03c40eb39d9010c7b7a0db33469fb99904031"
+
+[update]
+[update.modrinth]
+mod-id = "nUQiZFru"
+version = "cLvPcfUt"

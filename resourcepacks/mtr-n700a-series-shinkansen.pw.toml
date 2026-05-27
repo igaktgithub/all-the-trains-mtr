@@ -1,0 +1,13 @@
+name = "[MTR] N700 Series Shinkansen"
+filename = "DEWON-N700_&_Kamome-4.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pUAiLZVY/versions/dpYEG5a8/DEWON-N700_%26_Kamome-4.0-MTR4.zip"
+hash-format = "sha512"
+hash = "0a93af482f9f1181dedfd3df85c4071322f76be2c76d086bf43edee16dcde7b55ac38d7ef357226cb3ade2e785288db7f7374a77f8c317263f94360f66fa2a9d"
+
+[update]
+[update.modrinth]
+mod-id = "pUAiLZVY"
+version = "dpYEG5a8"

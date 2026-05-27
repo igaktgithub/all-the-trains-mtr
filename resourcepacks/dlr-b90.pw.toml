@@ -1,0 +1,13 @@
+name = "DLR B90"
+filename = "DLR B90 V7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jq2IxSVE/versions/R92sdAE5/DLR%20B90%20V7.zip"
+hash-format = "sha512"
+hash = "872a6e168d647bc9ede7c40476f94b8d95ab6408195e460cda0e1a9f0777451fa23bcd155bf36eeb37ed7c1216fb1db18567738968bae7bed42360629fba0d49"
+
+[update]
+[update.modrinth]
+mod-id = "jq2IxSVE"
+version = "R92sdAE5"

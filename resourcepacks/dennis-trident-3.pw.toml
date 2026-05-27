@@ -1,0 +1,13 @@
+name = "[MTR4] 丹尼士三叉戟三型 | Dennis Trident 3"
+filename = "Dennis_Trident_3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GvjyY9US/versions/kGwv9BKe/Dennis_Trident_3.zip"
+hash-format = "sha512"
+hash = "727cac9235fe8a5820a368006828b6106f9b15e50020bdb81c90b2bc256082880cd4bbca759a7356639e337f915a4e9ca6a7892209291e6c80cd50ceeb378059"
+
+[update]
+[update.modrinth]
+mod-id = "GvjyY9US"
+version = "kGwv9BKe"

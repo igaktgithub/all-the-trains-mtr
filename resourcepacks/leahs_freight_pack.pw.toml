@@ -1,0 +1,13 @@
+name = "Leah's Freight Pack"
+filename = "Leah's Freight Pack v1.0.0-hotfix2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bJsUynk6/versions/BqdO6AgX/Leah%27s%20Freight%20Pack%20v1.0.0-hotfix2.zip"
+hash-format = "sha512"
+hash = "0522fbaf36c25017e570ea142cdae70260dfd410449a851d86fb2075a1ed717a4b369744f0fb175d7d0415ff972fe743a61cbc37ab914a6183aa5818ac4ca7b2"
+
+[update]
+[update.modrinth]
+mod-id = "bJsUynk6"
+version = "BqdO6AgX"

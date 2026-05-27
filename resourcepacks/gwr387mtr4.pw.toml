@@ -1,0 +1,13 @@
+name = "(MTR4) GWR Great Western Railway Class 387/377 Electrostar"
+filename = "mtr4_great_western_railway_class_387.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Df8CPN3x/versions/4stQgtGP/mtr4_great_western_railway_class_387.zip"
+hash-format = "sha512"
+hash = "8e7f3bc6638f58d51966f0d72470420acfd5fdc2641273ebd3c41adf0cf259ca3870c6e57c89275a93ff24a5d02873a9e9c1ae325d1b75b5203078a1c8e34b6e"
+
+[update]
+[update.modrinth]
+mod-id = "Df8CPN3x"
+version = "4stQgtGP"

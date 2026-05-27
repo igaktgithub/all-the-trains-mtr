@@ -1,0 +1,13 @@
+name = "[MTR4] KTRC Generic Stock"
+filename = "KTRC Generic Stock.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DnzPwQ2b/versions/UpQUXKhq/KTRC%20Generic%20Stock.zip"
+hash-format = "sha512"
+hash = "88b3b60fb581fc26b692d96a71abb5de8005a584e860a83b127cddf0ce4f6fd2f7d5fa8dcd380b7a4c415141a66c6d4832118afac4f99f219bd3b9bf74c8b631"
+
+[update]
+[update.modrinth]
+mod-id = "DnzPwQ2b"
+version = "UpQUXKhq"

@@ -1,0 +1,13 @@
+name = "SCR Repaints By Skywalker - 170, 357, 377, 458, 700, 717"
+filename = "SCR Connect Retextured Trains (1).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yUxKzkbS/versions/F08pckRi/SCR%20Connect%20Retextured%20Trains%20%281%29.zip"
+hash-format = "sha512"
+hash = "d53ce103285fb75bdf454de295aaadb71bdb5024ad1a2b2a17ff3a7f553109fcf99bee5e4426122012ee936ad61edb20383a6dc0725b8679f961a2f39841c590"
+
+[update]
+[update.modrinth]
+mod-id = "yUxKzkbS"
+version = "F08pckRi"

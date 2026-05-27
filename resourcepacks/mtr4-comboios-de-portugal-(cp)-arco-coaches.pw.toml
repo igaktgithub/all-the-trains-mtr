@@ -1,0 +1,13 @@
+name = "[MTR4] Comboios de Portugal (CP) ARCO Coaches"
+filename = "ARCO_COACHES_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vUk53NlF/versions/95JAnzTm/ARCO_COACHES_MTR4.zip"
+hash-format = "sha512"
+hash = "2563d76fe692954324cd1a363846a291c34f62af38e6b4c7517cff30ea82e67084eb2b4816990180e70c9b2ea61141973672835c28a482e0876e6b6247e42e16"
+
+[update]
+[update.modrinth]
+mod-id = "vUk53NlF"
+version = "95JAnzTm"

@@ -1,0 +1,13 @@
+name = "Southeastern Class 350"
+filename = "Southeastern Class 350.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/COX4DbhH/versions/AlU4i16Z/Southeastern%20Class%20350.zip"
+hash-format = "sha512"
+hash = "b8c7e11ecfbe84ac85c6236b24c108f25aa1a97432db15d6258dbf1509e0b14c2ab3a11da4100dbfb6c66901ea6498281f83db9f320755e8957157170981dc01"
+
+[update]
+[update.modrinth]
+mod-id = "COX4DbhH"
+version = "AlU4i16Z"

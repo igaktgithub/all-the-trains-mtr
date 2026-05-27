@@ -1,0 +1,13 @@
+name = "Tokyu 3000 Series | 東急3000系"
+filename = "Tokyu_3000_Series_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dp00tbAC/versions/yAleynVt/Tokyu_3000_Series_V1.0.zip"
+hash-format = "sha512"
+hash = "e456fe92291a070d2e746bf84c9a0b16ac8a7a16c118664289e6fca0732468fe34062de2cb5c2ea0a976be462e6bb2b97addb4ffb7716afbe22fadb6d4a8a279"
+
+[update]
+[update.modrinth]
+mod-id = "dp00tbAC"
+version = "yAleynVt"

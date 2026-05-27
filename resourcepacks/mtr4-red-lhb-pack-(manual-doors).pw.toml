@@ -1,0 +1,13 @@
+name = "[MTR4] Red LHB Coaches Pack (Manual Doors)"
+filename = "Red-LHB-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TByE0bC7/versions/IX8BUXzr/Red-LHB-1.0.zip"
+hash-format = "sha512"
+hash = "5e6cca1fc1f1316ed86bf27a0fe3ed3ae2ea96ebd8db5422856b6a032d05e98463935e169024f94ce06e88e620a62f3a8a01c768e97594ab1c94cb350041f6ac"
+
+[update]
+[update.modrinth]
+mod-id = "TByE0bC7"
+version = "IX8BUXzr"

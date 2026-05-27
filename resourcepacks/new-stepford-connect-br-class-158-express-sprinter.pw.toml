@@ -1,0 +1,13 @@
+name = "New Stepford Connect BR Class 158 Express Sprinter"
+filename = "Stepford_Connect_New_Class_158_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7QnWOmbR/versions/dpEKP1Xi/Stepford_Connect_New_Class_158_MTR4.zip"
+hash-format = "sha512"
+hash = "ea6c8f5ff1b2b59051697e03f40fe89a48614ec92ac9e521d562f039b74fdc59d99a08d7fd295c4609926f580870e5b1bf45c62c00d4df5d4285ba78e4d5b69a"
+
+[update]
+[update.modrinth]
+mod-id = "7QnWOmbR"
+version = "dpEKP1Xi"

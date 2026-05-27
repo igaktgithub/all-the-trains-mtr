@@ -1,0 +1,13 @@
+name = "[MTR4] Lint 54 Pack"
+filename = "[MTR4] Lint 54 Pack BETA 2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JpXcseaf/versions/3F852XiY/%5BMTR4%5D%20Lint%2054%20Pack%20BETA%202.zip"
+hash-format = "sha512"
+hash = "d3640d0374495beb2eea676e26f0ef16f491b859a5fd28b738024c62c9c102666ce7a34eee6bdb00fa110b67810fdfbf1be98927602b6540296d4379fe1551de"
+
+[update]
+[update.modrinth]
+mod-id = "JpXcseaf"
+version = "3F852XiY"

@@ -1,0 +1,13 @@
+name = "Southeastern Class 375 mtrv4"
+filename = "Southeastern Class 375.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CRBZYlCK/versions/DQZkROgo/Southeastern%20Class%20375.zip"
+hash-format = "sha512"
+hash = "3a33dcd0468c69d605122ed8f947229bfdc8010db500e9454b71c7f8af96b95805e7f72ab438b16df308e875476f5075702672daab5a317ea822ca4858c5bd14"
+
+[update]
+[update.modrinth]
+mod-id = "CRBZYlCK"
+version = "DQZkROgo"

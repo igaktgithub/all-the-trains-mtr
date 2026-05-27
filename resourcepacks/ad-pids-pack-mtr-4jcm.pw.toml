@@ -1,0 +1,13 @@
+name = "Ad PIDS-Pack [MTR 4/JCM]"
+filename = "advertisement-pids_beta-2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XErD3JR5/versions/1Twmuv78/advertisement-pids_beta-2.zip"
+hash-format = "sha512"
+hash = "1b93163ece1cc257c217bc304aada8fb952c8c495a5a6a72fef0ae48cee9f0269e48fb3fe1201bd83ea5813fb82f3acef9aa60e844a83aa27a6a4cf762b9108f"
+
+[update]
+[update.modrinth]
+mod-id = "XErD3JR5"
+version = "1Twmuv78"

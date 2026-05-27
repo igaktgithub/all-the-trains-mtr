@@ -1,0 +1,13 @@
+name = "[MTR] Berlin GI1E"
+filename = "BVG_GI1E_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IyCZUS48/versions/wrg1sQCw/BVG_GI1E_V1.0.zip"
+hash-format = "sha512"
+hash = "ddd4371badf1ed7a200caf19d681ac25421608abfe8a4c7aaa806adc9ab0ee3209981b1670bece149a7653f30ca45fb19ce60234aa2dd0c9c1ea7f3c51c1f007"
+
+[update]
+[update.modrinth]
+mod-id = "IyCZUS48"
+version = "wrg1sQCw"

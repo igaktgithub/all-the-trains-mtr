@@ -1,0 +1,13 @@
+name = "[MTR4] British Rail Class 800 Series"
+filename = "LNER_azuma_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uX3VZBa0/versions/niu3V3FO/LNER_azuma_MTR4.zip"
+hash-format = "sha512"
+hash = "ce2ff19403bfff073b4cdb6aa4afb3450b28c895265df731c72fad3b7b806dce503b172dd5b381c7a50f0e337f00db7208e8f8c40b65388b90569bbdb72ccca1"
+
+[update]
+[update.modrinth]
+mod-id = "uX3VZBa0"
+version = "niu3V3FO"

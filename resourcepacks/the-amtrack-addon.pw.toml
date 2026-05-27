@@ -1,0 +1,13 @@
+name = "[MTR4] The Amtrak addon"
+filename = "The Amtrak Train Addon.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KzH6YAe2/versions/c6w8fVti/The%20Amtrak%20Train%20Addon.zip"
+hash-format = "sha512"
+hash = "c040e9bf1b8cd62f8b4461768e97923ef9dc546b2205adaf17297bf25b419d3cb814d28b966703c87cd3a1249da6fd82050893e69023e8c4505130894819b082"
+
+[update]
+[update.modrinth]
+mod-id = "KzH6YAe2"
+version = "c6w8fVti"

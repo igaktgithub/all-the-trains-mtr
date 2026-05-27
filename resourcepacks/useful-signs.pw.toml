@@ -1,0 +1,13 @@
+name = "Useful Signs"
+filename = "Useful Signs 1.1-alpha2-1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q2RFW7hx/versions/nDh0Ze6o/Useful%20Signs%201.1-alpha2-1.20.1.zip"
+hash-format = "sha512"
+hash = "c94e0806473447aa8b78b3648b7aac5167123536afdf68d558a49c2d0e698c1c763a828bcd80b38329674f02f49b0b6c45c3c6929c1cfb0333b420ed54859514"
+
+[update]
+[update.modrinth]
+mod-id = "q2RFW7hx"
+version = "nDh0Ze6o"

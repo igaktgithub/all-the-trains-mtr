@@ -1,0 +1,13 @@
+name = "Bombardier Movia 346"
+filename = "Bombardier Movia 346.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KVunWybG/versions/lpF0vHQN/Bombardier%20Movia%20346.zip"
+hash-format = "sha512"
+hash = "b3dcb465da88f13f5af8ed2a1a918123241278ff39a66f50ea4f710de86321de75d05de8cce7f9cba879f9154fa51f6cbd321dfe98822a29f4452cf0f4d18137"
+
+[update]
+[update.modrinth]
+mod-id = "KVunWybG"
+version = "lpF0vHQN"

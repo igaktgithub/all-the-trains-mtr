@@ -1,0 +1,13 @@
+name = "[MTR]LighTRain_露"
+filename = "LighTRain_露.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/I3uz0Von/versions/sCsbKkSY/LighTRain_%E9%9C%B2.zip"
+hash-format = "sha512"
+hash = "c78a20a15a50b99e3fb2b5bd9eada2058e0582af1bc13f0404bd1f02c9292ef0a83dc4f047e531a2b0658e3c9c0742167c733c299ab1cdc3669bbbe91700557c"
+
+[update]
+[update.modrinth]
+mod-id = "I3uz0Von"
+version = "sCsbKkSY"

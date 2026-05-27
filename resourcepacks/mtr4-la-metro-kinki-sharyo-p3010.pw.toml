@@ -1,0 +1,13 @@
+name = "[MTR4] LA Metro - Kinki Sharyo P3010"
+filename = "P3010-V1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RoNxmSUz/versions/YJQwxRSC/P3010-V1.zip"
+hash-format = "sha512"
+hash = "ef8d384ade827505f049e340ae758e4e97464a839833b5df11920c032e98811f580787787e189e68aeb67755b7a17fca5ef19b9b65ac6764257687ea3684c77d"
+
+[update]
+[update.modrinth]
+mod-id = "RoNxmSUz"
+version = "YJQwxRSC"

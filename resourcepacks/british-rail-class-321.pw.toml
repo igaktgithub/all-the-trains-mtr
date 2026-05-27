@@ -1,0 +1,13 @@
+name = "[MTR3/4] British Rail Class 321"
+filename = "BR_Class_321_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fopD5Rmy/versions/FEwtMGZL/BR_Class_321_MTR4.zip"
+hash-format = "sha512"
+hash = "2c9af6f7bb2666a0e79f7461d6af38a17456b68167c7c28825b108648ed634c0fd6d4524d77de1bfeb397f7147816196821f52f5c2452d3450616ea5109720b7"
+
+[update]
+[update.modrinth]
+mod-id = "fopD5Rmy"
+version = "FEwtMGZL"

@@ -1,0 +1,13 @@
+name = "[PREVIEW ONLY] Shinkansen E5 for Minecraft Transit Railway"
+filename = "e5_shinkansen_exterior_test.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m2NUHGzG/versions/L4fmfirj/e5_shinkansen_exterior_test.zip"
+hash-format = "sha512"
+hash = "5a5acad382f014ae3d84fe4856b00af4b38c6931ae04c5a7341dd343c17499a7003ef63e6fcd37d6be0802ad6186738e22976858c1a19c5ffafd9aa57270dc78"
+
+[update]
+[update.modrinth]
+mod-id = "m2NUHGzG"
+version = "L4fmfirj"

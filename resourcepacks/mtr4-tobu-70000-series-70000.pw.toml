@@ -1,0 +1,13 @@
+name = "[MTR4] Tobu 70000 Series | 東武70000系"
+filename = "Tobu_70000_Series_V1.0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LdoDGJDT/versions/QoG62pGg/Tobu_70000_Series_V1.0.2.zip"
+hash-format = "sha512"
+hash = "b4592e3ade405664286add087e920521caae4d7621145e8aeea1c98a5baa20fc81e902a6608bef0995ac37f0ef5f5b6bdf1218be812fa5dace227bd3c5e95633"
+
+[update]
+[update.modrinth]
+mod-id = "LdoDGJDT"
+version = "QoG62pGg"

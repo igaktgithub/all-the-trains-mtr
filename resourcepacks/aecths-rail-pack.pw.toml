@@ -1,0 +1,13 @@
+name = "[MTR4] Aecth's Rail Pack"
+filename = "Aecth's Rail Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bkOxeQfP/versions/x9u0QvsL/Aecth%27s%20Rail%20Pack.zip"
+hash-format = "sha512"
+hash = "1a076d0f697dfc668e207484f2c1fee69512f9c01b6e245a147638001fcf9877ab7e9cf74080490f6c0e67f981ed6acc0c685e32d666a986324ab928ae2d9578"
+
+[update]
+[update.modrinth]
+mod-id = "bkOxeQfP"
+version = "x9u0QvsL"

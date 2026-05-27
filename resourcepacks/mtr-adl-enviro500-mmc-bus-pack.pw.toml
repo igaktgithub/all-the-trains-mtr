@@ -1,0 +1,13 @@
+name = "[MTR] ADL Enviro500 MMC Bus Pack"
+filename = "enviro_500_mmc_128m_pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dNxaUuzi/versions/HBM3CLMe/enviro_500_mmc_128m_pack.zip"
+hash-format = "sha512"
+hash = "1c76a11b45f5de9a64791289ec4da2b8a232c56225295b6f26e0b92c5032067484731e15e03c0208cd30908cc027eb3e83d95af9348c74c05139bb44c3433206"
+
+[update]
+[update.modrinth]
+mod-id = "dNxaUuzi"
+version = "HBM3CLMe"

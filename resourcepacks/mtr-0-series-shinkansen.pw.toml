@@ -1,0 +1,13 @@
+name = "[MTR] 0 Series Shinkansen"
+filename = "DEWON-0-Series-1.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OEHVbVy9/versions/O8o3K600/DEWON-0-Series-1.0-MTR4.zip"
+hash-format = "sha512"
+hash = "aae67e0377b1f17d5e9f334fd43088252399bbaf1030d432b11308c62f3efa46c6837af92e09aa9547c825d77a18d3559f8b5a09dbb4e8962d1121adde0e75ba"
+
+[update]
+[update.modrinth]
+mod-id = "OEHVbVy9"
+version = "O8o3K600"

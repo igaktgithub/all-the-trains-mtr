@@ -1,0 +1,13 @@
+name = "[MTR4] SCR Airlink Class 802"
+filename = "SCR Airlink Class 802 V1.0 MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8943qk7d/versions/liIdprgR/SCR%20Airlink%20Class%20802%20V1.0%20MTR4.zip"
+hash-format = "sha512"
+hash = "36fc3e30bab357a3f8e8e8f55e3a27c38cf7b02c23a6e6bd24986e435c2ba05d461718a12ab8ff8007d42ee279bb6d0f782677b7dcde5a823659435f5a2f5775"
+
+[update]
+[update.modrinth]
+mod-id = "8943qk7d"
+version = "liIdprgR"

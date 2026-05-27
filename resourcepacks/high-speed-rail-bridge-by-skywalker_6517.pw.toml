@@ -1,0 +1,13 @@
+name = "High Speed Rail Bridge (with Pillars) - By Skywalker_6517"
+filename = "Skywalker_6517's HSR Bridge Pack (With pillars included)-2025-11-15-version.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jXWC1A1T/versions/r9fSTyg9/Skywalker_6517%27s%20HSR%20Bridge%20Pack%20%28With%20pillars%20included%29-2025-11-15-version.zip"
+hash-format = "sha512"
+hash = "b19ae92b08cfd604cfc4b901f4b23b1830abd339ba01a92fe3d466268bb2579a1a02c2858e06f76ccb9fb009c7658af3a05d767f1c419c67ab584a6f7a9fe595"
+
+[update]
+[update.modrinth]
+mod-id = "jXWC1A1T"
+version = "r9fSTyg9"

@@ -1,0 +1,13 @@
+name = "[MTR] KTX-1"
+filename = "DEWON-KTX-1-MTR4-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KKIYFG3Z/versions/ZPO7OwHt/DEWON-KTX-1-MTR4-1.0.zip"
+hash-format = "sha512"
+hash = "be0cbca8f9a57846e579fdd5158ae35b73ca98aa77741b3bfc868a836de7b3a1a00e7fb7b936b369154659120b2c45ad1aedb52a365f4f949bacec9dcba3b39d"
+
+[update]
+[update.modrinth]
+mod-id = "KKIYFG3Z"
+version = "ZPO7OwHt"

@@ -1,0 +1,13 @@
+name = "Chiba Monorail Pack MTR"
+filename = "Chiba_Monorail_Pack_v1.5.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O6KolxVy/versions/7ZHY3ISf/Chiba_Monorail_Pack_v1.5.0.zip"
+hash-format = "sha512"
+hash = "4f52dfe557d400c8e79645409e5c02bfdf56c86030ed0a31d118933ad520d011784c2af743f34fc5e4a8a323a48561c943a8fa423ee727fe981a999b6a2245d4"
+
+[update]
+[update.modrinth]
+mod-id = "O6KolxVy"
+version = "7ZHY3ISf"

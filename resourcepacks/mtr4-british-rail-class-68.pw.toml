@@ -1,0 +1,13 @@
+name = "[MTR4] British Rail Class 68"
+filename = "Class68_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/a1VTejC2/versions/Gycdylqe/Class68_MTR4.zip"
+hash-format = "sha512"
+hash = "4d8ce4e53c5070ff1596eb4c3e65bb26264ab4c0680ec8587bc864beae458103907817e6983092d2dc083e6166711049c1b216de551cff412a9a8a8f39a7e968"
+
+[update]
+[update.modrinth]
+mod-id = "a1VTejC2"
+version = "Gycdylqe"

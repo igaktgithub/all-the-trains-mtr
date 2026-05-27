@@ -1,0 +1,13 @@
+name = "[MTR4] British Rail Class 205 Thumper"
+filename = "class 205 final-20250606-235203.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1V1eiKyc/versions/3gcgB8sd/class%20205%20final-20250606-235203.zip"
+hash-format = "sha512"
+hash = "386b50e7d5c2d5f1d105b5eaddfc0213415be314d566e757d8975d1fe754e9c49141f0563be5da41e5df244013df671656a9a77d1f7e4915c3c720191aa51001"
+
+[update]
+[update.modrinth]
+mod-id = "1V1eiKyc"
+version = "3gcgB8sd"

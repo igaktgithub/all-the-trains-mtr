@@ -1,0 +1,13 @@
+name = "Actron's Guided Busway"
+filename = "Actrons Guided Busway.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LGzvdWht/versions/IidWjJdJ/Actrons%20Guided%20Busway.zip"
+hash-format = "sha512"
+hash = "676d4cfdc4f65894017dfa7590507195962c2da72f713206298f650094bd8a08875841f1a370ce559c8bfa6e491e0a5132d0b7ce60a836106322a928135b2463"
+
+[update]
+[update.modrinth]
+mod-id = "LGzvdWht"
+version = "IidWjJdJ"

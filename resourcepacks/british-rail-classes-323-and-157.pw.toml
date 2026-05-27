@@ -1,0 +1,13 @@
+name = "[MTR3/4] British Rail Classes 323 & 157"
+filename = "BR Class 323.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/upyW0R5C/versions/Spd7q34b/BR%20Class%20323.zip"
+hash-format = "sha512"
+hash = "acf8bcb944797bcab53f9eed122f87c0b45b9a3961e317f125fefff48924c63fdec68bfdb440196da97a7288babe4521504c79bbd2a750450d265dce1e4b91c7"
+
+[update]
+[update.modrinth]
+mod-id = "upyW0R5C"
+version = "Spd7q34b"

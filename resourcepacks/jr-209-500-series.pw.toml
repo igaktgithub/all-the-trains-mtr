@@ -1,0 +1,13 @@
+name = "[MTR3/4] 209系500番台|JR 209-500 series"
+filename = "209-500-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAOLjlRH/versions/EHn0co68/209-500-MTR4.zip"
+hash-format = "sha512"
+hash = "2a8d309d7567a826f4c6ab870e669d5b0fbe0829afb90d74b81bcfb626c641299c3ed849132353b34915962aeb0b86d32e6080f3c7be38e2831c9f230ff0bac8"
+
+[update]
+[update.modrinth]
+mod-id = "IAOLjlRH"
+version = "EHn0co68"

@@ -1,0 +1,13 @@
+name = "【MTR3/4】JR西日本207系1000番台|JR West 207-1000 Series"
+filename = "JRW-207-1000_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lPep6W3I/versions/U2L7im00/JRW-207-1000_MTR4.zip"
+hash-format = "sha512"
+hash = "de49a646947be13d76049a2a8bcc5937ffda71acccd25c773e287c53485fd3602c34d0503ab7310f55aecda2cd9607e0d659589f8a17b91c7fae5a27c1588d49"
+
+[update]
+[update.modrinth]
+mod-id = "lPep6W3I"
+version = "U2L7im00"

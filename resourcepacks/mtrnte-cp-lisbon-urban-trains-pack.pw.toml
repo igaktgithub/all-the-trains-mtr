@@ -1,0 +1,13 @@
+name = "[MTR3/4] CP Lisbon Suburban Trains Pack"
+filename = "CP_Lisboa_trains_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nY4Zinc4/versions/jJk36JEy/CP_Lisboa_trains_MTR4.zip"
+hash-format = "sha512"
+hash = "a6e2059f602db63f12c36df409fece5bc47e1c2664c66d8e900ad8b06f220203e47239c94729d8131e2d2ed713e18f994669bf9504062f31d8252910040a11c5"
+
+[update]
+[update.modrinth]
+mod-id = "nY4Zinc4"
+version = "jJk36JEy"

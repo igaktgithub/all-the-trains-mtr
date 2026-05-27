@@ -1,0 +1,13 @@
+name = "MTR Austrian Express Collection 1 Pack [BETA Phase]"
+filename = "Austrian Express Collection 1 Pack [BETA 1].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nPH0nAO5/versions/JbCvChou/Austrian%20Express%20Collection%201%20Pack%20%5BBETA%201%5D.zip"
+hash-format = "sha512"
+hash = "e2f020ad5da3102a163e20d4c4bed6ee0cd868e49daca8cb3e960d63146474246b3b1b46f66c83f3cff39471528b283b47d1b6bb7e9c003c807ad2eaea722172"
+
+[update]
+[update.modrinth]
+mod-id = "nPH0nAO5"
+version = "JbCvChou"

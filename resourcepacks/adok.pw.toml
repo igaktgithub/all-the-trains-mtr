@@ -1,0 +1,13 @@
+name = "Adok"
+filename = "Adok.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PMdMsqwS/versions/ex9wCX8Z/Adok.zip"
+hash-format = "sha512"
+hash = "0ff0a7ff76dc07ed6c3354e397b0c0966e4ad76bc54b4ad68ffeeb4598b283c1d66a721b4af5578e1f14128eed0a5f510cb030543ffcc1ec3e74fed6d9379f84"
+
+[update]
+[update.modrinth]
+mod-id = "PMdMsqwS"
+version = "ex9wCX8Z"

@@ -1,0 +1,13 @@
+name = "[MTR] ETR 470"
+filename = "DEWON-ETR470-1.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JHDlxdcJ/versions/IExt2LaB/DEWON-ETR470-1.0-MTR4.zip"
+hash-format = "sha512"
+hash = "be2562c01e5aa80b65bc0868c8d5e0707d1455ed3752d702c17ec3e1c6552bbaffe760d90dd251ecbdda6216e6feca6db5e8fff9881a44c15ecba6e083488f4a"
+
+[update]
+[update.modrinth]
+mod-id = "JHDlxdcJ"
+version = "IExt2LaB"

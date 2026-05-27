@@ -1,0 +1,13 @@
+name = "[MTR4] EuroTram - Metro do Porto"
+filename = "EuroTram - Metro do Porto.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O04ty8t0/versions/tqEt7pjm/EuroTram%20-%20Metro%20do%20Porto.zip"
+hash-format = "sha512"
+hash = "89b2e791ce171eeb508d26912fe3f842ddb138bce97c7ac954ca0dd30c849d1974f39dce9e85f6c3080474d9e0cc57701aeef0e24886ac615db1c60bbfd0e09c"
+
+[update]
+[update.modrinth]
+mod-id = "O04ty8t0"
+version = "tqEt7pjm"

@@ -1,0 +1,13 @@
+name = "[MTR4]NS Trains Pack"
+filename = "MTR4_NS_trains_260306.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jfuQ1gIp/versions/AmLqMT48/MTR4_NS_trains_260306.zip"
+hash-format = "sha512"
+hash = "88dc91e2cc39316b35240aa454c21617f2d7f152f165ed0968ccf181dda3b122b2614f5856d4e4f2f02b76c7c779c1e9fa66d9ff763f0a584cbe7ddae76c1428"
+
+[update]
+[update.modrinth]
+mod-id = "jfuQ1gIp"
+version = "AmLqMT48"

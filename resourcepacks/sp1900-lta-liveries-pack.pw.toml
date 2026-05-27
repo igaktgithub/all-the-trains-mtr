@@ -1,0 +1,13 @@
+name = "SP1900 LTA Liveries Pack [MTR4]"
+filename = "SP1900_LTA v1 (Public Ver) [AbsurdlySmrt].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H2hay33w/versions/drppdpBr/SP1900_LTA%20v1%20%28Public%20Ver%29%20%5BAbsurdlySmrt%5D.zip"
+hash-format = "sha512"
+hash = "46d3ff4035a246248ae28cf21ad572aa9089b424e69d5f6ab1acb5656a716ed128fb95b63089bdee404517e0b266a051bd2231380ab8f13b58d6c84e2f85a035"
+
+[update]
+[update.modrinth]
+mod-id = "H2hay33w"
+version = "drppdpBr"

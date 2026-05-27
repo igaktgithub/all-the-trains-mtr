@@ -1,0 +1,13 @@
+name = "[MTR 4] Airlink Shuttle 345"
+filename = "Airlink_Shuttle_345 1.0.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KyLFi2Hg/versions/ChJ4CQF6/Airlink_Shuttle_345%201.0.5.zip"
+hash-format = "sha512"
+hash = "2cd8484fcb5ec21f4c1668083d57af7e9338d252e9c739f384229e94dc4cab67cb1432a1eaba1a21ddc35a42cd877735e48064a9ab070e96b42f22c6cd538c9e"
+
+[update]
+[update.modrinth]
+mod-id = "KyLFi2Hg"
+version = "ChJ4CQF6"

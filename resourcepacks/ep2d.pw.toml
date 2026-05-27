@@ -1,0 +1,13 @@
+name = "ЭП2Д addon for MTR"
+filename = "ep2d_main.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uYpeFUfw/versions/pjSEyBKb/ep2d_main.zip"
+hash-format = "sha512"
+hash = "6b84ef6c6df9220df9c6ac9857abb7005fc6a35b461c2e7f5253b7306b09c5177e13ac18bf5ab1d2097778c6925c9a51340cc39c97c9ef196e30b219b3e2e3ba"
+
+[update]
+[update.modrinth]
+mod-id = "uYpeFUfw"
+version = "pjSEyBKb"

@@ -1,0 +1,13 @@
+name = "Met  Transit Pids Pack (MTR 4)"
+filename = "met transit.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BBNlDdPs/versions/Vn1QvYev/met%20transit.zip"
+hash-format = "sha512"
+hash = "d472b517e03800eb63653e35b5c806abbdb9a039fc8990390f3ead63a19ff700a33295c414943823964a4b0f7a7e0ffd26a37e0f1dfd1cfaf3e51fd239135139"
+
+[update]
+[update.modrinth]
+mod-id = "BBNlDdPs"
+version = "Vn1QvYev"

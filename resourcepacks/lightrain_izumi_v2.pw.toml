@@ -1,0 +1,13 @@
+name = "LighTRain_泉_V2"
+filename = "LighTRain_泉_V2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XvaZWloz/versions/Iibe6pID/LighTRain_%E6%B3%89_V2.zip"
+hash-format = "sha512"
+hash = "36129d8fba2e760b3ef366521da927af2cbc8c7afd6d827f83188659b0076224860a86232b1335985fe20e41897f69fce04d8b03aad0ea82ebfae4749be6d055"
+
+[update]
+[update.modrinth]
+mod-id = "XvaZWloz"
+version = "Iibe6pID"

@@ -1,0 +1,13 @@
+name = "[MTR4] WMATA 7000 Series"
+filename = "WMATA 7000 Series.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aeZmwUGu/versions/wObrGAuW/WMATA%207000%20Series.zip"
+hash-format = "sha512"
+hash = "90cb8fb777253271b98e628e1c349e3cb33f438510521cbaf758b201255506dd0cba74f0c9c904b843a362957751f35470bd9e5778cfedbdca015ae419416b4f"
+
+[update]
+[update.modrinth]
+mod-id = "aeZmwUGu"
+version = "wObrGAuW"

@@ -1,0 +1,13 @@
+name = "[MTR4] British Rail Class 180 Adelante pack"
+filename = "Class 180 MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kkkLlsHX/versions/AASp8tLS/Class%20180%20MTR4.zip"
+hash-format = "sha512"
+hash = "afeba5160d798798ebf8decc5dfae0df6a4cbfe78bbdee8d48e324e1683c4fa0be169cac1e4e90b034f660e24e24a16ac339282aed46949cfb508197d8aed576"
+
+[update]
+[update.modrinth]
+mod-id = "kkkLlsHX"
+version = "AASp8tLS"

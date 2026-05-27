@@ -1,0 +1,13 @@
+name = "[MTR4] Slumbering Tartarus's MTR4 Vehicles"
+filename = "v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tM6SL5bS/versions/T14wYogQ/v1.0.zip"
+hash-format = "sha512"
+hash = "e7706618f8464951169b8639125de35c60d17106cb704fb5521e0ac594d7d0ab72f65506f421bbcedc5e4b7bd37fc440fd1f17afa30f25690b55e8e78dd304b0"
+
+[update]
+[update.modrinth]
+mod-id = "tM6SL5bS"
+version = "T14wYogQ"

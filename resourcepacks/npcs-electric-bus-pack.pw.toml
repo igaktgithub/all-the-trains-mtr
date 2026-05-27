@@ -1,0 +1,13 @@
+name = "NPC's Electric Bus Pack"
+filename = "NPCs_Electric_Bus_Pack_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zIz29nik/versions/ccqajZyT/NPCs_Electric_Bus_Pack_V1.0.zip"
+hash-format = "sha512"
+hash = "880c282fcc22030992224852816444db863cc6c946038c0d492ab8ce9f2c74dc781880df028b11ed26ac8b01abf21e1c481ad15c82a8fb20087c8de1721ebd92"
+
+[update]
+[update.modrinth]
+mod-id = "zIz29nik"
+version = "ccqajZyT"

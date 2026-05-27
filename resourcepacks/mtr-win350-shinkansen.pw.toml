@@ -1,0 +1,13 @@
+name = "[MTR] WIN350 | Class 500-900 Shinkansen"
+filename = "DEWON-WIN350-1.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OBTTko9m/versions/J7B8Icbj/DEWON-WIN350-1.0-MTR4.zip"
+hash-format = "sha512"
+hash = "5eb37f68947af12e75e98931405e621f6acc6271fce6347ee8361dc0c53f4caee14b0ca667f69d400d6da540cbc019fd0d41c684ebd76129dec58e7bfc3ee761"
+
+[update]
+[update.modrinth]
+mod-id = "OBTTko9m"
+version = "J7B8Icbj"

@@ -1,0 +1,13 @@
+name = "[MTR4] UK LED PIDS"
+filename = "UK_LED_PIDS_Pack_v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TCa1eaW7/versions/MqJuMI9l/UK_LED_PIDS_Pack_v1.zip"
+hash-format = "sha512"
+hash = "c3bfc82b94cc2dbb2fb52f8c3664f22de34ba79e17ec3402607fd360d02e47a3b64ebde5eac2f61d9f0cf6e176397504ef252235d0f3b4ffad0e77958972958a"
+
+[update]
+[update.modrinth]
+mod-id = "TCa1eaW7"
+version = "MqJuMI9l"

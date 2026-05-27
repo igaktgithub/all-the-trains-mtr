@@ -1,0 +1,13 @@
+name = "[MTR4]Dragon's Class 308 retexture class 769"
+filename = "MTR4_Class308retex_769_260319.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G2lh8PpK/versions/q3miKaVK/MTR4_Class308retex_769_260319.zip"
+hash-format = "sha512"
+hash = "14d63c869554e22469e4378d1333084409cf306d2cffc9a1c3d6c0897859244825c705e235ad749bcfb7c4d9443c32f7aeeb15ec4a79ae5ba0ac3403040fa6e4"
+
+[update]
+[update.modrinth]
+mod-id = "G2lh8PpK"
+version = "q3miKaVK"

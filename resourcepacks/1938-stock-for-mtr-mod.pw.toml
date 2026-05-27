@@ -1,0 +1,13 @@
+name = "London Underground Piccadilly Line 1938 stock for MTR mod"
+filename = "ltm_1938_stock_by_skywalker.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5oyFnsG6/versions/KIrwetwM/ltm_1938_stock_by_skywalker.zip"
+hash-format = "sha512"
+hash = "60971dd552f625cfe511033e4c0c4c073faedcac1c1954c3c090203cee8a32da7554b7e01e7ac261c59d7d48471c81c837dee338b6d1239f380fdeb8cb9d8b02"
+
+[update]
+[update.modrinth]
+mod-id = "5oyFnsG6"
+version = "KIrwetwM"

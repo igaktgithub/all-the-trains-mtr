@@ -1,0 +1,13 @@
+name = "[MTR4] JR East E131 Series | JR東日本E131系"
+filename = "JR_East_E131_Series_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lrgC6lzE/versions/xPGdGXbb/JR_East_E131_Series_V1.0.zip"
+hash-format = "sha512"
+hash = "e5635cd32e3421b6f2f71f23a03349a4ff4ad090f87a4be5aa68b70b7c39863f306b764be64819dca88269f1b368c0bd01463b068a9c149dad088d5aac607262"
+
+[update]
+[update.modrinth]
+mod-id = "lrgC6lzE"
+version = "xPGdGXbb"

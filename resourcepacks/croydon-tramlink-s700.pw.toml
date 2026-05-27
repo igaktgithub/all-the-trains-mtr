@@ -1,0 +1,13 @@
+name = "Croydon Tramlink S700"
+filename = "Croydon Tramlink S700.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fWE0ozRk/versions/qh61BYlA/Croydon%20Tramlink%20S700.zip"
+hash-format = "sha512"
+hash = "978d38a1ef2b077df1245c957c5f9275b6a6047fb04f7b32822865a1b757bff2571567bafc78c470ac37053344887373e126b1655fb5cf7bcb208c8358411a1f"
+
+[update]
+[update.modrinth]
+mod-id = "fWE0ozRk"
+version = "qh61BYlA"

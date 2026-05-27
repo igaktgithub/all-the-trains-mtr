@@ -1,0 +1,13 @@
+name = "[MTR]LighTRain_IZUMI"
+filename = "LighTRain_泉4.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qHG6aADL/versions/25njbS07/LighTRain_%E6%B3%894.0.zip"
+hash-format = "sha512"
+hash = "aed37f9a769a97836f9bfae85a6046e433a1640ed09226146295550c122d448bb47a07ba07b67109ac7987d4fb5c2b63ba5ba9a6a4d591ee64d48dec5c6952ee"
+
+[update]
+[update.modrinth]
+mod-id = "qHG6aADL"
+version = "25njbS07"

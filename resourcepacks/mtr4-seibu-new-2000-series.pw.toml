@@ -1,0 +1,13 @@
+name = "[MTR4] 西武新2000系|Seibu New 2000 Series"
+filename = "mtr4-seibu-n2000.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nthioNcS/versions/MIp5YbOD/mtr4-seibu-n2000.zip"
+hash-format = "sha512"
+hash = "3052223f96ebe6d26996ce6ff6a585058bd9128c843a0557ea04fa75d3851ee82ebcb231c5a9fa1d9dde4a3fcb7d0d9734a0ebaa5217919c0f5d60e751b65e2e"
+
+[update]
+[update.modrinth]
+mod-id = "nthioNcS"
+version = "MIp5YbOD"

@@ -1,0 +1,13 @@
+name = "[MTR3/4]Soodari's Retextured Trains"
+filename = "MTR_soodari's_retextured_trains_260325.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QpFs9DEE/versions/SwnhwLSS/MTR_soodari%27s_retextured_trains_260325.zip"
+hash-format = "sha512"
+hash = "bf737bb988bd9542f7b03f94bc8a6f81a6da33d73f7b5d2f9f978bf4b6e9e8697732dd0606c1832b8cdc06512e257ddcbe791ea426a6b3931684c52869dba383"
+
+[update]
+[update.modrinth]
+mod-id = "QpFs9DEE"
+version = "SwnhwLSS"

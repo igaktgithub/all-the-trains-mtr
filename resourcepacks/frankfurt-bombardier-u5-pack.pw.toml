@@ -1,0 +1,13 @@
+name = "[MTR4] Frankfurt U-Bahn Bombardier U5 Pack"
+filename = "Bombardier U5 FGV Pack Release 1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3FuwXrMh/versions/Zt6KC1FV/Bombardier%20U5%20FGV%20Pack%20Release%201.zip"
+hash-format = "sha512"
+hash = "2b4360eec8d080f8f932c365b3f601577f23a650abffa813a69d80d5419eb4ec596550887bda17bf8a97c98a69c8acb1fb73e9578d6796715eb3ba520e74bdd3"
+
+[update]
+[update.modrinth]
+mod-id = "3FuwXrMh"
+version = "Zt6KC1FV"

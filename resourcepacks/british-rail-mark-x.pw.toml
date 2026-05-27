@@ -1,0 +1,13 @@
+name = "[MTR4] British Rail Mark X"
+filename = "MkX.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hF60oZwc/versions/NFVreTXB/MkX.zip"
+hash-format = "sha512"
+hash = "204dc18b001690829059184fdbfe279329d99d091f9e600800cd7b2bc00d29a69e1f29a79148beabe80080ecbf76327e43f9b70db6b7e84eda49a1022dc556e6"
+
+[update]
+[update.modrinth]
+mod-id = "hF60oZwc"
+version = "NFVreTXB"

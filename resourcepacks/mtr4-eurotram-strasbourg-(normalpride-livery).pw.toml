@@ -1,0 +1,13 @@
+name = "[MTR4] Eurotram - Strasbourg (Normal/Pride Livery)"
+filename = "EuroTram - Strasbourg.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IX28VrE/versions/NLXcpfGV/EuroTram%20-%20Strasbourg.zip"
+hash-format = "sha512"
+hash = "476d765b0b1048685ce941b964da1516c04d78ac570e0d44f5a3f6080e7f54375e6cf87cb6d491161365a36bca88660ffffad72a8213de1e73ca3bbb86266ce7"
+
+[update]
+[update.modrinth]
+mod-id = "3IX28VrE"
+version = "NLXcpfGV"

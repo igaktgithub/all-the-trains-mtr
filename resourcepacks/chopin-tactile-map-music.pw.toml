@@ -1,0 +1,13 @@
+name = "Chopin Tactile Map Music"
+filename = "chopin_tactile_map_music.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wt1iyCqK/versions/TUCRZacP/chopin_tactile_map_music.zip"
+hash-format = "sha512"
+hash = "685cfdb656b6b1fd40b5a9a21d4e7c959bb3f2e3c7cf643ced2b9c504e93a8f5e6a7dd929d31d6667f190b739cc719ec06fa151f5fa1e1fab76562d3c634eea2"
+
+[update]
+[update.modrinth]
+mod-id = "wt1iyCqK"
+version = "TUCRZacP"

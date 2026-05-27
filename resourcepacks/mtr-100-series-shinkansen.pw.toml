@@ -1,0 +1,13 @@
+name = "[MTR] 100 Series Shinkansen"
+filename = "DEWON-100-Series-1.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A98t8pqb/versions/ZNjCkyi7/DEWON-100-Series-1.0-MTR4.zip"
+hash-format = "sha512"
+hash = "ea6b9ac71b43475e9cd3d07b1d414589864b070991063eb7ba3d7c3b889c80869c20b05e138d74f81b0c958f0fbf60aab3da75d34ebeb7c1c1a281e8d134640c"
+
+[update]
+[update.modrinth]
+mod-id = "A98t8pqb"
+version = "ZNjCkyi7"

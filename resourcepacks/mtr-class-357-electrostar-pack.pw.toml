@@ -1,0 +1,13 @@
+name = "[MTR3/4] Class 357 Electrostar Pack"
+filename = "Class 357 Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BKDjzMXx/versions/Bh7kuHPo/Class%20357%20Pack.zip"
+hash-format = "sha512"
+hash = "df580d6a6919bbbc6f552f28caf0b15d92c42124205f172fc9a379ba9678d2ba6faa0b7fb90dfd58c135e737fe95a60a7047a9924620a56529d443390d5f8a43"
+
+[update]
+[update.modrinth]
+mod-id = "BKDjzMXx"
+version = "Bh7kuHPo"

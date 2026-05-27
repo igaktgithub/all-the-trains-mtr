@@ -1,0 +1,13 @@
+name = "[MTR4] 서울도시철도 전동차 | SMRT Trains"
+filename = "smrt_trains_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gyiqcpej/versions/MQ0VRasl/smrt_trains_mtr4.zip"
+hash-format = "sha512"
+hash = "5c65369cab822f72d96e5700075942bc1ab3be3208a44d362c3538edadeb3c318812edbaed13fa49cda6dbba38b6f9c02354fecd186610a7d3c9696f7f55b9d8"
+
+[update]
+[update.modrinth]
+mod-id = "Gyiqcpej"
+version = "MQ0VRasl"

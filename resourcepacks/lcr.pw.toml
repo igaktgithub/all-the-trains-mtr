@@ -1,0 +1,13 @@
+name = "Leah's Conglomerated Resources"
+filename = "Lucassian Railways Pack v0.5.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h9Dq1Y1s/versions/JXrXrKHa/Lucassian%20Railways%20Pack%20v0.5.1.zip"
+hash-format = "sha512"
+hash = "070761347de76ddc18f3ff7fe22165f323f48e95dace35c2306ecfa150578f9b1466ca7d46398455b76e41110589965272ac3067065ea61a7940fce9d6fea25f"
+
+[update]
+[update.modrinth]
+mod-id = "h9Dq1Y1s"
+version = "JXrXrKHa"

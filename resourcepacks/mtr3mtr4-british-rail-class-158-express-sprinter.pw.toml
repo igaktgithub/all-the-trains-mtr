@@ -1,0 +1,13 @@
+name = "[MTR3/4] British Rail Class 158 Express Sprinter"
+filename = "British_Rail_Class_158_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OdeYmQW0/versions/2q7gPbkl/British_Rail_Class_158_MTR4.zip"
+hash-format = "sha512"
+hash = "c1c2b50551a416eda2cc6a0d3008016fa3bc0287032c8b52732b384ff2a0a21a4c1947d35dee6fe4f61d4f3daba54b0f038252828261f332ede45b4bad38833b"
+
+[update]
+[update.modrinth]
+mod-id = "OdeYmQW0"
+version = "2q7gPbkl"

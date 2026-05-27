@@ -1,0 +1,13 @@
+name = "[MTR4] BR Class 153 retexture by electro & soodari"
+filename = "MTR4_BR_Class 153_retexture_250523.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jf3Mh87g/versions/dn3HaW1v/MTR4_BR_Class%20153_retexture_250523.zip"
+hash-format = "sha512"
+hash = "a42b739323ae7300acbc7b6d9716a912f51e26cb3cabb45eea357431858adee2d476ea552a8b4cdce64da7f44a35dfa52392f13961183f6ea667493af0f6be50"
+
+[update]
+[update.modrinth]
+mod-id = "Jf3Mh87g"
+version = "dn3HaW1v"

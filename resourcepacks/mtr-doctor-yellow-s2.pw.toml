@@ -1,0 +1,13 @@
+name = "[MTR] DOCTOR YELLOW S1/S2"
+filename = "DEWON-DOCTOR_YELLOW_S2_1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q7VwMpPQ/versions/M1xV8kOT/DEWON-DOCTOR_YELLOW_S2_1.1.zip"
+hash-format = "sha512"
+hash = "a15ca4faafddc45e050207f295ec54d3b4455d7e620a4a861c35f06a963eebc35cbb9cd06acf805d1bc74d0e43f7ac2912daf86ab1985b7984ac45d854a6ad92"
+
+[update]
+[update.modrinth]
+mod-id = "Q7VwMpPQ"
+version = "M1xV8kOT"

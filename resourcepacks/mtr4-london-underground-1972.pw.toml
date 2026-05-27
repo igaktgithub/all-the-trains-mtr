@@ -1,0 +1,13 @@
+name = "[MTR4] London Underground 1972 Stock"
+filename = "london-underground-1972-mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HikmtYt0/versions/99k86fiP/london-underground-1972-mtr4.zip"
+hash-format = "sha512"
+hash = "35d3ba11a8360d00947b2594ea18cf3035dce49e3301aecb07ae6233091d28a476538301e3131e1ad1e09d4167b1dbe9015fc195f71850c6f40245fe34bcfb47"
+
+[update]
+[update.modrinth]
+mod-id = "HikmtYt0"
+version = "99k86fiP"

@@ -1,0 +1,13 @@
+name = "[MTR4] NS & SKPL DM'90"
+filename = "NS & SKPL DM'90.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/59loYFo1/versions/fQyv1rUl/NS%20%26%20SKPL%20DM%2790.zip"
+hash-format = "sha512"
+hash = "f0742074f7488ec81e34d39a25deea1ad625476cab693acd272c0e39e6b39e9f752ce567d256928fe1b0c721c1653cff0b8ed6077cc580d474500b5c1edd1b87"
+
+[update]
+[update.modrinth]
+mod-id = "59loYFo1"
+version = "fQyv1rUl"

@@ -1,0 +1,13 @@
+name = "[MTR4] Mark5a 'Nova 3' Set"
+filename = "Mark5a 'Nova 3' Set MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tssvQQ52/versions/VQpHdGc6/Mark5a%20%27Nova%203%27%20Set%20MTR4.zip"
+hash-format = "sha512"
+hash = "f8c7c5b1dd8b187424b602eb5e99eb8569b00d84af6c56d7bf53be6abce0ea61056b2213af1bd5a14f1e8a63836234c9e5f2d19eb74e22e1984c9fff9dbee35a"
+
+[update]
+[update.modrinth]
+mod-id = "tssvQQ52"
+version = "VQpHdGc6"

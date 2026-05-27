@@ -1,0 +1,13 @@
+name = "[MTR4] Mark5a Caledonian Sleeper Coaches"
+filename = "Mark5a_Caledonian_Sleeper_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4vXPQZi/versions/2O3f4D7V/Mark5a_Caledonian_Sleeper_MTR4.zip"
+hash-format = "sha512"
+hash = "8534e5dde7532165fad6001953e236907af0a7cac66eb3fecc70ff48bacc1533f3ade35aeb315cc01bb96157d2e655a806d65fa2ccb2265451d4ecdff6e5db85"
+
+[update]
+[update.modrinth]
+mod-id = "z4vXPQZi"
+version = "2O3f4D7V"

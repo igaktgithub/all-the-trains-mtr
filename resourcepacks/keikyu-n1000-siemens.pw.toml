@@ -1,0 +1,13 @@
+name = "[MTR4] 京急新1000形 | Keikyu New 1000 Series"
+filename = "Keikyu_N1000_Series_v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Y69q7qM/versions/TqYSi7rn/Keikyu_N1000_Series_v1.1.zip"
+hash-format = "sha512"
+hash = "f7858962d13205231c380a8a97f9b362e4c20a72d6c7f99e9d6753ce25b2fb77504ee45d2762720f6186df771a732b4de7de30c7f72978f51049876940f4b037"
+
+[update]
+[update.modrinth]
+mod-id = "4Y69q7qM"
+version = "TqYSi7rn"

@@ -1,0 +1,13 @@
+name = "[MTR4] VDL Citea Carris Metropolitana"
+filename = "VDL Citea_carris_metropolitana.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c1Fuvxx8/versions/YXFLTv6p/VDL%20Citea_carris_metropolitana.zip"
+hash-format = "sha512"
+hash = "68c9f1a86956b2f8f593dbf6ce00009f425cc4ae37c325b0700f83942757a0ea1ce7b59274f6a858950a522e36c66e2bb5567f012f9edb5e05b7ba196270a021"
+
+[update]
+[update.modrinth]
+mod-id = "c1Fuvxx8"
+version = "YXFLTv6p"

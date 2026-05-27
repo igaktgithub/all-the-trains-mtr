@@ -1,0 +1,13 @@
+name = "[MTR4] American Commuter Rail Pack"
+filename = "American Commuter Rail Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/25cYC6cw/versions/gDXxrvnd/American%20Commuter%20Rail%20Pack.zip"
+hash-format = "sha512"
+hash = "286807e0cff939301f9fbc9458bc9be4c1a52af45e4b79d66c54ab6b98c02152c5c0bacfcd135740785c351e7f530c1b8d563292e4717defd9751dbd7c3a28fc"
+
+[update]
+[update.modrinth]
+mod-id = "25cYC6cw"
+version = "gDXxrvnd"

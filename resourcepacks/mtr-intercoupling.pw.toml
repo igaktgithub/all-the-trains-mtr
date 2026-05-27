@@ -1,0 +1,13 @@
+name = "MTR Universal Intercoupling Pack"
+filename = "MTR Intercoupling Pack v1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/n96gSjoG/versions/XBdkdNHL/MTR%20Intercoupling%20Pack%20v1.0.1.zip"
+hash-format = "sha512"
+hash = "8a198adf10ffa2b6268de0bc3b38fd1291161abc5be97ce11d608453a98478695463b4d5371ea16ae414afaae4b9cbd9acbeb2f98b6d6d41b04b3149418a34f5"
+
+[update]
+[update.modrinth]
+mod-id = "n96gSjoG"
+version = "XBdkdNHL"

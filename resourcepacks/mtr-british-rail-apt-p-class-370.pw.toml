@@ -1,0 +1,13 @@
+name = "[MTR] British Rail APT-P Class 370"
+filename = "APT-P Class 370-Skywalker_6517.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7uI3xiu4/versions/Z8jUymyG/APT-P%20Class%20370-Skywalker_6517.zip"
+hash-format = "sha512"
+hash = "8f9a2f38f9f936e83f5de8e4b2d36d071aee6f449882a845bfc7677d7498adfc8cb0d9a52ec3ee667360f0f1577c76a8bacd5b78721e3edc63734df0c73e6f16"
+
+[update]
+[update.modrinth]
+mod-id = "7uI3xiu4"
+version = "Z8jUymyG"

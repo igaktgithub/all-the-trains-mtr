@@ -1,0 +1,13 @@
+name = "[MTR] Manila LRT-1"
+filename = "Metro Manila Transit pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h6oiAE2F/versions/BaxWId1i/Metro%20Manila%20Transit%20pack.zip"
+hash-format = "sha512"
+hash = "af2aed4ad9fb3586f6213f49a7d5865cbb9ef7a219d9fa2b2abe7608442088341eff70cbdadddd30149e5b5bacdd209b9416a0371ceb485603e8cddadef734a1"
+
+[update]
+[update.modrinth]
+mod-id = "h6oiAE2F"
+version = "BaxWId1i"

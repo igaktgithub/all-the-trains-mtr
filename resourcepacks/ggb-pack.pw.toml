@@ -1,0 +1,13 @@
+name = "GGB-pack [MTR]"
+filename = "GGB-pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2sJfttBi/versions/chqWWHiK/GGB-pack.zip"
+hash-format = "sha512"
+hash = "8c4abfdfe9625d71b8c8309fa2819496352a3c13590d1d438a9b819b2b36f1c6b8186dc189c450d27b437cb81ee531dadacb8cdf0b55a722ea6cba2744e9d334"
+
+[update]
+[update.modrinth]
+mod-id = "2sJfttBi"
+version = "chqWWHiK"

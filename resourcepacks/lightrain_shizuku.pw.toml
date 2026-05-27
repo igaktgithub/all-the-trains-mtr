@@ -1,0 +1,13 @@
+name = "[MTR]LighTRain_shizuku"
+filename = "LighTRain雫_4.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pA2Ewmv/versions/PRwLjtGG/LighTRain%E9%9B%AB_4.0.zip"
+hash-format = "sha512"
+hash = "58b1933317600fb20440e182e11cb960b7cc383caebaf80cbe2b366d7a8630a63e304cf39935e8c537a86eb42f97b150e16bcb05f81aff9ddef2b46ac5282c68"
+
+[update]
+[update.modrinth]
+mod-id = "8pA2Ewmv"
+version = "PRwLjtGG"

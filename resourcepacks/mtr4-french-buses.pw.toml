@@ -1,0 +1,13 @@
+name = "[MTR4] French Buses"
+filename = "MTR_French_Bus_Pack_V1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QCvdLXcc/versions/FK5PsQ4I/MTR_French_Bus_Pack_V1.1.zip"
+hash-format = "sha512"
+hash = "1a50df868374811f024fb39fc57551f00ee9934c65b1e45fd092af47a3e869f859358fa0cf714e833eef56f7544886b7454c050e2739ea0c8b6f3f28dea3eeca"
+
+[update]
+[update.modrinth]
+mod-id = "QCvdLXcc"
+version = "FK5PsQ4I"

@@ -1,0 +1,13 @@
+name = "[MTR] TGV 12"
+filename = "skywalkers_april_fools_2026.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o4311SBT/versions/Bnq6nPSK/skywalkers_april_fools_2026.zip"
+hash-format = "sha512"
+hash = "eed2757a23cd2e5d37fee0b665e07b9df2f01e39e31e9980e814b3c14433c17b3e4ce63cf63473c947769494c2473001339362e3b91724a8993a37dfef6ca22c"
+
+[update]
+[update.modrinth]
+mod-id = "o4311SBT"
+version = "Bnq6nPSK"

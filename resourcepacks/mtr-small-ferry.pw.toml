@@ -1,0 +1,13 @@
+name = "MTR Small ferry"
+filename = "small ferry pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TOIaavBd/versions/G8fMgfyC/small%20ferry%20pack.zip"
+hash-format = "sha512"
+hash = "c99edb42d9b541ebdf92b53172aaadfb5a0183e21d26d0e1200ea760066967a02dc9b4b43f3204de14c25b34349675db3ff9b16075b6f2c28432b69beb2e9e97"
+
+[update]
+[update.modrinth]
+mod-id = "TOIaavBd"
+version = "G8fMgfyC"

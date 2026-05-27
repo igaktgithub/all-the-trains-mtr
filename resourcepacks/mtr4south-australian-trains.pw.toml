@@ -1,0 +1,13 @@
+name = "[MTR3/4]South Australian Trains"
+filename = "MTR_srt_South_Australian_4.0_250523.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/isMl2RwV/versions/YzkREemH/MTR_srt_South_Australian_4.0_250523.zip"
+hash-format = "sha512"
+hash = "2540aa5eeed88d5752f76aa84d22e376e114f51cea105aa1e880b7af50173c300d9f780de0e126e5b375fbb28e0ccbbf0fc0338d89eea291395520beb9fc5c54"
+
+[update]
+[update.modrinth]
+mod-id = "isMl2RwV"
+version = "YzkREemH"

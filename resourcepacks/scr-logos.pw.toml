@@ -1,0 +1,13 @@
+name = "SCR logos"
+filename = "SCR logos 2.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UnuN51Lv/versions/jCFJwk4Y/SCR%20logos%202.3.zip"
+hash-format = "sha512"
+hash = "23281ed76a3ef7a70a1a2b2e80bbd61cd9b98d6994dc115ed67be179992df3ad2b2edf802ff4aaff9462f4f4be3062f4b040f08d5621a471377173b5799dc0c6"
+
+[update]
+[update.modrinth]
+mod-id = "UnuN51Lv"
+version = "jCFJwk4Y"

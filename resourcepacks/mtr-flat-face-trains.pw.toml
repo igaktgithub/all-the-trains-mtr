@@ -1,0 +1,13 @@
+name = "[MTR3/4] 납작이 | Flat face trains"
+filename = "flat_face_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NmpGOGbC/versions/8A1wWGrp/flat_face_mtr4.zip"
+hash-format = "sha512"
+hash = "7f2e461c2f19d837a5b4af320222f32a4d652f93949d9bf6757193dadbaf86e77e752e9974babe58edd642e97f2a12af19eaa8d727c465a040caa6210d4ee66b"
+
+[update]
+[update.modrinth]
+mod-id = "NmpGOGbC"
+version = "8A1wWGrp"

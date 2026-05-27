@@ -1,0 +1,13 @@
+name = "[MTR4] Thomas the Tank Engine"
+filename = "MTR4_Thomas_the_Tank_Engine.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q1Lu4uJj/versions/MM3ixu9k/MTR4_Thomas_the_Tank_Engine.zip"
+hash-format = "sha512"
+hash = "e278ab4835933ecbd8e717a79f2c6feac6dbafc265e14fe8178185e157c06761a9e75cac02fa8b35f68ff5411c4e412dd5bf9a32d1ab9ffd09d7f105a12dd15d"
+
+[update]
+[update.modrinth]
+mod-id = "q1Lu4uJj"
+version = "MM3ixu9k"

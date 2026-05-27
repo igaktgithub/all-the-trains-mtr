@@ -1,0 +1,13 @@
+name = "[MTR3/4] 東武30000系電車 | Tobu 30000 series"
+filename = "tobu_30000_series.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2TWWGIK7/versions/fKPCl6ZN/tobu_30000_series.zip"
+hash-format = "sha512"
+hash = "6639c05702a0cf2e1671d86a1beb27b756fedc89fdca87d825a846433b9a02547fb200de498cf5cd3dfcb33c402482803d565ea2b8e55200685cf6dfa5a63bb7"
+
+[update]
+[update.modrinth]
+mod-id = "2TWWGIK7"
+version = "fKPCl6ZN"

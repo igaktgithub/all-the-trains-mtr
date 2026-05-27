@@ -1,0 +1,13 @@
+name = "[MTR/NTE] GBT: Traffic Signs"
+filename = "gbt-tsp.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FUStJ2KH/versions/FX5iW7D5/gbt-tsp.zip"
+hash-format = "sha512"
+hash = "e4ba098a47bfc7bdd2a96c0f1532bcc058575b8bcc5c389b156598ab5e5bc34dcab2133b2a77e876f305fbcaeb93df00bf78a8eaeaa39ecd37de47736eeb44d7"
+
+[update]
+[update.modrinth]
+mod-id = "FUStJ2KH"
+version = "FX5iW7D5"

@@ -1,0 +1,13 @@
+name = "[MTR3/4]Korail Intercity & Regional Trains"
+filename = "MTR_KORAIL_Intercity_and_Regional_4.0_260205.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Con14YxY/versions/DVc0sDyl/MTR_KORAIL_Intercity_and_Regional_4.0_260205.zip"
+hash-format = "sha512"
+hash = "286dc3d342cd189e648e0d73fd72ee68fbc3abeafc2afd0a80bbf3f360483bc5e47e531ab3014d6b55d8b749dddd881a72d7cb8926946bef280e794eee06de5c"
+
+[update]
+[update.modrinth]
+mod-id = "Con14YxY"
+version = "DVc0sDyl"

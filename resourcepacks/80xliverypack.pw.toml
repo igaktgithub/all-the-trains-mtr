@@ -1,0 +1,13 @@
+name = "British Rail Class 80x Livery Pack"
+filename = "British Rail Class 80x Livery Pack [1.0].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/48GPtIa2/versions/uJcyYw3w/British%20Rail%20Class%2080x%20Livery%20Pack%20%5B1.0%5D.zip"
+hash-format = "sha512"
+hash = "88a1c72e2f573b185a1117b51b010b75ecfae06e964cdea510ce7c11359163915e64c755980a66702956ec49595230fd6f3337c05dca6856ea6353744cb70d5d"
+
+[update]
+[update.modrinth]
+mod-id = "48GPtIa2"
+version = "uJcyYw3w"

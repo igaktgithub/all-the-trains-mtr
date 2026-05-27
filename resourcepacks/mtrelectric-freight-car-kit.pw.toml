@@ -1,0 +1,13 @@
+name = "[MTR]Electric Freight car kit/汎用型電動貨車キット"
+filename = "汎用型電動貨車キット.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AmlYbEAf/versions/TDOcXuqQ/%E6%B1%8E%E7%94%A8%E5%9E%8B%E9%9B%BB%E5%8B%95%E8%B2%A8%E8%BB%8A%E3%82%AD%E3%83%83%E3%83%88.zip"
+hash-format = "sha512"
+hash = "872d9c35f40e40001bb0116e4d821cb6bde74c4c4d63d94f66019acc74f045f7d0eb454d3b838e94dd7fec18696e065c1c4e5f29e53945885563ee186036ff3a"
+
+[update]
+[update.modrinth]
+mod-id = "AmlYbEAf"
+version = "TDOcXuqQ"

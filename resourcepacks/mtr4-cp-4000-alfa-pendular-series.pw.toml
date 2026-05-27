@@ -1,0 +1,13 @@
+name = "[MTR4] CP 4000 Alfa Pendular Series"
+filename = "alfa_pendular_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fbr9tjIv/versions/M5JZQvyh/alfa_pendular_mtr4.zip"
+hash-format = "sha512"
+hash = "913b6c47c3e80bc2ae2f7e155c81ded5b6286ec299ae2abfef4ff14464075d4584cecbc228849c7947dabef299de0ba13339915796a38d662f1b5e0e36255aa7"
+
+[update]
+[update.modrinth]
+mod-id = "Fbr9tjIv"
+version = "M5JZQvyh"

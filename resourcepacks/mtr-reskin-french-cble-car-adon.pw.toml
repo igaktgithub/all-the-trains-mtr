@@ -1,0 +1,13 @@
+name = "[MTR] [RESKIN] French cable car addon"
+filename = "French cable car v1.1-20260118-195322.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kdAp8CLJ/versions/MxKhNxuH/French%20cable%20car%20v1.1-20260118-195322.zip"
+hash-format = "sha512"
+hash = "f371b91b428440c12a21e6724ed59a2c181efa46d8c9e00f5115d44aa987c45e435a7cffee9ee7c695c4a5eaf874991820a123d8f070801a9585555652fd1961"
+
+[update]
+[update.modrinth]
+mod-id = "kdAp8CLJ"
+version = "MxKhNxuH"

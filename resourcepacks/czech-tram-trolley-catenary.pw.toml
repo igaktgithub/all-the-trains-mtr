@@ -1,0 +1,13 @@
+name = "[MTR3/NTE][MTR4] Czech Tram-Trolley Catenary"
+filename = "Czech_Troll_Tram_Catenary.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yA4m1QgG/versions/U6j7x7T5/Czech_Troll_Tram_Catenary.zip"
+hash-format = "sha512"
+hash = "396de54e091d08e20e8b493b618d34b3997f3565a449f22c963de623602355ccf33e33490ab97af928c29e9f6806c06a7c3db605d2d9545cd243e5c1e747ee14"
+
+[update]
+[update.modrinth]
+mod-id = "yA4m1QgG"
+version = "U6j7x7T5"

@@ -1,0 +1,13 @@
+name = "c2c Class 387/377 Electrostar (MTR4)"
+filename = "class_387_c2c.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BzINrby3/versions/1yX7YDre/class_387_c2c.zip"
+hash-format = "sha512"
+hash = "3045564b83823111247143dada27db6ecd84c9fb8ff44337f7cd57b24ac4a0cb114c82a41242da5ee8c3bf0643679bd18e81026f660e0e53976c1791ccd8653e"
+
+[update]
+[update.modrinth]
+mod-id = "BzINrby3"
+version = "1yX7YDre"

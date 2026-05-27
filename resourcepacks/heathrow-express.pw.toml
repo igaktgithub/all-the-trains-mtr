@@ -1,0 +1,13 @@
+name = "Heathrow Express Class 387/377 Electrostar [MTR4]"
+filename = "class_387_heathrow_express_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/81OLNylj/versions/InECdsn7/class_387_heathrow_express_mtr4.zip"
+hash-format = "sha512"
+hash = "2779633ac72a1ff50075270835bb5987a0c35e728db9c166717657131a24185bc9eda80d53972ae57c2c84b2f4902fc15e0ed6483ea9b984483ab6ea3ee8ae1b"
+
+[update]
+[update.modrinth]
+mod-id = "81OLNylj"
+version = "InECdsn7"

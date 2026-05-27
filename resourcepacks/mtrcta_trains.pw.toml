@@ -1,0 +1,13 @@
+name = "[MTR3/4]CTA_Trains"
+filename = "MTR_srtCTATrains_mtr4_260112.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HnI9ckTm/versions/nip0bEEh/MTR_srtCTATrains_mtr4_260112.zip"
+hash-format = "sha512"
+hash = "92448b362f3a4c6c22776a05bda6e957d2556141b2d6ae098c79cd408abc32afdff5ac6ffc626d80a70e1306bb320dfea7901c4dfad1ae0dd1296d6385e767d9"
+
+[update]
+[update.modrinth]
+mod-id = "HnI9ckTm"
+version = "nip0bEEh"

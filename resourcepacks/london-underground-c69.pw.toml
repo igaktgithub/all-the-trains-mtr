@@ -1,0 +1,13 @@
+name = "[MTR4] London Underground C69/C77 Stock"
+filename = "mtr4-london_underground_c69.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/v7FUnVgG/versions/a4ka4v48/mtr4-london_underground_c69.zip"
+hash-format = "sha512"
+hash = "c151a37e8af4fdfda642e615ca0afb981a67c3ebbf397ca377da5da6c1873d027b792b652190341912a9d170609b8f30355979871f6ff081bf5235133cae25d9"
+
+[update]
+[update.modrinth]
+mod-id = "v7FUnVgG"
+version = "a4ka4v48"

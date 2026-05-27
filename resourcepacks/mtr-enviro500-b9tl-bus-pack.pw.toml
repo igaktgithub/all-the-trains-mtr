@@ -1,0 +1,13 @@
+name = "[MTR] Enviro500 B9TL Bus Pack"
+filename = "enviro_500_b9tl_avbe_12m_pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9hcHmnBC/versions/oob8Gkhw/enviro_500_b9tl_avbe_12m_pack.zip"
+hash-format = "sha512"
+hash = "58f7fc07db39de19d1c4144d4359381372437c055e3f1bcc8ab72cc4148c8e82486c265a4763a13d7defe125a0d57fa0bb42c59e4017f08774049dcf361de75e"
+
+[update]
+[update.modrinth]
+mod-id = "9hcHmnBC"
+version = "oob8Gkhw"

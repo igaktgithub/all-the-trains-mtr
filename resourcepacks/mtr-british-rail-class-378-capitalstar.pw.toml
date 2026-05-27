@@ -1,0 +1,13 @@
+name = "[MTR3/4] British Rail Class 378 Capitalstar"
+filename = "class_378.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AH6n8rNt/versions/BJ1Fx8cB/class_378.zip"
+hash-format = "sha512"
+hash = "dfa593862f74e3f6ec1a4b791c202bca4880c356a404b90b6aea42e5962b5dc4d1c91b78e48ac141eb67edf1f5eec2e14355e0a4aa941d3debd13150953f9369"
+
+[update]
+[update.modrinth]
+mod-id = "AH6n8rNt"
+version = "BJ1Fx8cB"

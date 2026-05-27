@@ -1,0 +1,13 @@
+name = "[MTR3/4] Eurostar class 373"
+filename = "BR_Class_373_TGV_TMST_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IkZp3S0I/versions/dKNJHSnU/BR_Class_373_TGV_TMST_MTR4.zip"
+hash-format = "sha512"
+hash = "04cc1ae9988328b07d2ea5a57291262250011c99bff46e357c1d6c3304320bdf8916b9a85c033e576eae6587a2bbf28bca85bc40a35b165c3a6a7c8bcf24a136"
+
+[update]
+[update.modrinth]
+mod-id = "IkZp3S0I"
+version = "dKNJHSnU"

@@ -1,0 +1,13 @@
+name = "CAF Serie 2000 Metro Madrid - MTR4 Adapted"
+filename = "Serie2000_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yeIVTFy6/versions/DNWrvmR2/Serie2000_MTR4.zip"
+hash-format = "sha512"
+hash = "feccef11e3dccb1dd0c8b057f2542639bb0818624c733e7bc09ab48ecedfec6f26612342ea58a09c588d9aa226fa3fefff59238f171e36dc8275512fef42dd19"
+
+[update]
+[update.modrinth]
+mod-id = "yeIVTFy6"
+version = "DNWrvmR2"

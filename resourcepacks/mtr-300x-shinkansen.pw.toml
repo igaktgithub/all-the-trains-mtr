@@ -1,0 +1,13 @@
+name = "[MTR] 300X | Class 955 Shinkansen"
+filename = "DEWON-300X-1.2-MTR3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/j4HoAWDX/versions/cwwjRGen/DEWON-300X-1.2-MTR3.zip"
+hash-format = "sha512"
+hash = "521fb58d73722964763cd677da5e074faf21c3bb91fc2184d2d3fe4aa37ac6f1e48f2d60ac054f79b0feba6634bb07e3525677566f22c46dba6c63637b2bf9f6"
+
+[update]
+[update.modrinth]
+mod-id = "j4HoAWDX"
+version = "cwwjRGen"

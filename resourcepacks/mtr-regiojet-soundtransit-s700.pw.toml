@@ -1,0 +1,13 @@
+name = "[MTR] RegioJet SoundTransit S700"
+filename = "RegioJet-S700-v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VRQsYhGt/versions/lMiujtfA/RegioJet-S700-v1.0.zip"
+hash-format = "sha512"
+hash = "1a041fb0d2113e3df46ba0ab6be1209499d5736162fd15c187de8283469678f5384b77249e81ca33a3ef3d9673452625a99b24234e32628a89f42003e040f6c7"
+
+[update]
+[update.modrinth]
+mod-id = "VRQsYhGt"
+version = "lMiujtfA"

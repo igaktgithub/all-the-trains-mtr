@@ -1,0 +1,13 @@
+name = "c2c Class 357 Electrostar Pack [MTR4]"
+filename = "c2c_class_357s_v1_2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G4BdltRs/versions/K4SGrXeZ/c2c_class_357s_v1_2.zip"
+hash-format = "sha512"
+hash = "0a7bea0bfb80c9cc9cd694253420efc207cedbf802b27a0572f1369307dce6823de83e55d47b96dd53c1e93f458dd955ec5878728725908a859fde3d22a59977"
+
+[update]
+[update.modrinth]
+mod-id = "G4BdltRs"
+version = "K4SGrXeZ"

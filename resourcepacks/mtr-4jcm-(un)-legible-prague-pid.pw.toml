@@ -1,0 +1,13 @@
+name = "[MTR 4/JCM] (Un)Legible Prague PIDs"
+filename = "MTR_UnLegiblePrague_v3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/20RLgc6S/versions/19ZvgoAg/MTR_UnLegiblePrague_v3.zip"
+hash-format = "sha512"
+hash = "cb486e4cf7cc77cf4ea8466ca7f16a17c6d1624cbeec51bb7da91db4d82b0c83da9a887893c362bf1da06feb15978cad785112b9be7e81aabd669097bde7c351"
+
+[update]
+[update.modrinth]
+mod-id = "20RLgc6S"
+version = "19ZvgoAg"

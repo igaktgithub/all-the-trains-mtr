@@ -1,0 +1,13 @@
+name = "[MTR4] London Underground 1938 stock"
+filename = "london_underground_1938-mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L4MgVnzU/versions/V0I0UjeS/london_underground_1938-mtr4.zip"
+hash-format = "sha512"
+hash = "b3612444df20e2cc42a49742e549f6016f9bdb262f8e861d48178a6b73daa8b053164c1015262bff9d4951283df81d1dfb85d37e493674e389905ec215c2f950"
+
+[update]
+[update.modrinth]
+mod-id = "L4MgVnzU"
+version = "V0I0UjeS"

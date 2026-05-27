@@ -1,0 +1,13 @@
+name = "[MTR] DOCTOR YELLOW T4/T5"
+filename = "DEWON-DOCTOR_YELLOW_2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gx0V2fFk/versions/LmYebJjg/DEWON-DOCTOR_YELLOW_2.0.zip"
+hash-format = "sha512"
+hash = "47e40e984427c5bc62aff940c2941efb93a9868ea229323710569597bf2050ab6201b6e52c4804265604294d5e33873d85a4cd51213a2b12bb40bf634d0fb0f0"
+
+[update]
+[update.modrinth]
+mod-id = "Gx0V2fFk"
+version = "LmYebJjg"

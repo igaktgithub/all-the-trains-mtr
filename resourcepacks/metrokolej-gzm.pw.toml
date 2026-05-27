@@ -1,0 +1,13 @@
+name = "Metrokolej GZM"
+filename = "Metrokolej GZM.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wojOyHeu/versions/BSqIqdsS/Metrokolej%20GZM.zip"
+hash-format = "sha512"
+hash = "99fa947bcca3dac466b454f278e34e37f0ce5348e5d1ccadbb58a43f23dfdb340cb0d372779812f2ca225c647f60b72f10562904cd2f9136cbce32ba1dd7038a"
+
+[update]
+[update.modrinth]
+mod-id = "wojOyHeu"
+version = "BSqIqdsS"

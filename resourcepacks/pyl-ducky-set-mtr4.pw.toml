@@ -1,0 +1,13 @@
+name = "PYL Ducky Set [MTR4]"
+filename = "PYL Ducky Set V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u2L2kHV4/versions/KS8Xi534/PYL%20Ducky%20Set%20V1.0.zip"
+hash-format = "sha512"
+hash = "31b8bf882384df9b7afebdfdddc019613712b8fed361a27006c3a12a6ff8b610e2510de6d857399c8d660652ff0f8a2b572d1523847a3d65552715f0529987f2"
+
+[update]
+[update.modrinth]
+mod-id = "u2L2kHV4"
+version = "KS8Xi534"

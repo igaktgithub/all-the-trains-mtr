@@ -1,0 +1,13 @@
+name = "[MTR/JCM] Fred's PIDS"
+filename = "Freds-PIDS_MTR4_0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E3hLq82P/versions/UuORml3g/Freds-PIDS_MTR4_0.1.zip"
+hash-format = "sha512"
+hash = "94d9c362676ff7d0c497877dd5ad13df05a9b834380685b60a54a31cce3869c4557371b33645323d4ae55444a47fc4ba1f4b1970d518081f7563ea4205feb343"
+
+[update]
+[update.modrinth]
+mod-id = "E3hLq82P"
+version = "UuORml3g"

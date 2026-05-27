@@ -1,0 +1,13 @@
+name = "[MTR4] Black Mesa monorail tram pack"
+filename = "Black Mesa tram pack 0.3.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g14NZjKk/versions/yzTikxlD/Black%20Mesa%20tram%20pack%200.3.3.zip"
+hash-format = "sha512"
+hash = "8ca3b6e930cf64b2a10f2de66e37f00644900d644b74a6738e695a1fcd8fe4312b51e971dfaa15f84e7d9601f18669d781c11cfdd5756c0d1a82237bb58535bc"
+
+[update]
+[update.modrinth]
+mod-id = "g14NZjKk"
+version = "yzTikxlD"

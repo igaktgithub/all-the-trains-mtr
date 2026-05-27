@@ -1,0 +1,13 @@
+name = "[MTR 4] Eurostar 345"
+filename = "Eurostar_345.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UPDr3eXr/versions/BScja9C6/Eurostar_345.zip"
+hash-format = "sha512"
+hash = "0773d74a32a5f7ff11aed89e84f290dc1ce332478220e7b3348b843db97b8f71e1c5f73d38a6fee661a4e289e5b34c2c1162e124ba8b3003bba13a1ad2a36416"
+
+[update]
+[update.modrinth]
+mod-id = "UPDr3eXr"
+version = "BScja9C6"

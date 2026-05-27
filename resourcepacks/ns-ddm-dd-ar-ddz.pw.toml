@@ -1,0 +1,13 @@
+name = "[MTR4] NS DDM / DD-AR / DDZ for MTR"
+filename = "NS DDM DD-AR DDZ.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/67pftMhl/versions/nNPBy8Hb/NS%20DDM%20DD-AR%20DDZ.zip"
+hash-format = "sha512"
+hash = "3db6b613cd619fd384c97909f6bb5592728772a96e8c208e356cfa04157aed99cbf8082bd9e40c95a4542a76b6a99eecb87a51fec04e060d6973fac44d9a4968"
+
+[update]
+[update.modrinth]
+mod-id = "67pftMhl"
+version = "nNPBy8Hb"

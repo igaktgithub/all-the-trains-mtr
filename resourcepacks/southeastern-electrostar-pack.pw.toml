@@ -1,0 +1,13 @@
+name = "SouthEastern Class 375/376/377 Electrostar Pack [MTR4]"
+filename = "mtr4_southeastern_electrostar_pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iHsezfJ1/versions/ZyC5zunC/mtr4_southeastern_electrostar_pack.zip"
+hash-format = "sha512"
+hash = "f0c5e00aee048d8e0b47446e6310347685ef81171fee2447f3722b06ae6cafcb4abfd59a385f9117be638983e526fb6169bcff02496e457a6d9a9818cdcd17b5"
+
+[update]
+[update.modrinth]
+mod-id = "iHsezfJ1"
+version = "ZyC5zunC"

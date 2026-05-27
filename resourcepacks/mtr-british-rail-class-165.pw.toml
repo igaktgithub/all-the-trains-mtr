@@ -1,0 +1,13 @@
+name = "[MTR3/4] British Rail Class 165"
+filename = "165pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yf30PvzS/versions/B0tkcDc9/165pack.zip"
+hash-format = "sha512"
+hash = "f16f634013bd67f42b2209d289c696f69539d896544af67ed5e0859f96613cf4cd897f257b7749d2a81afa8f77a42674e0cb2d2d3659c7cc02eb41561aec1f5b"
+
+[update]
+[update.modrinth]
+mod-id = "Yf30PvzS"
+version = "B0tkcDc9"

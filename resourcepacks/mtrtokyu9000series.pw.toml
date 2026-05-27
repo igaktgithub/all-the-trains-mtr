@@ -1,0 +1,13 @@
+name = "[MTR]Tokyu9000Series"
+filename = "東急9000系_MTR3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lqKXi148/versions/F1CG0ca8/%E6%9D%B1%E6%80%A59000%E7%B3%BB_MTR3.zip"
+hash-format = "sha512"
+hash = "0e9ad2ecc4fbac1a774761c0e9254ca2e5e1833e5b560e20c8c19677de26c2b7feae017f9b3c66c226c4fc6c2d91b6c734989ebb105ba744de02e2abfaef5561"
+
+[update]
+[update.modrinth]
+mod-id = "lqKXi148"
+version = "F1CG0ca8"

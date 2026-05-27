@@ -1,0 +1,13 @@
+name = "[MTR4] StarTrain A575"
+filename = "StarTrain A575.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XHZL23dP/versions/u2AA8E0g/StarTrain%20A575.zip"
+hash-format = "sha512"
+hash = "935146a3a901647b3e05eda69ea3fa235f2c1cb096926fe69fc080a37c248ef45106b7ae82f491da0298583aaa8184080bcd9f1fd53a8d2caf2ab671e864c0c6"
+
+[update]
+[update.modrinth]
+mod-id = "XHZL23dP"
+version = "u2AA8E0g"

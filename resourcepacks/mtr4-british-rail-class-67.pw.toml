@@ -1,0 +1,13 @@
+name = "[MTR4] British Rail Class 67"
+filename = "MTR4_BR_Class_67.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BB3nZehK/versions/hMRnrWyj/MTR4_BR_Class_67.zip"
+hash-format = "sha512"
+hash = "eb71803507bfaa22906bccc952383807fc1feaf68c4bb82055b5d4571d5b03dcb70174e97e581b7307216ddc5111d010b0bc54601bf3825471947e55affe48b5"
+
+[update]
+[update.modrinth]
+mod-id = "BB3nZehK"
+version = "hMRnrWyj"

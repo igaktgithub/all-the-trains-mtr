@@ -1,0 +1,13 @@
+name = "[MTR 3/4] StarTrain B600"
+filename = "B600 - MTR4 Port.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x5xfTUX0/versions/GTBZgEl5/B600%20-%20MTR4%20Port.zip"
+hash-format = "sha512"
+hash = "524666e113139268cf81b3ff18cd062bd970ae29d3b0aeaa02dfed84a2feeaeb6f2cb679be94f01377d63c877d027193ea600ba71dea7dc7d99779703de7337c"
+
+[update]
+[update.modrinth]
+mod-id = "x5xfTUX0"
+version = "GTBZgEl5"

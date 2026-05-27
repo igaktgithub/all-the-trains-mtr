@@ -1,0 +1,13 @@
+name = "[MTR4] 相鉄11000系 | Sotetsu 11000 series"
+filename = "Sotetsu_11000_Series_v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hDuv0OtZ/versions/yTX10i62/Sotetsu_11000_Series_v1.0.zip"
+hash-format = "sha512"
+hash = "f41d595b1df1ea2a1b2940383646c3851185fc1773c518b7fbfd879504a0671408131c94053a4b5c8b13008d9cc37e218346c94f1293a60b7f7311e9d170750f"
+
+[update]
+[update.modrinth]
+mod-id = "hDuv0OtZ"
+version = "yTX10i62"

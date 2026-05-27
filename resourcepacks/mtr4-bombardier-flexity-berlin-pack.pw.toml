@@ -1,0 +1,13 @@
+name = "[MTR4] Bombardier Flexity Berlin Pack"
+filename = "[MTR4] Bombardier Flexity Berlin V1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sUE812hS/versions/9u0NZ1RS/%5BMTR4%5D%20Bombardier%20Flexity%20Berlin%20V1.zip"
+hash-format = "sha512"
+hash = "6a96fec6ddc45843c7852949672a3e4ec795038897e0271a3f60680a4ff7b8815feef6bd47e5a2d2f0fe8ee9ab5693edca2f3df3248e98f4b392234716e8d448"
+
+[update]
+[update.modrinth]
+mod-id = "sUE812hS"
+version = "9u0NZ1RS"

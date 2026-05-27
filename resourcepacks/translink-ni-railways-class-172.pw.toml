@@ -1,0 +1,13 @@
+name = "Translink NI Railways Class 172/4000 Series Turbostar (MTR4)"
+filename = "mtr4_translink_turbostar_172.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ehCAHr5b/versions/5UOqdDwP/mtr4_translink_turbostar_172.zip"
+hash-format = "sha512"
+hash = "0abd2a6ac58b7d07b36cb94798a6f3814544d7eb34396990145225de49cb56cda930a24408b2bd386c2f7d573fdd120c767b042fcfe323a5af2f9756ec17ebf1"
+
+[update]
+[update.modrinth]
+mod-id = "ehCAHr5b"
+version = "5UOqdDwP"

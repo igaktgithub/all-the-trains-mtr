@@ -1,0 +1,13 @@
+name = "[MTR] BB22200"
+filename = "bb22200_b2.0.0-20260502-200933.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f3ByGuNe/versions/oQiPyOMW/bb22200_b2.0.0-20260502-200933.zip"
+hash-format = "sha512"
+hash = "ef82c7a8d1609fe2c76da65f3b42555ad7f6bfb72480d3089aa40b3d9db547589e9faf2fda9e544d65c65216a81eca93873e61f9524c624ada8ef69123d58802"
+
+[update]
+[update.modrinth]
+mod-id = "f3ByGuNe"
+version = "oQiPyOMW"

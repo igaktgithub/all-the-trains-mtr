@@ -1,0 +1,13 @@
+name = "[MTR4] Class 777"
+filename = "Class 777.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NKQBDWM7/versions/Dcysdwur/Class%20777.zip"
+hash-format = "sha512"
+hash = "c8213058a32171fe07c38599ad22c0dad7c17de445966028c9313491461b253118a1b4468e8e4435d3fa9a5e3d05275456b358fc31412a55daf94b3611042472"
+
+[update]
+[update.modrinth]
+mod-id = "NKQBDWM7"
+version = "Dcysdwur"

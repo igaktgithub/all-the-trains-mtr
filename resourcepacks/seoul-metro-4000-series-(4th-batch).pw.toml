@@ -1,0 +1,13 @@
+name = "[MTR4] Seoul Metro 4000 series (4th batch)"
+filename = "seoul_metro_4000_4_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uYvjaqyU/versions/l2s5jaaP/seoul_metro_4000_4_mtr4.zip"
+hash-format = "sha512"
+hash = "0e45582a7ae870dda1ddadbbac3b2a4a12f36e4ca7bbbf2857c3ef94395a631d1ba24215f29c51ac461ae726d8bae9927bf3ac4c0f7c49d57f04cf5a8f80bc59"
+
+[update]
+[update.modrinth]
+mod-id = "uYvjaqyU"
+version = "l2s5jaaP"

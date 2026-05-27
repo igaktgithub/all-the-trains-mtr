@@ -1,0 +1,13 @@
+name = "[MTR] maimai TRAiN Repaint Pack"
+filename = "[2025.1]maimai_TRAiN.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NwiGZTUz/versions/TJrXgB9X/%5B2025.1%5Dmaimai_TRAiN.zip"
+hash-format = "sha512"
+hash = "3ed8251f33f101987d5d6d062e4dee680eb06befa3880b20f276a6d0db7318a291ab7a5200eadd29ec86b540b4dae6800cea48aa2f395fd3cae27a484739ed22"
+
+[update]
+[update.modrinth]
+mod-id = "NwiGZTUz"
+version = "TJrXgB9X"

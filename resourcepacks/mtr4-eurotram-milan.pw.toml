@@ -1,0 +1,13 @@
+name = "[MTR4] EuroTram - Milan"
+filename = "EuroTram - Milan.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Bzs1Fxj/versions/BhvxNZ0V/EuroTram%20-%20Milan.zip"
+hash-format = "sha512"
+hash = "e52af2fae1ec1c24636cb1ad04618cd16b58ae8e973964899fb08c6d9c074035ad622f4664f7a1ea3d317dd5fe1fc6813dadfff2b86395ac70603c854f2304e7"
+
+[update]
+[update.modrinth]
+mod-id = "8Bzs1Fxj"
+version = "BhvxNZ0V"

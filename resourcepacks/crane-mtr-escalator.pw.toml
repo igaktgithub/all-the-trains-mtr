@@ -1,0 +1,13 @@
+name = "Crane's MTR Escalator"
+filename = "Crane's MTR Escalator-alpha1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SBDhctFP/versions/gdlzolBS/Crane%27s%20MTR%20Escalator-alpha1.zip"
+hash-format = "sha512"
+hash = "83ca0db2e6292f432b359f886449e53433e8213ff7aba8ef097b577ac101abfa712d9b240891cacae967476f7e56fa352505271581f9c4edea3c4a28023f31b0"
+
+[update]
+[update.modrinth]
+mod-id = "SBDhctFP"
+version = "gdlzolBS"

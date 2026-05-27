@@ -1,0 +1,13 @@
+name = "[MTR4] RRG Pack"
+filename = "RRG Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HBphLN0O/versions/ZXSB7pcU/RRG%20Pack.zip"
+hash-format = "sha512"
+hash = "b320b94f54181ecd1ed70f8f7c7b90c129ebe1cf49ba48cf40c33da63f78f10512faaa56a0849dd2a81c6f7351aea1e80656887a2994045793fc64ba50f44a8c"
+
+[update]
+[update.modrinth]
+mod-id = "HBphLN0O"
+version = "ZXSB7pcU"

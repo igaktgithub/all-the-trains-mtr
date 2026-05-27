@@ -1,0 +1,13 @@
+name = "[MTR4] SKM Pack"
+filename = "SKM Pack 1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LmuEl5od/versions/JjO8OqEo/SKM%20Pack%201.0.zip"
+hash-format = "sha512"
+hash = "fedc3231a82aee6871eba5b2011c9270175b0dfb8e32489dc33ce649e1ba73362b87662edc57a4e28fadb2a4388bc9a3827a60ebdcfdfd15fad523dc742b873f"
+
+[update]
+[update.modrinth]
+mod-id = "LmuEl5od"
+version = "JjO8OqEo"

@@ -1,0 +1,13 @@
+name = "[MTR4] Thadanorka Cargo Pack"
+filename = "Thadanorka Cargo Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BNrF4Pi1/versions/9ov21YDn/Thadanorka%20Cargo%20Pack.zip"
+hash-format = "sha512"
+hash = "d529bd4c55bd5bd4895965f86c0750605c67875d127215a916a376fad97540fd522ee9642e292c01eb9f0a1ae0fcae4a697b735bf091724be477373c94d7dc6e"
+
+[update]
+[update.modrinth]
+mod-id = "BNrF4Pi1"
+version = "9ov21YDn"

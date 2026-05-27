@@ -1,0 +1,13 @@
+name = "[MTR3/4] BR InterCity 225 Set"
+filename = "Intercity225_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/D0msAQoZ/versions/V36pG8bm/Intercity225_MTR4.zip"
+hash-format = "sha512"
+hash = "216cb7172bcf06de1382f39f29a6144afa78ecf0397d8a8b3eeb5cce355b52e3eba80393cd16763a94bd35483bc30cb93b0a344105b4730ad112f81046d7cc17"
+
+[update]
+[update.modrinth]
+mod-id = "D0msAQoZ"
+version = "V36pG8bm"

@@ -1,0 +1,13 @@
+name = "[MTR4] Perth Pack"
+filename = "PerthPack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/e2cvWFbz/versions/2FD4RcRi/PerthPack.zip"
+hash-format = "sha512"
+hash = "36e86d6bac03d662f8a41cd4a7764c6e7f8d0181f85fd5157a28df683bb75d5e4fda2e97d4ed4d439f0cea53866e5ee329d1bae9b6fbd1314bd458826f5fe9c2"
+
+[update]
+[update.modrinth]
+mod-id = "e2cvWFbz"
+version = "2FD4RcRi"

@@ -1,0 +1,13 @@
+name = "[MTR4] Moszyan Railways Resources for MTR"
+filename = "Moszyan Railways Resources.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tschwQ8f/versions/F9GGivFw/Moszyan%20Railways%20Resources.zip"
+hash-format = "sha512"
+hash = "f82be7ad5a4ddde74dc4e63845cbc12aae240440eba522fdd45cc5a287b3b99e7e9785a8fcace56770e3c8c6dda185d2e0a6acce8db444a4d38d154b111a3ae0"
+
+[update]
+[update.modrinth]
+mod-id = "tschwQ8f"
+version = "F9GGivFw"

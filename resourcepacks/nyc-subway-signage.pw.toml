@@ -1,0 +1,13 @@
+name = "[MTR4] NYC Subway Signage"
+filename = "NYC Subway Signage v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A0EwQN8M/versions/JnkOctuo/NYC%20Subway%20Signage%20v1.0.zip"
+hash-format = "sha512"
+hash = "d01d7a73b0682487414b0e2339a95b286a4649e0f81371b2d05b2ccb63db01c6a3802956f944d7a43d5aabd39f0b2e92f7441c802307a5b7ac790c92b132741c"
+
+[update]
+[update.modrinth]
+mod-id = "A0EwQN8M"
+version = "JnkOctuo"

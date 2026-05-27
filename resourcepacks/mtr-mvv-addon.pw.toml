@@ -1,0 +1,13 @@
+name = "[MTR] MVV Addon"
+filename = "MVV Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6m2pLIz2/versions/2BKox9Ie/MVV%20Pack.zip"
+hash-format = "sha512"
+hash = "ae6aebead3c5bfd875a4f2bcddce68b3315f3215cc95fd1a75ecbf853bbeafcf78abdee418fc68df857cf2f3adeeec475910347345e94d2ac012b9922e8afeb8"
+
+[update]
+[update.modrinth]
+mod-id = "6m2pLIz2"
+version = "2BKox9Ie"

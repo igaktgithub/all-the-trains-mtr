@@ -1,0 +1,13 @@
+name = "CAF Serie 5000 Metro Madrid - MTR4 Adapted"
+filename = "Serie5000_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XNqSRd2o/versions/kK82LoUd/Serie5000_MTR4.zip"
+hash-format = "sha512"
+hash = "036b27d34446e0382bca2c29d022dbd167620d5c1f15be884254312fbbd04eef42aed1df07f35d0f10fc0204d1e7a3592179ec40468809268ea4ffc8d218bf5e"
+
+[update]
+[update.modrinth]
+mod-id = "XNqSRd2o"
+version = "kK82LoUd"

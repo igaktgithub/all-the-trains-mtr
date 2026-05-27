@@ -1,0 +1,13 @@
+name = "Class 377 Retexture's"
+filename = "pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DC9IQVe5/versions/LRXugtQh/pack.zip"
+hash-format = "sha512"
+hash = "4d4d0d0d4b259157958a937e1ea94c8ca6b718767dc7456c28c8240e99796705a3c8347fc5ae457c57120dbc0770c26de48124979c3e4a89fe36535c04a8965c"
+
+[update]
+[update.modrinth]
+mod-id = "DC9IQVe5"
+version = "LRXugtQh"

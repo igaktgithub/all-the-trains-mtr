@@ -1,0 +1,13 @@
+name = "[MTR4] Manchester Metrolink Bombardier M5000"
+filename = "Manchester_MetroLink_M5000.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bgUS7BuV/versions/tRogS9TG/Manchester_MetroLink_M5000.zip"
+hash-format = "sha512"
+hash = "ad6cb9f24d4a579cc355dfdb5a0e0b64781e013b390c74df39c984c5595859b583d7500f9379a08e484fce1a95c3378a1712e8cc00371efacd255be11bc8901c"
+
+[update]
+[update.modrinth]
+mod-id = "bgUS7BuV"
+version = "tRogS9TG"

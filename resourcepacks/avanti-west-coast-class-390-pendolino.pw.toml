@@ -1,0 +1,13 @@
+name = "[MTR3/4] Avanti West Coast Class 390 'Pendolino'"
+filename = "Class390_Avanti_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xnWrCZTc/versions/teoIgqMX/Class390_Avanti_MTR4.zip"
+hash-format = "sha512"
+hash = "442c76cd30ae83504e8d02dd0d3f1546e6447c37a3fbf0bcab9999c7c77df32d1aaed886505a3b1efa53b75e7e06fcbe2c8eeffccdd8310fa595f5054bd7d0d4"
+
+[update]
+[update.modrinth]
+mod-id = "xnWrCZTc"
+version = "teoIgqMX"

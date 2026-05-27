@@ -1,0 +1,13 @@
+name = "[MTR] STAR21 | Class 952-953 Shinkansen"
+filename = "DEWON-STAR21-1.1-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hOPoIORH/versions/Qodd8DLo/DEWON-STAR21-1.1-MTR4.zip"
+hash-format = "sha512"
+hash = "8a2d93c5af98ca8d7442849140a5874977f3abb3bb05ee3b42f27e9057e7d77724c340c4f1faa884083bc22d1db55b8d29dc6606a565f8b5830477ca451ed56f"
+
+[update]
+[update.modrinth]
+mod-id = "hOPoIORH"
+version = "Qodd8DLo"

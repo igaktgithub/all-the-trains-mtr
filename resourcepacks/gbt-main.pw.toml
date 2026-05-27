@@ -1,0 +1,13 @@
+name = "[MTR] GBT"
+filename = "gbt.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gtkPHNiE/versions/r4hZPMQ3/gbt.zip"
+hash-format = "sha512"
+hash = "69a35f4c078bf1a952ffd4cc1cf05c0475af5ad88786bd2d6a08d1ddd71e6045c9e24dcd01bbc55837f5305b91637e06ef2ca835fa154a87e09c83773fb3e096"
+
+[update]
+[update.modrinth]
+mod-id = "gtkPHNiE"
+version = "r4hZPMQ3"

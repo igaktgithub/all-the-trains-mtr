@@ -1,0 +1,13 @@
+name = "[MTR] E7/W7 Series Shinkansen"
+filename = "DEWON-E7-W7-2.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/v5TcC9jF/versions/PZv4fDuV/DEWON-E7-W7-2.0-MTR4.zip"
+hash-format = "sha512"
+hash = "49d2327b69ff788576c6150ee5c9f633fa3f0501004bbed01c2ca0a127500220e310efd082d2fe20c274f8637ea27fc2c352160e33f61c3bef3cbd7b3894a1b2"
+
+[update]
+[update.modrinth]
+mod-id = "v5TcC9jF"
+version = "PZv4fDuV"

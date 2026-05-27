@@ -1,0 +1,13 @@
+name = "[MTR]413series"
+filename = "[MTR]413series.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PD9OXV4V/versions/xpdHuFrF/%5BMTR%5D413series.zip"
+hash-format = "sha512"
+hash = "a92c1a145e34fe6ebce32a442c065b25f5f36907b85f91cdee6b42791331e642c6c895a47ef9c5842968f5c7edf0a91d3dbad3df8206898376053e001066346d"
+
+[update]
+[update.modrinth]
+mod-id = "PD9OXV4V"
+version = "xpdHuFrF"

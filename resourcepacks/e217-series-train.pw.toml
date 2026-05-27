@@ -1,0 +1,13 @@
+name = "[MTR4]JR東日本 E217系|JR East E217 series"
+filename = "JR_East_E217_Series_v1.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3RznpLhG/versions/iBIbAEOe/JR_East_E217_Series_v1.5.zip"
+hash-format = "sha512"
+hash = "05dd48de5e5b5b97725c7f65298d125293b62c64d5c390811343dc2ff2f4644e947d44fe61c785a0f2a75e40f72a7a7f9831d9080490814052f89c8e1c3230cd"
+
+[update]
+[update.modrinth]
+mod-id = "3RznpLhG"
+version = "iBIbAEOe"

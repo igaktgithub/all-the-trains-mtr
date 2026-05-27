@@ -1,0 +1,13 @@
+name = "[MTR4] Seoul Metro Signage"
+filename = "Seoul Metro Signage v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2EDc0xEQ/versions/AqSTOAJA/Seoul%20Metro%20Signage%20v1.0.zip"
+hash-format = "sha512"
+hash = "c16e04db9eacb9d6843b6d4a57e310aede9088c59a54359bf0521441254808418b95fa4bbb6d01ea3f3c0e70454996dbed68aefe4691230f002eea437d62c0ef"
+
+[update]
+[update.modrinth]
+mod-id = "2EDc0xEQ"
+version = "AqSTOAJA"

@@ -1,0 +1,13 @@
+name = "[MTR4] StarTrain B400"
+filename = "[MTR4] StarTrain B400 Tram - V1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/shgxfRrn/versions/9FRA6f26/%5BMTR4%5D%20StarTrain%20B400%20Tram%20-%20V1.zip"
+hash-format = "sha512"
+hash = "63a800d9927c6e1adb486ad014db6a07a4075dcb05b36328f807b5a98ba1d0a91ac33efd2c0eca797609553d4138358fb159312ad3dc516ee1251a43c54ba8cd"
+
+[update]
+[update.modrinth]
+mod-id = "shgxfRrn"
+version = "9FRA6f26"

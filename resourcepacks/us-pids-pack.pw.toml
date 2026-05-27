@@ -1,0 +1,13 @@
+name = "[MTR4+JCM] US PIDS Pack"
+filename = "US PIDS Pack v4.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V6Ui1gPL/versions/TsAUW8S3/US%20PIDS%20Pack%20v4.1.zip"
+hash-format = "sha512"
+hash = "72753f012e428210b45caecec392bed0c5141dffa7975fddb8f69893cc228d254c1b010a946600becf1b867c2c0a7364f861ac7842287dbb3e1cc43ac07c7068"
+
+[update]
+[update.modrinth]
+mod-id = "V6Ui1gPL"
+version = "TsAUW8S3"

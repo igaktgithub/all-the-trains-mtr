@@ -1,0 +1,13 @@
+name = "[MTR3/4] New South Wales EMU Trains"
+filename = "mtr_NSWEMU_4.0_250811.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JV0IKYsw/versions/ypBzfMCi/mtr_NSWEMU_4.0_250811.zip"
+hash-format = "sha512"
+hash = "7f84164026b7d78ac3ba314f1c7136ac30dd7f9aca4e440bf65b690de57cd4a7944e1285bbaeb0730d028bb959913419f6366944a05c530262309c0f203f4cf0"
+
+[update]
+[update.modrinth]
+mod-id = "JV0IKYsw"
+version = "ypBzfMCi"

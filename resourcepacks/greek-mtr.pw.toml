@@ -1,0 +1,13 @@
+name = "[MTR4/JCM] Greek Railway Pack for MTR"
+filename = "Greek-MTR-v.1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UAqXTZxp/versions/z9hL3mq6/Greek-MTR-v.1.3.zip"
+hash-format = "sha512"
+hash = "8769d93210adcdd828ae362bc3113c7c15dde907f9dd822d914e58a1d8a67fe3f0b39891babdb76bdb05a1aea3414acb173f7cf572b6d61d3bf3acda539afaac"
+
+[update]
+[update.modrinth]
+mod-id = "UAqXTZxp"
+version = "z9hL3mq6"

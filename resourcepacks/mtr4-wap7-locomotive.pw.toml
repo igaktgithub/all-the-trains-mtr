@@ -1,0 +1,13 @@
+name = "[MTR4] WAP7 Locomotive - Indian Railways"
+filename = "WAP7-1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aj0bTZQi/versions/OPYf1K3T/WAP7-1.1.zip"
+hash-format = "sha512"
+hash = "c635e8a435f0f041359b0f271e2448c473d7c3bac921a8bed51c9dc0602cb683c3823e785ca1ad330181909714d7bb191ce6545ddb3120fb1055668de70b0100"
+
+[update]
+[update.modrinth]
+mod-id = "aj0bTZQi"
+version = "OPYf1K3T"

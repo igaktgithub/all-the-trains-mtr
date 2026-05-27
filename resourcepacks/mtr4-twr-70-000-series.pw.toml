@@ -1,0 +1,13 @@
+name = "[MTR4] 東京臨海高速鉄道70-000形 | TWR 70-000 Series"
+filename = "mtr4-twr-70000.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B5POZBeh/versions/sQIxNuyj/mtr4-twr-70000.zip"
+hash-format = "sha512"
+hash = "0ee7ef2752b664adc01717262796231165b6921f71df9e4f7a170afa459ae40d20989d35cc2c8337f10399c092dcd4c02282db145d66eaa2993ee01f7b431f42"
+
+[update]
+[update.modrinth]
+mod-id = "B5POZBeh"
+version = "sQIxNuyj"

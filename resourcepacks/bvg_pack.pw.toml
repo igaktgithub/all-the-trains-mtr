@@ -1,0 +1,13 @@
+name = "BVGPack [MTR]"
+filename = "BVGPack v1.0 (MTR4).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1KhNrRSr/versions/nf2sgvZC/BVGPack%20v1.0%20%28MTR4%29.zip"
+hash-format = "sha512"
+hash = "cc953b05697623135bb0c1a86b3319901e03cd66f25a115cc7696b49d310fb7d86f05acd1bc8031abc0322e892dab5bb926d45a358afb81f5d2d3c5f89378dd1"
+
+[update]
+[update.modrinth]
+mod-id = "1KhNrRSr"
+version = "nf2sgvZC"

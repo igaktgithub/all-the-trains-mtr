@@ -1,0 +1,13 @@
+name = "[MTR3/NTE][MTR4] Czech Tram Suspensions"
+filename = "Czech_Tram_Suspensions.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mKwaAXcF/versions/pqcni45r/Czech_Tram_Suspensions.zip"
+hash-format = "sha512"
+hash = "e893c18f676a6ad4f5425dc551e6e5529f56a5530f2aa6beb1010045415a690a39f3ec324f4e3c7875756069a1977e8a4969ad504cd4dcb92490a8d683642f40"
+
+[update]
+[update.modrinth]
+mod-id = "mKwaAXcF"
+version = "pqcni45r"

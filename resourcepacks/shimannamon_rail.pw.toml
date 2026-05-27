@@ -1,0 +1,13 @@
+name = "shimannamon_rail"
+filename = "[MTR]shimannamon_rail.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qp6T6G67/versions/4OrLCK0u/%5BMTR%5Dshimannamon_rail.zip"
+hash-format = "sha512"
+hash = "202d969c0677ed2a9778c7b3a27e9b4bace226ece983581c8797a3b5178d660704c63a23ecef17378c78ddc97f6b417a6cde0835e4e9466ab64f1c051ce4076a"
+
+[update]
+[update.modrinth]
+mod-id = "Qp6T6G67"
+version = "4OrLCK0u"

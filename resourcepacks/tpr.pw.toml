@@ -1,0 +1,13 @@
+name = "[MTR4] Trampack Redux"
+filename = "TrampackRedux-Public-v.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ALLdB5DN/versions/dYGahlhO/TrampackRedux-Public-v.1.1.zip"
+hash-format = "sha512"
+hash = "035737e0fd4a6a3bcf2b4e65bbfc65d11f840481621f4b213f4b761642908c65122a13135ffb124af0a9024688e3b72e971851265100f61cda761faa7ac6857e"
+
+[update]
+[update.modrinth]
+mod-id = "ALLdB5DN"
+version = "dYGahlhO"

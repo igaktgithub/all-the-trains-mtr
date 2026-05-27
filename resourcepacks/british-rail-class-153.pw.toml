@@ -1,0 +1,13 @@
+name = "[MTR3/4] British Rail Class 153"
+filename = "BR Class 153.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fIFK7NCt/versions/JDlz9O92/BR%20Class%20153.zip"
+hash-format = "sha512"
+hash = "28d6777628c35b986a069effbe5b84f0c3736ceb50f720a8aba015ec2eacc915e99239942b5806ed3fd60225ce4c1d738f6672978432b01f32db68404bc23535"
+
+[update]
+[update.modrinth]
+mod-id = "fIFK7NCt"
+version = "JDlz9O92"

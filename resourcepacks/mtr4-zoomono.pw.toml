@@ -1,0 +1,13 @@
+name = "[MTR4] Zoomono"
+filename = "zoomono-mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S5TQEuyu/versions/Q4QBwMmk/zoomono-mtr4.zip"
+hash-format = "sha512"
+hash = "edc2241b6c7f6cdf3aa476902bcd8bc6dd628f8755dfcf1734e8ed782bce42fb6ac8d323f7e44ae112a00ea3a41369ec9c6003316e352f6d4b8a57b4c716b62d"
+
+[update]
+[update.modrinth]
+mod-id = "S5TQEuyu"
+version = "Q4QBwMmk"

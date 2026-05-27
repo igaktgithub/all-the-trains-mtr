@@ -1,0 +1,13 @@
+name = "[MTR3/4]KTX_EUM"
+filename = "MTR_KTXEUM_4.0_250311.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pF7M85w5/versions/1rQJyJH0/MTR_KTXEUM_4.0_250311.zip"
+hash-format = "sha512"
+hash = "da551fab48e50d9bf87cdd606bdc63c9f0b8ee99c36bf244e75966468ecb7c7287f94c79aa720174f00a426ac4362421b4e212945c34aacdf51d96d1ecd26c31"
+
+[update]
+[update.modrinth]
+mod-id = "pF7M85w5"
+version = "1rQJyJH0"

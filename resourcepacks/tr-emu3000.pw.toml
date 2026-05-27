@@ -1,0 +1,13 @@
+name = "[MTR/NTE]Taiwan Railway Corp.EMU3000 Pack"
+filename = "[V2025.11.1]TR-EMU3000.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDHAzA8L/versions/ASPnYN6Q/%5BV2025.11.1%5DTR-EMU3000.zip"
+hash-format = "sha512"
+hash = "276361c0f9ed835b6ffdeb7be5f586c74e1651dbff430cff25571dfc1f6de001dfa2139020a2b06308f7b725ca334029cfe7ac345ace78e7146f5091051cdff1"
+
+[update]
+[update.modrinth]
+mod-id = "VDHAzA8L"
+version = "ASPnYN6Q"

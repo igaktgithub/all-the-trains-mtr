@@ -1,0 +1,13 @@
+name = "[MTR4] Stepford Express HST"
+filename = "SCR Stepford Express HST V1.1 MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s0iBmnMI/versions/3VmfmkYd/SCR%20Stepford%20Express%20HST%20V1.1%20MTR4.zip"
+hash-format = "sha512"
+hash = "37c2d52558bd983789ce6daf096a2344aa35f6b52bc07007e351bfdaa71d840d652319ca9fd4c4dd11e564b7b2f03d13f1e6e2ef3c2fb7bbb053dcb3131a027d"
+
+[update]
+[update.modrinth]
+mod-id = "s0iBmnMI"
+version = "3VmfmkYd"

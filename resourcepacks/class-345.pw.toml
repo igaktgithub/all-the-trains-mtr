@@ -1,0 +1,13 @@
+name = "Class 345 (Elizabeth Line)"
+filename = "class_345_official_release (May24).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Y0rPkhP/versions/IwpGqVdq/class_345_official_release%20%28May24%29.zip"
+hash-format = "sha512"
+hash = "97d26f76ad89f2e2b3e74a74a32c6a159b8b2921128b99ae2ad4968bfbdeb29f2e164be593777152a7fbd346a8509e8122805c06d7c17ea8690309c41cbbebb2"
+
+[update]
+[update.modrinth]
+mod-id = "5Y0rPkhP"
+version = "IwpGqVdq"

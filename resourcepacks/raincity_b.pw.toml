@@ -1,0 +1,13 @@
+name = "[MTR]Raincity_B"
+filename = "[MTR4]Raincity_B.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1kMeROGN/versions/MIbtjvcY/%5BMTR4%5DRaincity_B.zip"
+hash-format = "sha512"
+hash = "d0fdb535c626d64891b3faeb32ece3d1fbb3b5f4ac0057c059210c99302e8853665300f7e8732fea5733769c0be4a55fd88e056753a9a3c2ac98bbb319f26bfc"
+
+[update]
+[update.modrinth]
+mod-id = "1kMeROGN"
+version = "MIbtjvcY"

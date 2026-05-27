@@ -1,0 +1,13 @@
+name = "[MTR3/4]British Rail HST & Mark Carriage Pack"
+filename = "MTR_BRMark_srt_4.0_251214.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XcwZzgX/versions/FCK7gSt1/MTR_BRMark_srt_4.0_251214.zip"
+hash-format = "sha512"
+hash = "ee29b5465989a893e6824bd002de52977addcb4eb160c8e25088e5f210bef1576af589f827ad886f49b0a0bd40454112504bc3e1a059ef3acab20b69edaeb36c"
+
+[update]
+[update.modrinth]
+mod-id = "1XcwZzgX"
+version = "FCK7gSt1"

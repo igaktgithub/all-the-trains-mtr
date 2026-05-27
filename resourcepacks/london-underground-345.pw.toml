@@ -1,0 +1,13 @@
+name = "[MTR 4] London Underground 345"
+filename = "London_Underground_345.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kwidbias/versions/NG0Uk0fN/London_Underground_345.zip"
+hash-format = "sha512"
+hash = "d5fd838abb82182f887f76728e8bc4449d00d2e87d3b7246975342d5315ce031c41b99e12ce518cb26fa8de807c670a1e30298cd30b260d5874c4ee8eb8d56c3"
+
+[update]
+[update.modrinth]
+mod-id = "Kwidbias"
+version = "NG0Uk0fN"

@@ -1,0 +1,13 @@
+name = "London Overground Class 345/710"
+filename = "class_345_overground_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KzR2KgOg/versions/yj3ohLQA/class_345_overground_mtr4.zip"
+hash-format = "sha512"
+hash = "986598e36a932dd4b95f2af8e1bea4b6b126d7ce1550e059e7446ecab27b7e57ae67a060177e04e6745a39b926df5409d5135346b9e43d8ff31c1cc4b3cc27af"
+
+[update]
+[update.modrinth]
+mod-id = "KzR2KgOg"
+version = "yj3ohLQA"

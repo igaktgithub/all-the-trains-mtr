@@ -1,0 +1,13 @@
+name = "[MTR/WPP] dutch pids pack"
+filename = "dutchpidsv1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/el3Qf1Ik/versions/fJMSMZzx/dutchpidsv1.zip"
+hash-format = "sha512"
+hash = "95c97353ebff555c171de0a4c4b7fcb71c12f4dd47006ce4c68cf5072836ffefcab59c80278c20825b21b233111792e1e07e3920e0a6d3abc5e841d438f8b098"
+
+[update]
+[update.modrinth]
+mod-id = "el3Qf1Ik"
+version = "fJMSMZzx"

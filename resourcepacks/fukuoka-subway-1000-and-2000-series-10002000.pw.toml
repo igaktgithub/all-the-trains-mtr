@@ -1,0 +1,13 @@
+name = "Fukuoka City Subway 1000 and 2000 Series | 福岡市交通局1000・2000系"
+filename = "Fukuoka_Subway_1000_2000_Series_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bh08xwUj/versions/MOLO5KyL/Fukuoka_Subway_1000_2000_Series_V1.0.zip"
+hash-format = "sha512"
+hash = "3d0c4576f4a1e1cf3551e2ac56320c295b81c8e244bc2b5fe6fd74d9484bab4dc553399918fb5bc6af24823428c52bf62aace30fd2274611a444c153f92656be"
+
+[update]
+[update.modrinth]
+mod-id = "Bh08xwUj"
+version = "MOLO5KyL"

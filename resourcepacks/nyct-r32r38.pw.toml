@@ -1,0 +1,13 @@
+name = "NYCT R32/R38"
+filename = "NYCT R32-R38 - Rev B.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fkbT2lxL/versions/EuInRoyJ/NYCT%20R32-R38%20-%20Rev%20B.zip"
+hash-format = "sha512"
+hash = "a908c034cd4e24336381a0ac6e762dd2e99151f0a1d36851c3ad7c9cb562e45fb6ed53380f70df844d54094fa526c4e8f69919e39fe61a938a28879539713f1e"
+
+[update]
+[update.modrinth]
+mod-id = "fkbT2lxL"
+version = "EuInRoyJ"

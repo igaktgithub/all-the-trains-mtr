@@ -1,0 +1,13 @@
+name = "[MTR] Alsthom TFS"
+filename = "MTR_Alsthom_TFS_v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lOtvEMEF/versions/LMX9rwld/MTR_Alsthom_TFS_v1.0.zip"
+hash-format = "sha512"
+hash = "7d184cb7e7e6ea75b31637c452e243702548fcfe875abf868a70a7cce00462f03833fa5e647f7357479e79d8b0ca0911814297c025d495d68596baef52a17085"
+
+[update]
+[update.modrinth]
+mod-id = "lOtvEMEF"
+version = "LMX9rwld"

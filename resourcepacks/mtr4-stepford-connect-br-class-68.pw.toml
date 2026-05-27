@@ -1,0 +1,13 @@
+name = "[MTR4] Stepford Connect BR Class 68"
+filename = "SCR_Class68_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2KYsurDb/versions/RNKDCWd6/SCR_Class68_MTR4.zip"
+hash-format = "sha512"
+hash = "c6ccf36b43241c326bf00d2ba0e4b6036ef4223fb70240beb2785d860225ed8302df1e91ac0a70d76c032f25bac5f55f02503a4cacd5ced4ea7abca2e99a3086"
+
+[update]
+[update.modrinth]
+mod-id = "2KYsurDb"
+version = "RNKDCWd6"

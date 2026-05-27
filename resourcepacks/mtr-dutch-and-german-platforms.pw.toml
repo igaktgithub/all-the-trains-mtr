@@ -1,0 +1,13 @@
+name = "[MTR] Dutch and German Platforms"
+filename = "dutchandgermanplatformpack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cB4a6xiM/versions/f9Tm1goQ/dutchandgermanplatformpack.zip"
+hash-format = "sha512"
+hash = "8ae06a6fed8746ec1b0ddf0b34bfa7321ebf6b07967b05bdfc785efc9cf0e8d364da3eb8c1a8f5844bee443ab439c6b88728144b938096c5da185aeb554fe274"
+
+[update]
+[update.modrinth]
+mod-id = "cB4a6xiM"
+version = "f9Tm1goQ"

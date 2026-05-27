@@ -1,0 +1,13 @@
+name = "[MTR4] LHB EOG Coaches Pack (Manual Doors)"
+filename = "LHB-EOG-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/auYkWLzG/versions/PqGA1Js9/LHB-EOG-1.0.zip"
+hash-format = "sha512"
+hash = "e1619ce511770b135bff643c8874d24b3d0bd724273aec40c0891e3b2b742e0431b7189bcdd5cdd4deb9a976cecdcfff0ae871abeda06556f2dc256d27be38fc"
+
+[update]
+[update.modrinth]
+mod-id = "auYkWLzG"
+version = "PqGA1Js9"

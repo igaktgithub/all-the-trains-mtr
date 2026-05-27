@@ -1,0 +1,13 @@
+name = "[MTR3/4] British Rail Class 350"
+filename = "BR_Class_350.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AKnLk2t2/versions/AwIijljB/BR_Class_350.zip"
+hash-format = "sha512"
+hash = "e4a2b579db983ca9bc20f336aa2343283f25f0487fc781731e7812c9245f1b32a270f3fd5f688fa11e5f9d208d9af4b9d0a2d6d5be6640771d9020c25e01ba54"
+
+[update]
+[update.modrinth]
+mod-id = "AKnLk2t2"
+version = "AwIijljB"

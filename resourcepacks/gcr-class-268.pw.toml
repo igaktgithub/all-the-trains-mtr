@@ -1,0 +1,13 @@
+name = "GCR Class 268"
+filename = "GCR Class 268.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/COOPAPCd/versions/Jvhgq57P/GCR%20Class%20268.zip"
+hash-format = "sha512"
+hash = "a0df0867884a085c99cc0aa7bcbe75643951c5b504300375ef674ae59beef83a37ed4ffba99e7b8b9bbf9e3304d0ad2ecfe8bad02946ab29c5b591cd035600ab"
+
+[update]
+[update.modrinth]
+mod-id = "COOPAPCd"
+version = "Jvhgq57P"

@@ -1,0 +1,13 @@
+name = "[MTR4] Automated Guideway Tracks"
+filename = "Automated Guideway Tracks v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SARbKC4c/versions/SpLdImH8/Automated%20Guideway%20Tracks%20v1.0.zip"
+hash-format = "sha512"
+hash = "660409e5d124fe5dd5bd108cc0326c7fdd857af68d779486afc5a3d8ea87c425583971f9eda7173bee432cc8badc2ed1784b11dbbbb328694d9d243c3c1e2c2e"
+
+[update]
+[update.modrinth]
+mod-id = "SARbKC4c"
+version = "SpLdImH8"

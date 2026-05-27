@@ -1,0 +1,13 @@
+name = "[MTR4] 서울교통공사 3000호대 초퍼제어 전동차|Seoul Metro 3000 series (Chopper)"
+filename = "seoul_metro_3000_chopper.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yasGoff4/versions/JpedBIQ8/seoul_metro_3000_chopper.zip"
+hash-format = "sha512"
+hash = "9ec9303462630a252a7a3898fbc12c1f14ca1f980345576ccd9263c81093481e64f7386d64fd5f1af1fbfea7551bd43e0ecfe7b3c66395f3b93a1c5ee8e704ed"
+
+[update]
+[update.modrinth]
+mod-id = "yasGoff4"
+version = "JpedBIQ8"

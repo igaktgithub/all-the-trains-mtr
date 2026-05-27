@@ -1,0 +1,13 @@
+name = "[MTR4] TriMet LRV Pack"
+filename = "S700 TriMet v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5WgmgIjm/versions/awxjXMWi/S700%20TriMet%20v1.1.zip"
+hash-format = "sha512"
+hash = "0ace5d4a7fa3f8385f9271e252b9f1c4dc01dcf8a69d26cdf0aa0b9bce351e6ce0b49dd146d70dc89ab2bf80de8844207c69e89268e6d3e6c77e1462ebfbcce8"
+
+[update]
+[update.modrinth]
+mod-id = "5WgmgIjm"
+version = "awxjXMWi"

@@ -1,0 +1,13 @@
+name = "[MTR4] VDL Citea LLE-120"
+filename = "VDL Citea LLE-120.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f036pYwa/versions/klkFlnzO/VDL%20Citea%20LLE-120.zip"
+hash-format = "sha512"
+hash = "4c47a5d04530e96fe89f822173436deb092214b476684a2e5b8d0856742a01f25c1bdc778354a5ceaf4413c475d48ac1b13562634755bc95d66ad4b48879fc04"
+
+[update]
+[update.modrinth]
+mod-id = "f036pYwa"
+version = "klkFlnzO"

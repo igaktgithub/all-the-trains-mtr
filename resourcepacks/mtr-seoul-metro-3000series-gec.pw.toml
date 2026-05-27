@@ -1,0 +1,13 @@
+name = "[MTR] 서울메트로 GEC | Seoul Metro 3000series GEC"
+filename = "Seoul_Metro_3000_GEC.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZqCRJ1qL/versions/arDKqTH3/Seoul_Metro_3000_GEC.zip"
+hash-format = "sha512"
+hash = "411c306784a746a1aee5ff5254d4c1ba4e2d5d5d38d8134d27ab75abc61fdd09be3eecac6eaa28e704954a391091c66b99735189612ee17997e1420a3bb0b1c9"
+
+[update]
+[update.modrinth]
+mod-id = "ZqCRJ1qL"
+version = "arDKqTH3"

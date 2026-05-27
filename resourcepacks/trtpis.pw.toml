@@ -1,0 +1,13 @@
+name = "[MTR4]Tianjin Metro Style PIS"
+filename = "TJPIS_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gWNx297D/versions/KZnZaPD2/TJPIS_1.0.zip"
+hash-format = "sha512"
+hash = "a72426fa702fbe539861f1148fd6f26dcb8472df574fff9720be3d8c99d11eecf7b29d86a41fbfcbea367c60274768a4e544349413a21b1dc0c9a1045d5420e5"
+
+[update]
+[update.modrinth]
+mod-id = "gWNx297D"
+version = "KZnZaPD2"

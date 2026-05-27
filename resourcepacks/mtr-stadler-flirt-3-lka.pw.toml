@@ -1,0 +1,13 @@
+name = "[MTR] Stadler FLIRT 3 with ŁKA livery (PL)"
+filename = "MTR-Stadler_Flirt_3-ŁKA-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NlA8uG3S/versions/oWcLqWOU/MTR-Stadler_Flirt_3-%C5%81KA-1.0.zip"
+hash-format = "sha512"
+hash = "ddcc4826721a5c9b046ae85c0315c2b079862d38423d650ae063c1049617c23fe3a63da2fd94cf057b3909c7aabcd34a88667cfadec0b4d41fa2fdf1e474e712"
+
+[update]
+[update.modrinth]
+mod-id = "NlA8uG3S"
+version = "oWcLqWOU"

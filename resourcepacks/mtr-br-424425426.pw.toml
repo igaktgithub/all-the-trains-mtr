@@ -1,0 +1,13 @@
+name = "MTR BR 424/425/426"
+filename = "[MTR4] BR 424-425-426.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OcBYBSTM/versions/CBNHoMKn/%5BMTR4%5D%20BR%20424-425-426.zip"
+hash-format = "sha512"
+hash = "549fade0720e53e30667618fc33360ace74318aa9fccd283b6f3dffd7bac1d17fc1f202854ef5b0ac80a8529ad0ba6df557838b7e8b34fa908a1223161e0c118"
+
+[update]
+[update.modrinth]
+mod-id = "OcBYBSTM"
+version = "CBNHoMKn"

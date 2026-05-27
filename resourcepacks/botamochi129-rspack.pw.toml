@@ -1,0 +1,13 @@
+name = "【MTR3/4】botamochi129 Rail&Structure Pack"
+filename = "botamochi129_Rail_Structure_Pack_v.1.4_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wp8JCYeg/versions/RDCP0ThT/botamochi129_Rail_Structure_Pack_v.1.4_mtr4.zip"
+hash-format = "sha512"
+hash = "e958b9f336ceb69d25d543c1da4228c2248b2236cf1e8e51913d5163f653fd00e0575470f2ac70055c05c767f76cd1aa1f8f78a4af4f6beb868e88adf29bcb28"
+
+[update]
+[update.modrinth]
+mod-id = "Wp8JCYeg"
+version = "RDCP0ThT"

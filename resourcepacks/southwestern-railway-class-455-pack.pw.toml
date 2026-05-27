@@ -1,0 +1,13 @@
+name = "Southwestern Railway Class 455 Pack for MTR"
+filename = "swr_class_455_pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GvgurRyM/versions/ooXIsQwA/swr_class_455_pack.zip"
+hash-format = "sha512"
+hash = "a912c0578fad9d0e23d426e1d8b1a0f45ed33fd2a98637c5ff984e4ed11da3186f4ca544ee3add3770287f685767df9856ebc27183c4391192e69f76da468cc9"
+
+[update]
+[update.modrinth]
+mod-id = "GvgurRyM"
+version = "ooXIsQwA"

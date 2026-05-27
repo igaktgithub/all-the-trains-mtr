@@ -1,0 +1,13 @@
+name = "[MTR]LighTRain_霞"
+filename = "LighTRain_霞4.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TbzfuNVu/versions/36DHbhQ8/LighTRain_%E9%9C%9E4.0.zip"
+hash-format = "sha512"
+hash = "cbb0ced83ad1eb3aafb1fca95f18039286b8a5da501e18767f286cce2bce265d6adb7a93b08aec6d5f5783238abd81b52edd3947f21127bfd5c3c94a7631ce01"
+
+[update]
+[update.modrinth]
+mod-id = "TbzfuNVu"
+version = "36DHbhQ8"

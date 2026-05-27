@@ -1,0 +1,13 @@
+name = "[MTR4] Lake City Metro"
+filename = "Lake City Metro.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wEFzsjIw/versions/IqXzU79Z/Lake%20City%20Metro.zip"
+hash-format = "sha512"
+hash = "c259e14c498701d620eb2ed8c77619eaffe46af982698f699cc3454a95b8437d2c0c8f052669b1aadfe780b6d34c945ae24c0dfb21f05e560def562cedd7b675"
+
+[update]
+[update.modrinth]
+mod-id = "wEFzsjIw"
+version = "IqXzU79Z"

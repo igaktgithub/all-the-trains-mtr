@@ -1,0 +1,13 @@
+name = "[MTR4] British Rail Class 395 Javelin"
+filename = "MTR4_BR_Class_395_Javelin.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lqxWc97X/versions/KS6fMjG4/MTR4_BR_Class_395_Javelin.zip"
+hash-format = "sha512"
+hash = "3e5cc0552d63f117c24671f6b29c4619b0bec92f98960ff5f20fcbbfe80e86edf19f01ec85f313cedae5c606e0bdd4f3ec176785e753658adba01dc08524c7b0"
+
+[update]
+[update.modrinth]
+mod-id = "lqxWc97X"
+version = "KS6fMjG4"

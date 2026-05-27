@@ -1,0 +1,13 @@
+name = "[MTR] 700 Series Shinkansen"
+filename = "DEWON-700-Nozomi-Hikari-2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/t3N0eadm/versions/M9Tt6Ckz/DEWON-700-Nozomi-Hikari-2.0.zip"
+hash-format = "sha512"
+hash = "4b2b94022572630ee17fe672eece8fed342ab20afb9a74fca8098598332f8667ef2cf66a80ebb3c55ff18ac5d0b6cb8da59f5904ecb3bf53032dfb1487940717"
+
+[update]
+[update.modrinth]
+mod-id = "t3N0eadm"
+version = "M9Tt6Ckz"

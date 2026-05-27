@@ -1,0 +1,13 @@
+name = "[MTR4] 福岡市交4000系|Fukuoka Subway 4000 Series"
+filename = "fukuoka_subway_4000_series_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ROD14ApV/versions/LS7ML9ue/fukuoka_subway_4000_series_mtr4.zip"
+hash-format = "sha512"
+hash = "5cadd5add80a7893b8483153d6282b6da8b0c10ac88a3971db74682d1e2d7cc905e1f2fd4003f7edd9838697860254970cd6117fea8d63233f46924419d1d743"
+
+[update]
+[update.modrinth]
+mod-id = "ROD14ApV"
+version = "LS7ML9ue"

@@ -1,0 +1,13 @@
+name = "[MTR4] NMBS/SNCB I6 and I10 EUROFIMA Coaches"
+filename = "SNCB_I6_I10_Coaches.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OPfA0dVl/versions/CPsVyChy/SNCB_I6_I10_Coaches.zip"
+hash-format = "sha512"
+hash = "bc37221c3000d2186f7d3b12b0af1a5e55d8b3b8d7335c303b4d752cb3b920634a89ccebd935e9e963c32c7bcb4ecd9bcec38af6d768e135f755b6553fe10efb"
+
+[update]
+[update.modrinth]
+mod-id = "OPfA0dVl"
+version = "CPsVyChy"

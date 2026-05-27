@@ -1,0 +1,13 @@
+name = "London Underground 2009 Tube Stock"
+filename = "LU2009TS_CA [MTR 4].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/80S3u6nk/versions/trerunh4/LU2009TS_CA%20%5BMTR%204%5D.zip"
+hash-format = "sha512"
+hash = "892983082400614ebd8157da4f9cfa4e44cc9fb4921c5f6c2ade85074516fc93ef7f8df40157155b3208262e746cf984498b4de2edc1a0b7c283e599f0821d4b"
+
+[update]
+[update.modrinth]
+mod-id = "80S3u6nk"
+version = "trerunh4"

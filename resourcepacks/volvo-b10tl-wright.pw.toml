@@ -1,0 +1,13 @@
+name = "[MTR4] 前衛巴士 | Volvo B10TL w/ Wright Body"
+filename = "mtr4-avw.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KysoVszD/versions/jkvFGnsd/mtr4-avw.zip"
+hash-format = "sha512"
+hash = "bd8dd1d85e7092009967e0f395d38a09a888627954e582dbed389e365a9b8ae476ea155b99df4b19d9b899da4b733a6d68cf74278b85546fa150558afdc41560"
+
+[update]
+[update.modrinth]
+mod-id = "KysoVszD"
+version = "jkvFGnsd"

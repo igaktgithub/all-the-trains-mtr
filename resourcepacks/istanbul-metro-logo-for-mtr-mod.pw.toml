@@ -1,0 +1,13 @@
+name = "Istanbul Metro Logo For MTR Mod"
+filename = "IstanbulMetroLogo_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoPaQkld/versions/kLdwH4Hs/IstanbulMetroLogo_V1.0.zip"
+hash-format = "sha512"
+hash = "6fe8ee3e699bee62ecf304099e6c9b8ca495ee762ba8ea637c229699aa58fc56390330bc7b3ec9cbc72e48f303fa85219f28687603a0aea3609c9a81cef80569"
+
+[update]
+[update.modrinth]
+mod-id = "DoPaQkld"
+version = "kLdwH4Hs"

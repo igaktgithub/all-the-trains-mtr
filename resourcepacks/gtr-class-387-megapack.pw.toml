@@ -1,0 +1,13 @@
+name = "GTR Class 387(377) Electrostar Megapack [MTR4]"
+filename = "class_387_gtr_megapack_mtr4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V83zc0Au/versions/qBIZImfz/class_387_gtr_megapack_mtr4.zip"
+hash-format = "sha512"
+hash = "77f713413916dc5d72b57d6e87025622eb3da16380880a7a5f9c5e34ce429d02c9cb4293159869ef058d0b4779e9810cd41a8a9d72c5dd59e87998f61789822e"
+
+[update]
+[update.modrinth]
+mod-id = "V83zc0Au"
+version = "qBIZImfz"

@@ -1,0 +1,13 @@
+name = "[MTR]Raincity_D"
+filename = "Raincity_D.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iNB8paQd/versions/dubtpTK2/Raincity_D.zip"
+hash-format = "sha512"
+hash = "bf774fab57176f91fec29451f278a8498afe07314084c6809a95d1a3c2a84108d3d4e5d0b084c1f21b0e9392a19b06ddfc7798e2f11050cda9a7f96bbb0435d0"
+
+[update]
+[update.modrinth]
+mod-id = "iNB8paQd"
+version = "dubtpTK2"

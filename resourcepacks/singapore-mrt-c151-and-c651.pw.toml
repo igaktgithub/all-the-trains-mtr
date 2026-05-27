@@ -1,0 +1,13 @@
+name = "Singapore MRT NSEWL C151 and C651"
+filename = "SMRT_Trains_C151_C651_V1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8YYeb8tB/versions/hlBie2hV/SMRT_Trains_C151_C651_V1.1.zip"
+hash-format = "sha512"
+hash = "71638eb55ec503cc3621073f1446898239d835cfcec7097fc4305d79d86fb2bb0d29073dc0dc9388b5fa6a24fccd119c590ecccc0748a16e53bd39acbbb945c1"
+
+[update]
+[update.modrinth]
+mod-id = "8YYeb8tB"
+version = "hlBie2hV"

@@ -1,0 +1,13 @@
+name = "[MTR] 200 Series Shinkansen"
+filename = "DEWON-200-Series-1.1-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DKiNHtg3/versions/frFWKvF1/DEWON-200-Series-1.1-MTR4.zip"
+hash-format = "sha512"
+hash = "f05c4fac58e9d741571362e11c35ca9715e9be97903b91a324fc17709e579981120db674260e7df5c3ebb33c25b710d1b288ed31d96b0f4dbbe70fa5dfc415ac"
+
+[update]
+[update.modrinth]
+mod-id = "DKiNHtg3"
+version = "frFWKvF1"

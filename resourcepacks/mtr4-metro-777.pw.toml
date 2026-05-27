@@ -1,0 +1,13 @@
+name = "[MTR 4] Metro 777"
+filename = "[MTR 4] Metro 777.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YrdecFet/versions/oZs17isJ/%5BMTR%204%5D%20Metro%20777.zip"
+hash-format = "sha512"
+hash = "b1849f4d56b809f92ee6f6a7963e3481fefce03f9fd18cec2b8963b74f0dbcd99ea97c89b738123aedca724ec772d95a49f2730c40f6656d85b1fc6f5185a5af"
+
+[update]
+[update.modrinth]
+mod-id = "YrdecFet"
+version = "oZs17isJ"

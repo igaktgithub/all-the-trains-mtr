@@ -1,0 +1,13 @@
+name = "[MTR3/4]Busan Transport Corp Class 2000"
+filename = "MTR_Busan_Transport_Corp_Class2000_4.0_250308.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qx2RvNyR/versions/PqUkEfi0/MTR_Busan_Transport_Corp_Class2000_4.0_250308.zip"
+hash-format = "sha512"
+hash = "d3291eee408f4808ca4379bb29a9b523899b42f2a6226979e53c9d0230cc8e51d396c269115d1922ecf8b8fd2487c0d5f689f4cfa93622e9df489f6e474f3116"
+
+[update]
+[update.modrinth]
+mod-id = "Qx2RvNyR"
+version = "PqUkEfi0"

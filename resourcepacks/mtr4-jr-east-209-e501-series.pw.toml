@@ -1,0 +1,13 @@
+name = "[MTR4] 209系・E501系|JR East 209/E501 series"
+filename = "mtr-209.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZxWhxWG2/versions/J1cUylny/mtr-209.zip"
+hash-format = "sha512"
+hash = "f78075bba08c933dd9171ea3a5f4c33cdf716a132931dc3b09282d61c228c797b3c9b27b5b3b2da2b3d6606e849340c019b419a028ce1aeb5d9f28e8558a22d1"
+
+[update]
+[update.modrinth]
+mod-id = "ZxWhxWG2"
+version = "J1cUylny"

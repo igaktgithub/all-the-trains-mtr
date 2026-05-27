@@ -1,0 +1,13 @@
+name = "[MTR4] Zhongtong EuroZT18 - Metro Mondego"
+filename = "Zhongtong N18 - SMM - 1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cfVLLTFO/versions/b9UMYEjH/Zhongtong%20N18%20-%20SMM%20-%201.0.1.zip"
+hash-format = "sha512"
+hash = "38a330e79f1b519d10f03e005b826df85cb7d85e2c19dc2e6b75c99506e3f29cb7b5f5b5ca8bc80eaafab52cf6ba84b0b4640078001f35e5f4923d6cb994e88f"
+
+[update]
+[update.modrinth]
+mod-id = "cfVLLTFO"
+version = "b9UMYEjH"

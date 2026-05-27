@@ -1,0 +1,13 @@
+name = "[MTR4] The Dual Side LRV"
+filename = "The Dual Side LRV.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CZuThRqj/versions/IHKygQLP/The%20Dual%20Side%20LRV.zip"
+hash-format = "sha512"
+hash = "281a6b8b25914e07f775e14e82a8e64b7305e0b0de2628bf68c2942209ff04da7cc227cdc82c06683554af71054dff23972a7caed13205e6f4d27869c1845fcd"
+
+[update]
+[update.modrinth]
+mod-id = "CZuThRqj"
+version = "IHKygQLP"

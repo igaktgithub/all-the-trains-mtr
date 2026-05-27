@@ -1,0 +1,13 @@
+name = "[MTR3/4] Gilgen Door Systems APG"
+filename = "assets.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jptzM6Xy/versions/NeWm1Yhz/assets.zip"
+hash-format = "sha512"
+hash = "015bcf51c0eff68405acf38f3c61e03a98fc608c6ba3ff875070d841402f190869930dce6c985b4e12896ace134ccc6b1922aeabfa9566fb9920655566fab652"
+
+[update]
+[update.modrinth]
+mod-id = "jptzM6Xy"
+version = "NeWm1Yhz"
