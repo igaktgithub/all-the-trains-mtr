@@ -10,11 +10,6 @@ hash = "e64504b1cf8a8dae1a6a3b696e0345ed199cf579c04a96e10a28744a6b1aba97"
 metafile = true
 
 [[files]]
-file = "mods/bteterrarenderer.pw.toml"
-hash = "c85ccde0561ca838e948d8d22a0b7686be3a7a4ff710f19778c32a316e337fe6"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "70b2a115b12368173e9ddc8d9eda97198dfa3fd39aef92fc4c94d104eaef0474"
 metafile = true
@@ -67,11 +62,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
-metafile = true
-
-[[files]]
-file = "mods/magic-mtr.pw.toml"
-hash = "408196f3f15338bc8eda9f6afe3edb356b3fc18d35e2dd0dd74e3401ef41b3c1"
 metafile = true
 
 [[files]]
