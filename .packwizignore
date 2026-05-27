@@ -1,0 +1,6 @@
+.git/**
+.gitattributes
+.gitignore
+.packwizignore
+README.md
+*.mrpack
