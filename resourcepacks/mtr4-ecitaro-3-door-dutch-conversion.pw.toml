@@ -1,0 +1,13 @@
+name = "[MTR4] Ecitaro 3 Door Dutch Conversion"
+filename = "Ecitaro 3 Doors Dutch Varient.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T7LGn2jj/versions/3F6AVPHy/Ecitaro%203%20Doors%20Dutch%20Varient.zip"
+hash-format = "sha512"
+hash = "9aa9555d1ade4ccbc64963feb058b601f1925fdad7109898bd56dcc03c791ce177058631b8bb7827cb94ac9359c303e74651225ee7eefe4d3aa1ba8033afcdf6"
+
+[update]
+[update.modrinth]
+mod-id = "T7LGn2jj"
+version = "3F6AVPHy"

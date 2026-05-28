@@ -1,13 +1,13 @@
-name = "[MTR4+JCM] Seoul Metro PIDS"
-filename = "Seoul Metro PIDS v1.0.zip"
+name = "[MTR4+JCM] Korea PIDS Pack"
+filename = "Korea PIDS Pack v2.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5Ivwy98G/versions/YVuJCXrG/Seoul%20Metro%20PIDS%20v1.0.zip"
+url = "https://cdn.modrinth.com/data/5Ivwy98G/versions/1MR001i3/Korea%20PIDS%20Pack%20v2.0.zip"
 hash-format = "sha512"
-hash = "836d311b06eb7907d813776ade3aab5cba1c038072d8fea1126df08aac6f37bc5ed7e9dafa4a8df87971cfd0556c307ac3c127694630c8b3f305c96ad0038800"
+hash = "d54e8b155183ea8248f8a7d09ca31b3b019a06a549089f44f23532bc682d57e7e606f04a5ecc750c0388fd64b3b2c980675678ed3d2c10da98bb72d0e99a8a70"
 
 [update]
 [update.modrinth]
 mod-id = "5Ivwy98G"
-version = "YVuJCXrG"
+version = "1MR001i3"

@@ -1,0 +1,13 @@
+name = "[MTR4] Ecitaro 3 Door Conversion"
+filename = "Ecitaro 3 Doors.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ZRCxxqU/versions/zuAqB2AK/Ecitaro%203%20Doors.zip"
+hash-format = "sha512"
+hash = "c60b9577b7f16894f6bbf8cc64f6d74741449bf954df8fa52aff707b8a96d7e2088221e974cce963a3eaa5438afa579b7f486cac91c1dc9825c402dcf55d7e1d"
+
+[update]
+[update.modrinth]
+mod-id = "7ZRCxxqU"
+version = "zuAqB2AK"

@@ -415,6 +415,11 @@ hash = "f8ece197f716de807e3b0742cf7d87bf505d24e4c3bc17a91739625d1bfa9b93"
 metafile = true
 
 [[files]]
+file = "resourcepacks/hampton-railways-train-pack.pw.toml"
+hash = "18fca94045693f0bb752a2e960e5f53750e2255c1282a7659260fd075b7d2ae1"
+metafile = true
+
+[[files]]
 file = "resourcepacks/heathrow-express.pw.toml"
 hash = "5820271ac27c090f7b4043b56013cf3b0e83976f68c497fe8b842da31dde20cc"
 metafile = true
@@ -1010,6 +1015,16 @@ hash = "62963d9907463db14e29b5aa5f451fd991aed633d78ef5ea2d0b8ba0c307f149"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-ecitaro-3-door-conversion.pw.toml"
+hash = "c9f27954328d6583f28c14ac10984f98d65f0c9685b53c051d736cf09a24dbcb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-ecitaro-3-door-dutch-conversion.pw.toml"
+hash = "e6089e9553922c701acfc20734f5a6ec83bd8dca0718b7d671cf2dc23b44ab8b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-eurostar-345.pw.toml"
 hash = "34c72683d859a294e0f0ce3c55d45727c0d9f4408af8e8361cc0de7c4290c2e0"
 metafile = true
@@ -1526,7 +1541,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/seoul-metro-pids.pw.toml"
-hash = "dba53eb250dc224507cf08d3ea32886f09a9c5033eb9630ea9fdecfe0ce2290f"
+hash = "0f1ef72df148a24309be1519246b4149e14cb2247627a52bff3cceb9386c48b1"
 metafile = true
 
 [[files]]
