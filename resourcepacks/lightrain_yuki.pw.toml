@@ -1,0 +1,13 @@
+name = "LighTRain_雪"
+filename = "LighTRain_雪.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LcgYSxON/versions/aD5eNf9V/LighTRain_%E9%9B%AA.zip"
+hash-format = "sha512"
+hash = "2b637d45b2cb8f8ac3c1408e72c9aeb98613954a199f10bf59b8749d3dd52f63480bde3a3082a1058b980cb559eb10a6e2c5083466be8892ba1971e35ddc35b1"
+
+[update]
+[update.modrinth]
+mod-id = "LcgYSxON"
+version = "aD5eNf9V"

@@ -1,0 +1,13 @@
+name = "MAN Lion’s City 12CNG (2-Door & 3-Door)"
+filename = "Man Lion City 12CNG 3 Door.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RmnKXt6O/versions/ULtDabuQ/Man%20Lion%20City%2012CNG%203%20Door.zip"
+hash-format = "sha512"
+hash = "d627cb447f22138415ef74fd3f823f170c9fadd4e67cb6b6bbff544eab55a494b8f775ebcea2928e52549769c2a858535d70ce3e23d472da41602d4cdca2b547"
+
+[update]
+[update.modrinth]
+mod-id = "RmnKXt6O"
+version = "ULtDabuQ"

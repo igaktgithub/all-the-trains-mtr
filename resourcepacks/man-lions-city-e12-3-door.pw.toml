@@ -1,0 +1,13 @@
+name = "MAN Lion’s City E12 3-Door"
+filename = "Man Lion City E12 3 Door.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/F07Fej4w/versions/deoF7yOo/Man%20Lion%20City%20E12%203%20Door.zip"
+hash-format = "sha512"
+hash = "16ec69d42db86f8abbca61642f4222454548f2c36df9399ff0a497ba4546f591908e8f47c3838e9014860ee9aa16eb435116095e40527a69be890e37ab058ff3"
+
+[update]
+[update.modrinth]
+mod-id = "F07Fej4w"
+version = "deoF7yOo"

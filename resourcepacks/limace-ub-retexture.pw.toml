@@ -3,11 +3,11 @@ filename = "limace_ub_retexture.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YiwY4ED9/versions/SU5yHwiT/limace_ub_retexture.zip"
+url = "https://cdn.modrinth.com/data/YiwY4ED9/versions/O1NZQZpg/limace_ub_retexture.zip"
 hash-format = "sha512"
-hash = "98432e5b7bcfeb1b2018fdc1e0484b30ff0a893c23644c0d3856d23b8859cd193d5a1c4dd0444c51953529a2403af72c010492e3db6ab0d8a36288273ec2fdfc"
+hash = "779f68b8701f72df8211f0e8a027c4358821da45e60e718371e5d6c9f25141c61c0102d5993bdcfbbbf6a7852b596e0ea388d325a9e32966e83a1aeb0cc20888"
 
 [update]
 [update.modrinth]
 mod-id = "YiwY4ED9"
-version = "SU5yHwiT"
+version = "O1NZQZpg"

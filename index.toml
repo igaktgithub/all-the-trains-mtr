@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/class-710.pw.toml"
-hash = "9552e0dfe6d531660da5737ba4934b552460cdb54134f4f8b2010432e7521146"
+hash = "97e90ba704d1a5fb8eaa5b7ed0f98e604b37894fff6ad6a6a0cc4d60a78a9d1e"
 metafile = true
 
 [[files]]
@@ -510,8 +510,13 @@ hash = "f3c1e9d27626e5a0d2a817585224cb46bb2841522885a91a57c98cd5181c032f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/lightrain_yuki.pw.toml"
+hash = "3b3cc15263371f6fa5146fdb66ab3fc71b243b391ac37fbe677b66c9d1b682e8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/limace-ub-retexture.pw.toml"
-hash = "3d8bdb055494a4dbb5372e317db5d4c8815ef40e3e8281e66300ccb91d5c1bff"
+hash = "88aabeda6ac50c8981ef6823837aa6c68869c6dd7d92d92b9411d2eef1b7e486"
 metafile = true
 
 [[files]]
@@ -537,6 +542,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/london-underground-piccadilly-line-2024-tube-stock.pw.toml"
 hash = "f430a1cc8d3695aab4c41a3d9ed6bffc561a418d2e6686772839df360b068811"
+metafile = true
+
+[[files]]
+file = "resourcepacks/man-lions-city-12cng-(2-door-3-door).pw.toml"
+hash = "46b214d77dbdbd03a0d69d8559e5f707b9e3c79e053eb270a5df583e0eaae406"
+metafile = true
+
+[[files]]
+file = "resourcepacks/man-lions-city-e12-3-door.pw.toml"
+hash = "2587e9d534d1f504afbaf78b758656c4f7f424fc5adefe6541bea568fd7d9dcc"
 metafile = true
 
 [[files]]
@@ -576,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/moszyan-railways.pw.toml"
-hash = "7d126a8579d736a8db8f858fd87c8017262e65cba0664b3ce34c51afd197eb63"
+hash = "2f8e8c040b5dc0d37a58dca702448b977eda0e916da08390fb294d49354ce6a4"
 metafile = true
 
 [[files]]
@@ -1641,7 +1656,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/stb-trains-pack.pw.toml"
-hash = "04c481519192acdf1fdb3a5d741dd973ec8b4b8d5878d04a0b61c50e012877a5"
+hash = "44ed20c6423b932bf031fb07199f4e17c4a4323fca1d5afa17d5cff37701cc96"
 metafile = true
 
 [[files]]
@@ -1721,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/u-bahn-berlin-pack.pw.toml"
-hash = "f8bdb1f2d3caaee7601419e42462bf8870193223349eb77df3911634d579011b"
+hash = "c14f0aa18cbb6e6ece3945315c7029db32bfa2322fa526ff9039e564c1457c6d"
 metafile = true
 
 [[files]]
@@ -1761,7 +1776,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/welshierail.pw.toml"
-hash = "9d90115e074768ac9f065fe355ed7cdf1d1afd9dcc08d47f9f4191695ff9681f"
+hash = "10726c8f87923d1c45ddb231c935c034bccfe44e13c76ee6cc0fd0c8ac7d0e33"
 metafile = true
 
 [[files]]
