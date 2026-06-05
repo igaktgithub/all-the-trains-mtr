@@ -1,4 +1,4 @@
-Simple ModPack that adds all the community trains, buses, boats, airplanes, decorations resource packs and more created for MTR (Minecraft Transit Railway). You can find all the original texture links by entering in Mtr Content DB website.
+Simple ModPack that adds all the community trains, buses, boats, airplanes, decorations resource packs and more created for MTR ([Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway)). You can find all the original texture links by entering in [Mtr Content DB](https://addons.minecrafttransitrailway.com/#/) website.
 
 This pack adds ONLY MTR4 resource packs, textures for MTR3 are not in this pack.
 
@@ -8,13 +8,17 @@ Credits for all the mods and resource pack creators in this modpack.
 
 Some questions and answers:
 
-Q: I can use this modpack in any map or server?
+**Q**: I can use this modpack in any map or server?
 
-A: yes, but you might need to add some Addon mods in order to get in some servers.
+**A**: yes, but you might need to add some Addon mods in order to get in some servers.
 
-Q: I can use this modpack instead of official MTR Let's Play Modpack to play the official mod server?
+**Q**: I can use this modpack instead of official MTR Let's Play Modpack to play the official mod server?
 
-A: yes but you may need to add some mtr addon mods in order to get acess to the server becouse the main focus of the modpack is to update and add any new resource pack, please note that you might not get help in official mtr discord server, as this modpack is not official from the server.
+**A**: yes but you may need to add some mtr addon mods in order to get acess to the server becouse the main focus of the modpack is to update and add any new resource pack, please note that you might not get help in official mtr discord server, as this modpack is not official from the server.
+
+**Q**: A 1.21.4 release for the mod has been released, do you plan to make a 1.21.4 version of the modpack?
+
+**R**: Yes, i plan it! however, 1.21.4 is currently in beta, so i will release as a beta version, but i will continue updating 1.20.4 version as well.
 
 # how to install
 You can get all the trains mtr by entering in the [modrinth](https://modrinth.com/modpack/all-the-trains-mtr) website.
