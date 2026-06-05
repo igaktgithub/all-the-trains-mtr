@@ -3,11 +3,11 @@ filename = "British_Rail_Class_158_MTR4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OdeYmQW0/versions/2q7gPbkl/British_Rail_Class_158_MTR4.zip"
+url = "https://cdn.modrinth.com/data/OdeYmQW0/versions/sDwv2OXY/British_Rail_Class_158_MTR4.zip"
 hash-format = "sha512"
-hash = "c1c2b50551a416eda2cc6a0d3008016fa3bc0287032c8b52732b384ff2a0a21a4c1947d35dee6fe4f61d4f3daba54b0f038252828261f332ede45b4bad38833b"
+hash = "7414cc08b9738e065ed37ce706246660137f02db9eebe6e6cb273e8320f06a102397d5a6346c448561674905ffb118134faa34ec28bb9a6b3b6eafa37c754d43"
 
 [update]
 [update.modrinth]
 mod-id = "OdeYmQW0"
-version = "2q7gPbkl"
+version = "sDwv2OXY"

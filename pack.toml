@@ -1,16 +1,16 @@
 name = "All The Trains MTR"
 author = "igaktbr"
-version = "4.2.0"
+version = "1.0.0-1.21.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fd550c0ca4f753e901896ea5e65a2331c016c2ec6b29a7ce1d36266c7414c703"
+hash = "451db655dfd43700d1d5963436e04301e9d8cbf1b40cf73fb73456d0907b46e0"
 
 [versions]
-fabric = "0.19.2"
-minecraft = "1.20.4"
+fabric = "0.19.3"
+minecraft = "1.21.4"
 
 [options]
-acceptable-game-versions = ["1.19.2", "1.19.4", "1.20", "1.20.1"]
+acceptable-game-versions = ["1.19.2", "1.19.4", "1.20", "1.20.1", "1.20.4"]
