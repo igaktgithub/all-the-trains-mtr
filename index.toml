@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "9b39af5845381c4e814f353d0c4a074fc703dc66db861b84e77eca02d246855e"
+hash = "fcfd276ea8ecfe44dd7745bdcfbb7d064a0445a542e2dd1d713dbc223f933d4c"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -42,11 +42,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "1cfb594b2d6f9a922d95daa94d672ee115f4119de4e8248ec83994fb695bf27a"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "0660fdd9845d07b3817bd91195c0fe54218749fa5b39438c85a5136768c45a58"
 metafile = true
 
 [[files]]
@@ -92,11 +87,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-cui.pw.toml"
-hash = "211af84ef2c6a14c126e7a7b7d611e426b2b5cffa272b63f03ea04d809e9ede9"
 metafile = true
 
 [[files]]
