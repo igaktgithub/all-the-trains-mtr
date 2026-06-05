@@ -1,13 +1,13 @@
 name = "DLR B90"
-filename = "DLR_B90_Stock_trains_04.zip"
+filename = "DLR B90 V7.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jq2IxSVE/versions/ui4lOLTQ/DLR_B90_Stock_trains_04.zip"
+url = "https://cdn.modrinth.com/data/jq2IxSVE/versions/R92sdAE5/DLR%20B90%20V7.zip"
 hash-format = "sha512"
-hash = "b676bf9f05ab29d45e496961fa3d0e5043f577f99b139a358f21769d508b2b6833533605a085c2689fe16b9baccd0d86de790144ab9e1796b46cbb4f283200e5"
+hash = "872a6e168d647bc9ede7c40476f94b8d95ab6408195e460cda0e1a9f0777451fa23bcd155bf36eeb37ed7c1216fb1db18567738968bae7bed42360629fba0d49"
 
 [update]
 [update.modrinth]
 mod-id = "jq2IxSVE"
-version = "ui4lOLTQ"
+version = "R92sdAE5"
