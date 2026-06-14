@@ -1,0 +1,13 @@
+name = "London Underground A Stock"
+filename = "A Stock.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8vES5A3t/versions/KCbMRF20/A%20Stock.zip"
+hash-format = "sha512"
+hash = "09eb3b773b46e37fe8f0a8a397598f754a54addecebb6967af246739b1a4fe7edceccd6c39425d27a4118080b315aba377b3b9505417d84b4b57d276f708a7cc"
+
+[update]
+[update.modrinth]
+mod-id = "8vES5A3t"
+version = "KCbMRF20"

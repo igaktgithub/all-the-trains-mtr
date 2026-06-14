@@ -1,13 +1,13 @@
 name = "[MTR4] Hankyu 9000 Series | 阪急9000系"
-filename = "Hankyu_9000_Series_V1.1.zip"
+filename = "Hankyu_9000_Series_V1.1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/m4qh2dJF/versions/4ii6x2ed/Hankyu_9000_Series_V1.1.zip"
+url = "https://cdn.modrinth.com/data/m4qh2dJF/versions/avQ39oHB/Hankyu_9000_Series_V1.1.1.zip"
 hash-format = "sha512"
-hash = "0b0a034cd5327e587155315f7f58d8f60c7f8962e065d116a77f4b2b7a848be2e68b06021613f5832b268139e97650c8896eee9ef37315bf705112d5f090bf2b"
+hash = "37b8286b99fc36c85419d6a657033fbfae1c98a306718fdc98f0c7d247f7aeaf974be8a3cbaa47ce5da9a6cdf30127a71fe7415bbe2ff99089a69f761a5de75f"
 
 [update]
 [update.modrinth]
 mod-id = "m4qh2dJF"
-version = "4ii6x2ed"
+version = "avQ39oHB"

@@ -1,0 +1,13 @@
+name = "[MTR4] Tokyo Metro 9000 (eidan 9000)"
+filename = "MTR4 TM-9000 series v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l64pdyUz/versions/imx3Q5Ge/MTR4%20TM-9000%20series%20v1.0.zip"
+hash-format = "sha512"
+hash = "3d3e3be90bb2d0401f3c62bf01d8f48f34a2268ee402d091620fc8b0c82fc7b66907fe5350bd5903f7d06cc2a28c1640874d4f95a379bdf697be2900af87693b"
+
+[update]
+[update.modrinth]
+mod-id = "l64pdyUz"
+version = "imx3Q5Ge"

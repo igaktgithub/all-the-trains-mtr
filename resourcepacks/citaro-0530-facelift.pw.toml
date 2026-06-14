@@ -1,0 +1,13 @@
+name = "[MTR] Citaro 0530 Facelift"
+filename = "Citaro 0530 Facelift.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oAsKmlaR/versions/mGOFbV1H/Citaro%200530%20Facelift.zip"
+hash-format = "sha512"
+hash = "00556ba546aab65ba005d647962694c576168a94b39109b9704f3286899a6b0e8f48faa1ea12764d1c25a2eeb825f15c8bee539e1aa2432213e04caf7ce9f508"
+
+[update]
+[update.modrinth]
+mod-id = "oAsKmlaR"
+version = "mGOFbV1H"

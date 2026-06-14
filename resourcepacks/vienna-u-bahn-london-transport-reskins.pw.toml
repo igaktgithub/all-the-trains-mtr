@@ -1,0 +1,13 @@
+name = "Vienna U-Bahn London Transport Reskins"
+filename = "Ubahnlureskin.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9uuMkjZ5/versions/lOmr52l1/Ubahnlureskin.zip"
+hash-format = "sha512"
+hash = "aa098e98c71cbc73b28b29861a214f87627ce591ac5ac8101cf2cf737772b51711eaf8770f3c3451639f65108a283353389e5b1d6bbe9102821d05a5ffe17f40"
+
+[update]
+[update.modrinth]
+mod-id = "9uuMkjZ5"
+version = "lOmr52l1"

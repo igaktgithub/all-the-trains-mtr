@@ -1,13 +1,13 @@
 name = "[MTR4] mBus Redux"
-filename = "mBusRedux.zip"
+filename = "mBusRedux-Buses-2.0-beta-Public.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HfQUAqVh/versions/X16iy3Jn/mBusRedux.zip"
+url = "https://cdn.modrinth.com/data/HfQUAqVh/versions/kHQ71PT3/mBusRedux-Buses-2.0-beta-Public.zip"
 hash-format = "sha512"
-hash = "85bb30f36ba212e33062e54cc2e0eb05b76a1a49913133319cb57482fdcd3e77d6eaf76fa385e7b90ecb9bf4fda00bb680334ed3a05282cbc51c2467aa7ba91f"
+hash = "6e23e090d6146c4e106cd981f057387b54060cb7d7b7d7bf05537805b168b3c3049902a59d80c85a8ca683c89c88caeee3b7313bc068079720de96c2a8fb5e71"
 
 [update]
 [update.modrinth]
 mod-id = "HfQUAqVh"
-version = "X16iy3Jn"
+version = "kHQ71PT3"

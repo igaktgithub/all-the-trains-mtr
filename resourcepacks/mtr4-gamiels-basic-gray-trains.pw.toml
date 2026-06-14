@@ -1,0 +1,13 @@
+name = "[MTR4] Gamiel's Basic Gray Trains"
+filename = "Gamiels-Base-Gray-Trains-V1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/D73zXflq/versions/OsTAduDj/Gamiels-Base-Gray-Trains-V1.zip"
+hash-format = "sha512"
+hash = "92278d4905081ae0c90fbe9f498bd3390aec1a391fce4a6f7e079df3ff1ef5ec0a4c2a7168ebbcc201de99d5f458c2e5356cfe249388997fc126d4febbd1b71a"
+
+[update]
+[update.modrinth]
+mod-id = "D73zXflq"
+version = "OsTAduDj"

@@ -1,13 +1,13 @@
 name = "[MTR4] JR Kyushu 305 Series | JR九州305系"
-filename = "JR_Kyushu_305_Series_V2.0.zip"
+filename = "JR_Kyushu_305_Series_V2.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OEuu8weV/versions/73aDc8c3/JR_Kyushu_305_Series_V2.0.zip"
+url = "https://cdn.modrinth.com/data/OEuu8weV/versions/nCzTWRUR/JR_Kyushu_305_Series_V2.1.zip"
 hash-format = "sha512"
-hash = "6462f9a11de980678c64cc3f4a0c40132b4c52f1bfe3441481e328abfa686040ed69b6a5206fc2e0f8c9578affe1b01a44834ae6d01b86d7bc3acb668bacf19c"
+hash = "601d769d81c61938d5f1cb49fcd32c2fa4e52dd4bc342224969b564bc7e499a4586c3f291950166b778bb270c969eea4d9a175f3ebfbe9555d78ed55cfca4357"
 
 [update]
 [update.modrinth]
 mod-id = "OEuu8weV"
-version = "73aDc8c3"
+version = "nCzTWRUR"

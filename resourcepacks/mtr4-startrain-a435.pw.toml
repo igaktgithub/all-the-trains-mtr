@@ -1,0 +1,13 @@
+name = "[MTR4] StarTrain A435"
+filename = "[MTR4] StarTrain A435.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MbSpmVF7/versions/7XWoi5j1/%5BMTR4%5D%20StarTrain%20A435.zip"
+hash-format = "sha512"
+hash = "46fd6604b5a82d465428a987c680f5a71c366de4d3bb7ea54735df09d09c2c05d354f73392fee20205438267cd6e600e979af0e7210a90e1681bbefd4d207619"
+
+[update]
+[update.modrinth]
+mod-id = "MbSpmVF7"
+version = "7XWoi5j1"

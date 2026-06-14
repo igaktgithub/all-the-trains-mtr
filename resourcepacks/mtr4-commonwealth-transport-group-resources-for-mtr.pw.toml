@@ -1,13 +1,13 @@
 name = "[MTR4] Commonwealth Transport Group Resources for MTR"
-filename = "mtr_CTG_Resources_260507.zip"
+filename = "mtr_CTG_Resources_260607.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4f8PWmT9/versions/vd5NmS2e/mtr_CTG_Resources_260507.zip"
+url = "https://cdn.modrinth.com/data/4f8PWmT9/versions/ieoQQ2zQ/mtr_CTG_Resources_260607.zip"
 hash-format = "sha512"
-hash = "bd6d0679b63197414f2c88c84a90fb043e6aaa1f621be0f8bdb1b2a75162a472824e77800d9c5244bef8eee1d445836824c5fcd229497fa6c235250c91140726"
+hash = "b732627f56373e9a45091c238bf9a0ca89e9421ac4174400281d4a4ac71af5f5dd227609175dcd45cf1517c8176ec526a13ac4e259aeabf00b5c39de01e08413"
 
 [update]
 [update.modrinth]
 mod-id = "4f8PWmT9"
-version = "vd5NmS2e"
+version = "ieoQQ2zQ"

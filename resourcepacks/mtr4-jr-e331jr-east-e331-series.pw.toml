@@ -1,0 +1,13 @@
+name = "[MTR4] JR東日本 E331系/JR East E331 Series"
+filename = "JRE_E331s_V1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z8J3pWvB/versions/zV19bDGa/JRE_E331s_V1.zip"
+hash-format = "sha512"
+hash = "77b9d7144a6189b4e4d8e1042d1ecf85f69409199288fa42179ea5455051c7d52e42a381b70812fe4263f8619a784c95f1dbf4c4a43637a5c9de2fe2dc0b6217"
+
+[update]
+[update.modrinth]
+mod-id = "Z8J3pWvB"
+version = "zV19bDGa"
