@@ -1,0 +1,13 @@
+name = "[MTR 4.0] smb112x's CAF Urbos 3 Pack"
+filename = "smb112x's CAF Urbos 3 Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8DW3TDai/versions/qYQUYP6F/smb112x%27s%20CAF%20Urbos%203%20Pack.zip"
+hash-format = "sha512"
+hash = "57b418425b6a3614780b82dbd96282a487f39d903539e460722f5832f0d6682efa704276b546fb500da35180734a22db9b91c029f635deaff6bd55f14b3b8e4e"
+
+[update]
+[update.modrinth]
+mod-id = "8DW3TDai"
+version = "qYQUYP6F"

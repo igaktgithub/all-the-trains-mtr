@@ -1,13 +1,13 @@
 name = "SG MRT PIDS V2 [MTR4]"
-filename = "SG MRT PIDS V2.3.zip"
+filename = "SG MRT PIDS V2.3.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/b3zNH416/versions/wIPVp4EK/SG%20MRT%20PIDS%20V2.3.zip"
+url = "https://cdn.modrinth.com/data/b3zNH416/versions/NBWPBOMS/SG%20MRT%20PIDS%20V2.3.1.zip"
 hash-format = "sha512"
-hash = "b681682b30702eea481c5c2a4c082962cae19075efe5a4586945fc67ee918fab2953863e27337b3d067c07c02a94b98ed85ffb13cb0c7669c0b6115a8a918150"
+hash = "5bc9197401f0864b032f9a99919514c20db2a276ee7b2f53da1b59bbc7c2f339f648528c86538aa1e5753851d1a44cea342030013622d7a0f6b87b798ea9cb58"
 
 [update]
 [update.modrinth]
 mod-id = "b3zNH416"
-version = "wIPVp4EK"
+version = "NBWPBOMS"

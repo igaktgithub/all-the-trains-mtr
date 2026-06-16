@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "821d3a559d392bd7dc63df3a1408ef400212d04ffd780922f33696aca60c4713"
+hash = "5bcf95866e5f13d6f33aec3686171c6c8fc77df746bf2e9415cf0f15886bb9e8"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2cb26af7c55326d4888d015d374bb3d0f7c2b971826f20bcc06cfc3ee4d3ea75"
+hash = "487ae4b266d5021124ef90f5b5c4cf66f697512252e636346fc368fef702e283"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "3e03836593b028b8b258d6cc0d9c66770fc27663b3a24c0e86e76caf83c808ea"
+hash = "536d8943fc7826d9dd729c8371b9bc2fed85a2ab7f7b535afe48d9f65c7f886a"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/citaro-0530-facelift.pw.toml"
-hash = "a20f51baefb2d09f2fda9c711a8aecd59c01c5c86652667856cd2f43b0558033"
+hash = "960667e1fbd4c4fca358170811d0e2123709ca9c61d663c3818048dc2160ad5b"
 metafile = true
 
 [[files]]
@@ -815,6 +815,11 @@ hash = "21771ddd7606b1457636fb25b73fee67981a9560068d26269538c56f00fa7f33"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr-smb112x-caf-urbos-3-pack.pw.toml"
+hash = "a0475b5a2c5435d6238627e2fa92512ba522aeb1f46d9f49c257067e0f6806a9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr-stadler-flirt-3-lka.pw.toml"
 hash = "d1f8099046c80f8d0cb8d7ba3d2651522cb68cd2defd9637e8f922a458f16581"
 metafile = true
@@ -1116,7 +1121,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-jr-east-e131-series-jre131.pw.toml"
-hash = "4c5326808bb80c0999b34b3ecf725af12b29f8e96b6b02d1d1d0a118acaebbf1"
+hash = "170d4b2490bf9e40136a55c903670241a8601d865c26edd8d4e512af935b7d3a"
 metafile = true
 
 [[files]]
@@ -1295,13 +1300,18 @@ hash = "205599c86b14d11deab732b85cc91d7d295ccf7acd083868bccd7cdc54c87d5a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-tokyo-metro-03-series.pw.toml"
+hash = "a6dcce5f6116b6af71444696a96b68c421c2b965a72db358b3febba724d5fdd1"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-tokyo-metro-05-series-(eidan-900)-re-texture.pw.toml"
 hash = "e13ac8dd4962795d979db35068e3e042c1aef0e43b81acb303ee37e2f9f78449"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-tokyo-metro-9000-(re-texture).pw.toml"
-hash = "194b1f2a0b36db0a1de5e828646093c5db6979eb824c789ff9f03af3985e3e46"
+hash = "bcb3f3b5bc4fa8efe12f431d67901efddca140f20b1d93eb078cedba47bbecba"
 metafile = true
 
 [[files]]
@@ -1611,7 +1621,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sg-mrt-pids-v2.pw.toml"
-hash = "9cf2aef74cad28a85ee6b850aa885201f5c541d8c48b3607c2aaeee8d303b424"
+hash = "96251a7f57b4be5350e01660dad99675ad63bf529f20b08a7c11a8d5f8c4920b"
 metafile = true
 
 [[files]]
