@@ -1,0 +1,13 @@
+name = "MTR4 - TRTA/Tokyo Metro 02 Series"
+filename = "MTR4 TM-02 Series v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wdv1B1vb/versions/cMj0oT7u/MTR4%20TM-02%20Series%20v1.0.zip"
+hash-format = "sha512"
+hash = "ba579ef68a693fafc951f9fd0e8a077d08fe4d8f1bf87580240a895a23751e3f404517e0ec7d50fa07bbb86e6cd258905286801a18712c12a182fcd425b41ecd"
+
+[update]
+[update.modrinth]
+mod-id = "Wdv1B1vb"
+version = "cMj0oT7u"

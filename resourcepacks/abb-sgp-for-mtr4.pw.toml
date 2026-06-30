@@ -1,0 +1,13 @@
+name = "ABB/SGP for [MTR4]"
+filename = "ABB-SGP.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XhGfr3qB/versions/IfZVerwS/ABB-SGP.zip"
+hash-format = "sha512"
+hash = "e5fab08cf9e43c137480583a73e601582caa06095f0a66a7f1ee91de3edb1d2b5edf523e5fbeca474c1d1609477ad7a7a9668fce6b152040f9ac07150bd08d6d"
+
+[update]
+[update.modrinth]
+mod-id = "XhGfr3qB"
+version = "IfZVerwS"

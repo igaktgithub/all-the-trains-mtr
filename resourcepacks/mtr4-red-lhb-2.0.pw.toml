@@ -1,0 +1,13 @@
+name = "[MTR4] Red LHB Sleeper Pack 2.0 - Indian Railways"
+filename = "R-LHB-v2-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3N7D2ipn/versions/KLzeHUHy/R-LHB-v2-1.0.zip"
+hash-format = "sha512"
+hash = "ca64b26d03c777f77c460c66c79662b2985f1677e5898936c67b6834819b8cf48e5d7f6060d9125827be76b58a20a68a3a5f606b3b20cfe5f4522c7d9d9d82fa"
+
+[update]
+[update.modrinth]
+mod-id = "3N7D2ipn"
+version = "KLzeHUHy"

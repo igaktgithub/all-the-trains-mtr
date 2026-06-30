@@ -1,13 +1,13 @@
 name = "[MTR4] Tokyo Metro 05 Series"
-filename = "MTR4 TM-05 Series 1.20 v1.1.zip"
+filename = "MTR4 TM-05 Series v1.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NgeZcbDr/versions/cIHgiiIi/MTR4%20TM-05%20Series%201.20%20v1.1.zip"
+url = "https://cdn.modrinth.com/data/NgeZcbDr/versions/NwNgkpTi/MTR4%20TM-05%20Series%20v1.2.zip"
 hash-format = "sha512"
-hash = "f4c3b3606ecfeb9da8aa6919df16d2e0a4f154db9d4e681f59cbfe8e6f8a5833f4048f5a28966dcf84b766c279d0568d9f6f4a3a5f4d1c8048ef2087c56f8a3d"
+hash = "961fbfd51f23c94f510bdb73ecfdd67798dac2af30949d583e8a5051f431312a9332633a495b9de563e7a12a316a261c13dac2dee3ab3a85a6fade6009a3d65f"
 
 [update]
 [update.modrinth]
 mod-id = "NgeZcbDr"
-version = "cIHgiiIi"
+version = "NwNgkpTi"

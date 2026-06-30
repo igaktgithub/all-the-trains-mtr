@@ -1,0 +1,13 @@
+name = "[MTR] Class 378 Pack By Skywalker_6517"
+filename = "Class 378 Pack - By Skywalker_6517.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d5uA2MzC/versions/qbDdufYn/Class%20378%20Pack%20-%20By%20Skywalker_6517.zip"
+hash-format = "sha512"
+hash = "75b6e5df04a1805e032a111f9ef25092b06f771e63dd45d510193acab420ab43ff2dc2df5775d93585f00ea8a85758168e4a7d933e04301fb6f01628efc54bbb"
+
+[update]
+[update.modrinth]
+mod-id = "d5uA2MzC"
+version = "qbDdufYn"

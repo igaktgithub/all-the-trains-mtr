@@ -1,0 +1,13 @@
+name = "[MTR4] STCP Bus Pack"
+filename = "STCP Bus Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DcJuzGaD/versions/Xke7MTA4/STCP%20Bus%20Pack.zip"
+hash-format = "sha512"
+hash = "4a2a2102f3e31286ca20684032cd255cb17ae22ac44d9d097853ab95ca5d42632f22ff2b7f91a83767f9566d9492b651a4852058e88d23dfd772846d6243a597"
+
+[update]
+[update.modrinth]
+mod-id = "DcJuzGaD"
+version = "Xke7MTA4"

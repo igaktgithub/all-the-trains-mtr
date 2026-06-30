@@ -1,13 +1,13 @@
 name = "[MTR4] Zhongtong Base Pack"
-filename = "Zhongtong Base Pack.zip"
+filename = "Zhongtong Base Pack - 1.1.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hSBTAzaT/versions/6n1yD7VT/Zhongtong%20Base%20Pack.zip"
+url = "https://cdn.modrinth.com/data/hSBTAzaT/versions/RHyjGFhF/Zhongtong%20Base%20Pack%20-%201.1.0.zip"
 hash-format = "sha512"
-hash = "61109a70f84f029f9d091b3175b82df8bc80c731f78b3f97eac333d87a1a808b9b0896542724176ea68d3ac6fa091f366f41e028ebdf98ad2909de2be8e8730e"
+hash = "81377cd42b0b83f129e3ec4e29f72ce39a290499d9fa1d4dfe1b806e0d681d2767708e729834ca9a64ff952fac7e69b8d9798c1eaaf5d70278034e0f57d1f159"
 
 [update]
 [update.modrinth]
 mod-id = "hSBTAzaT"
-version = "6n1yD7VT"
+version = "RHyjGFhF"

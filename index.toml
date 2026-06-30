@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "5bcf95866e5f13d6f33aec3686171c6c8fc77df746bf2e9415cf0f15886bb9e8"
+hash = "140a615af01a20cd09b53baa22fed45956dffa7cc7bd679858fcfce178b4033c"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "487ae4b266d5021124ef90f5b5c4cf66f697512252e636346fc368fef702e283"
+hash = "14c1c43d56bc6a3d1eb0137fcbde532551a613862706b9e05f0856a41b195f6b"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "536d8943fc7826d9dd729c8371b9bc2fed85a2ab7f7b535afe48d9f65c7f886a"
+hash = "20812bc4dee7749ac692ff3bdb10e496713234780b3e153ec7dfe67f5dd32db3"
 metafile = true
 
 [[files]]
@@ -137,6 +137,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/80xliverypack.pw.toml"
 hash = "3a7e8b0c62d0c174b43022d40bb225afd02d2533c3b20ddaedc7b281a36e76b6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/abb-sgp-for-mtr4.pw.toml"
+hash = "541f68d9cebad58a4684133a8da2b97108ee5d35a367ead2887bb818866e3f80"
 metafile = true
 
 [[files]]
@@ -551,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/london-underground-piccadilly-line-2024-tube-stock.pw.toml"
-hash = "f430a1cc8d3695aab4c41a3d9ed6bffc561a418d2e6686772839df360b068811"
+hash = "fd04c52f9fe9abe4170bfdeec49f72abee19d693073b850abdbcdc83a791532e"
 metafile = true
 
 [[files]]
@@ -687,6 +692,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-class-357-electrostar-pack.pw.toml"
 hash = "96506fbb991e8037d5def52981363de7e1becd1eb90f1b9358d816297dcf37ae"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-class-378-pack-by-skywalker_6517.pw.toml"
+hash = "b31a8c6db08c163f1773c2fd16f78bb8462c2ae6dcad6dcd39d69a52e0e4537d"
 metafile = true
 
 [[files]]
@@ -1075,6 +1085,11 @@ hash = "a2a22a67924375cca70f91d1ab351dffab6c1e38463f094f7daf2b7fb6ce9a4e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-flixtrain-siemens-vectron-locomtive-eurofima-coaches.pw.toml"
+hash = "c62d502acdf518b6c0c78877d094cd00825ef84fecd4130370f0644f6bebef6c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-french-buses.pw.toml"
 hash = "df57ca9e9ec1c541342ac01b3f3ab82b3360fee1df05537516da327aecd6da02"
 metafile = true
@@ -1205,6 +1220,11 @@ hash = "884281b846218899b8f803ee153c124eeb9f6930db44b0a266f490c4588426b3"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-red-lhb-2.0.pw.toml"
+hash = "3b369bed0acc5faaa6d1eb78c45b3ae5f163751c24d41be6cdfeedd58c9ceea7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-red-lhb-pack-(manual-doors).pw.toml"
 hash = "caafba3740f800a7de21355d68ab6d1f502a70bd61b2cdf7c4c1ce270d1112aa"
 metafile = true
@@ -1306,12 +1326,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-tokyo-metro-05-series-(eidan-900)-re-texture.pw.toml"
-hash = "e13ac8dd4962795d979db35068e3e042c1aef0e43b81acb303ee37e2f9f78449"
+hash = "fe498d7b84936ba5d9afa663b2e05d26e52fa8cec0353e02d89c067ec2d7d65e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-tokyo-metro-9000-(re-texture).pw.toml"
 hash = "bcb3f3b5bc4fa8efe12f431d67901efddca140f20b1d93eb078cedba47bbecba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-trtatokyo-metro-02-series.pw.toml"
+hash = "497b1b4a7d0717a5d27eaee974eeb67b49365ecfa9a7764fdb5b4b99a4444f32"
 metafile = true
 
 [[files]]
@@ -1351,7 +1376,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-zhongtong-base-pack.pw.toml"
-hash = "ece029cb57f7e8e33791484f0fb3a48635f21f60b5aaba567a8a20e61ea788db"
+hash = "13125f8c03cb96892faa45735f349685614943096dd0b8455c65b52277fea328"
 metafile = true
 
 [[files]]
@@ -1561,7 +1586,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rc-pack.pw.toml"
-hash = "b6ab9dfe073905979ed23a6c4f04df7aa2442b20c79b4299ec28051b8e60c5ef"
+hash = "a1fc3654cec03f5af34e525f58c35ab86e77c24b2ef1b92028edc8a84d1f287e"
 metafile = true
 
 [[files]]
@@ -1576,7 +1601,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/s-bahn-berlin-br481.pw.toml"
-hash = "26a83129ca647cda687213f5cb7e9d7693b8c08c126f1d258b114502dee0f137"
+hash = "280d72a65f1706a422fb8ab3d9a38cef1dc70675b7a21f21e213ba6c48d44a9b"
 metafile = true
 
 [[files]]
@@ -1621,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sg-mrt-pids-v2.pw.toml"
-hash = "96251a7f57b4be5350e01660dad99675ad63bf529f20b08a7c11a8d5f8c4920b"
+hash = "66e23dec46c3bc0a82b33077131af1b0da17af6d0d764009ed39194f0005ae29"
 metafile = true
 
 [[files]]
@@ -1705,6 +1730,11 @@ hash = "44ed20c6423b932bf031fb07199f4e17c4a4323fca1d5afa17d5cff37701cc96"
 metafile = true
 
 [[files]]
+file = "resourcepacks/stcp-bus-pack.pw.toml"
+hash = "55a354847fdee8b637d4344cbf3c554c34bdb3e3fabfaccc214bc575df6dc345"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stepford-connect-and-waterline-class-730.pw.toml"
 hash = "fe621150bd1f6339ae796848bb18e5ce28182fd43af7f865af38401efb8ab24a"
 metafile = true
@@ -1737,6 +1767,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/the-turbostar-class-168170171172-pack-mtr4.pw.toml"
 hash = "ae063d0b5bfd2d4eff6a00ec6a32b0e4eb44e50578dba12d5011fef2d5402b4f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tm-13000.pw.toml"
+hash = "4c991559720d4d5a0a99a868b4c7f67e15e53be66c6f3fe975916aede552b2ad"
 metafile = true
 
 [[files]]
@@ -1781,7 +1816,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/u-bahn-berlin-pack.pw.toml"
-hash = "17e5e989cbb5a7d3b10d1bf21d7cea31a4bc15a6729d4f70116aaca981e05458"
+hash = "2e3a9cfd8d93271affb8dea58ff759d66fa61e3667f4e9684fa15d7ddd1e597c"
 metafile = true
 
 [[files]]

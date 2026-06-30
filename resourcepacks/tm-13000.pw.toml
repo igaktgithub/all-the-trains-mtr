@@ -1,0 +1,13 @@
+name = "【MTR3/4】Tokyo Metro 13000 Series|東京メトロ13000系"
+filename = "botamochi129_TM13000-MTR4 v.2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bhKtQYxd/versions/YK05Jif9/botamochi129_TM13000-MTR4%20v.2.0.zip"
+hash-format = "sha512"
+hash = "fb028456e003266379db57c66520084d2af2b1497fa6b9b7628fde4a95252761137626bedd0caedf702d00aa754436b207681b2f9e1135e02d41efa28a7bc035"
+
+[update]
+[update.modrinth]
+mod-id = "bhKtQYxd"
+version = "YK05Jif9"
