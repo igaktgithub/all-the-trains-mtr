@@ -1,13 +1,13 @@
 name = "[MTR4] Seoul Metro 2000 series (2nd batch)"
-filename = "seoul_metro_2000_2_mtr4.zip"
+filename = "seoul_metro_2000.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1vLPxJtt/versions/Yl3bUR51/seoul_metro_2000_2_mtr4.zip"
+url = "https://cdn.modrinth.com/data/1vLPxJtt/versions/D1R1dkNT/seoul_metro_2000.zip"
 hash-format = "sha512"
-hash = "43e4a53cac62ec607947a6b67d0ebff603457b2db6f573b0dc52d2db766830474761514e886132f9cb443ef882442c5969db1874d845f5c9e1991790a2f9221c"
+hash = "f908dd76ffb7c4bfc129d0315a88fad497b9ceac683407008dcbd10bb4c85d717aa32b19ed279bfa777f4f84c319f0c3e7fa1feef36153c56660d9c08fb73a73"
 
 [update]
 [update.modrinth]
 mod-id = "1vLPxJtt"
-version = "Yl3bUR51"
+version = "D1R1dkNT"

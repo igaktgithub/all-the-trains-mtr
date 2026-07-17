@@ -3,11 +3,11 @@ filename = "Hampton Railways Train Pack.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uglvYER0/versions/ca7YjBZH/Hampton%20Railways%20Train%20Pack.zip"
+url = "https://cdn.modrinth.com/data/uglvYER0/versions/ebSABGxg/Hampton%20Railways%20Train%20Pack.zip"
 hash-format = "sha512"
-hash = "f768ef29809e218bb41497e1c059ee72ed7ed23616bb7a0f55653e307ba2b59c23ef80f4fa92033176c60eb3c64fe2c5bb3f649d58922284ded6e71dc2e9b578"
+hash = "627a3a8133040df8e78cecc4e0a09f42fbb98085d16ca49f5dca0111120f94990e4a61ee33cf597018318ca3d24ff12424a7772b32613fc65edd57f2fae877c4"
 
 [update]
 [update.modrinth]
 mod-id = "uglvYER0"
-version = "ca7YjBZH"
+version = "ebSABGxg"

@@ -1,13 +1,13 @@
 name = "MTR4 - TRTA/Tokyo Metro 03 Series"
-filename = "MTR4 TM-03 Series 1.20 v1.2.zip"
+filename = "MTR4 TM-03 Series v1.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nijTn06l/versions/ZV6gVSQY/MTR4%20TM-03%20Series%201.20%20v1.2.zip"
+url = "https://cdn.modrinth.com/data/nijTn06l/versions/rBTOSlBQ/MTR4%20TM-03%20Series%20v1.3.zip"
 hash-format = "sha512"
-hash = "d13d844c82466df8b878c31d16331d5902f746aee4784dd72e0492401f865259a1165116267f08fd5756f4c0d013f21fc770c4faf16f1c258bb1b8227b0f3995"
+hash = "84645652f0ba0cb1788071173bd575b1dcf83a82cd9d9efe34bf794b786607b16bcecf1db93cddbbe81e654b6a6043814ef346f982107ef6b84a889dfc61e207"
 
 [update]
 [update.modrinth]
 mod-id = "nijTn06l"
-version = "ZV6gVSQY"
+version = "rBTOSlBQ"

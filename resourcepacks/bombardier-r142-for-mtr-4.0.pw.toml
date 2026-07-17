@@ -1,0 +1,13 @@
+name = "R142 + R142A for MTR 4.0"
+filename = "Bombardier R142 + Kawasaki R142A.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cOLkdXzc/versions/AJQqHgRV/Bombardier%20R142%20%2B%20Kawasaki%20R142A.zip"
+hash-format = "sha512"
+hash = "fa2f6e91f048fceee5527a819f6fb9f6309988b5129a095f220344fdb57c584d39e8330bfd626cae15f3009b2dce6f037d94191d4b7d1489d624672c82cf0bd3"
+
+[update]
+[update.modrinth]
+mod-id = "cOLkdXzc"
+version = "AJQqHgRV"

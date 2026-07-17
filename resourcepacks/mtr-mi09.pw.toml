@@ -1,0 +1,13 @@
+name = "[MTR] MI09 (RER A)"
+filename = "DEWON-MI09_1.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OPhYxfzW/versions/zf1HGr5b/DEWON-MI09_1.0-MTR4.zip"
+hash-format = "sha512"
+hash = "46dd8fc8704f556ff7c24c6d78c7bf8d8535963e2a6b165f2b9cc99b42f05d35ea504927f4b528fda01a84800abfb2a765fc677cadfcb0eb2c552f0f5cf1ef53"
+
+[update]
+[update.modrinth]
+mod-id = "OPhYxfzW"
+version = "zf1HGr5b"

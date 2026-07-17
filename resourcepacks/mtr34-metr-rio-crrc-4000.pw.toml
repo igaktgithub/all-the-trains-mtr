@@ -1,13 +1,13 @@
 name = "[MTR3/4] Metrô Rio CRRC 4000"
-filename = "MetroRioChangchunCRRC4000.zip"
+filename = "CNR4000_V2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QkmyOJs2/versions/Xvzviout/MetroRioChangchunCRRC4000.zip"
+url = "https://cdn.modrinth.com/data/QkmyOJs2/versions/SWSMpMQ8/CNR4000_V2.zip"
 hash-format = "sha512"
-hash = "a58c0ce26d6e2eacafcb0ca6adf17a42350cd386ed5bfb35670cacb0568cd8001e586d8756019e8eff8b1f548651079860af5c828e1dba07a61382e3ed7d5e9d"
+hash = "98786e6597796b65afbc6a5fe43de2bc7fcc316d2c837a61a402d248caff854c56da6684490b1df8aeffc5fd54bd7abdd9a31d20e66bd9cec4eaa00c59ce90ec"
 
 [update]
 [update.modrinth]
 mod-id = "QkmyOJs2"
-version = "Xvzviout"
+version = "SWSMpMQ8"

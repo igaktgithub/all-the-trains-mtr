@@ -1,13 +1,13 @@
 name = "WelshieRail"
-filename = "377.zip"
+filename = "ICNG.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vcwas0FV/versions/iwR7pb6H/377.zip"
+url = "https://cdn.modrinth.com/data/Vcwas0FV/versions/9vgELWJw/ICNG.zip"
 hash-format = "sha512"
-hash = "5643d35dcf343fb115d9157dd4428ce2551abd4675b723215b7bd09cae56f0d34ab7b328425e0314840704c6716cc995036170100c95bce486e67dc1538be6b0"
+hash = "22fef0b20323cab6fd5feeac39e90430711429a2e576167b7c99d16955570a28c1973af5d43f2a7bf3426153ab91cdc8f300071d2b2639fcc7ee77774f9ad208"
 
 [update]
 [update.modrinth]
 mod-id = "Vcwas0FV"
-version = "iwR7pb6H"
+version = "9vgELWJw"

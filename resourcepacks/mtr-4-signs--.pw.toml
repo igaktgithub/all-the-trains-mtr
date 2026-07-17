@@ -1,0 +1,13 @@
+name = "[MTR 4] Signs+"
+filename = "signsohyeah.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G7WzOElE/versions/OgfMryYS/signsohyeah.zip"
+hash-format = "sha512"
+hash = "683978893d2cab9e04e6c6345594d56e85e195a4a5348546029fb0883dcb6c2c1fd0f7149eb4c7f4f7ca8565643475336ba0aa63c9e8b828f6e716b65d41ad21"
+
+[update]
+[update.modrinth]
+mod-id = "G7WzOElE"
+version = "OgfMryYS"

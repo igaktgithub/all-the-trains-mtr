@@ -1,0 +1,13 @@
+name = "[MTR4] IET Pack"
+filename = "IET Pack v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TDiNajgf/versions/5h4B8iBr/IET%20Pack%20v1.0.zip"
+hash-format = "sha512"
+hash = "b5ecd722f0079f79397c897863cbe4a9d40a81f9670187c102cbbd1fa53925567ff50c98ac027d2aece668f2ffd13da193de20b0e0266019bd7b00dab88f6559"
+
+[update]
+[update.modrinth]
+mod-id = "TDiNajgf"
+version = "5h4B8iBr"

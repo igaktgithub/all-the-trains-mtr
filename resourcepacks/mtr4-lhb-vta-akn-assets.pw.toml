@@ -1,0 +1,13 @@
+name = "[MTR4] LHB VTA (+AKN Assets)"
+filename = "[MTR4] LHB VTA (+ AKN Assets).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lY6BfZU0/versions/7NWmLnmO/%5BMTR4%5D%20LHB%20VTA%20%28%2B%20AKN%20Assets%29.zip"
+hash-format = "sha512"
+hash = "4869c38b20ea97da059dc0f7cc2056cb733d4e6341054365d445439fdcab35c5d04edf499a2c833694ebb5f013dc179c1e9113c847d333ce4b0ef80afcbde7cb"
+
+[update]
+[update.modrinth]
+mod-id = "lY6BfZU0"
+version = "7NWmLnmO"

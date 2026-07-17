@@ -1,13 +1,13 @@
 name = "[MTR4] CP 3400 Series"
-filename = "CP3400-V1.1.0.zip"
+filename = "CP3400-v1.1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/VztABulL/versions/daaoSCkV/CP3400-V1.1.0.zip"
+url = "https://cdn.modrinth.com/data/VztABulL/versions/9yXBU0ZY/CP3400-v1.1.1.zip"
 hash-format = "sha512"
-hash = "b31af230f140a729209e50f72d14b2fb3ae15b149c25c644d5bbae73457f6430216d0b96827ba76e40bd836c50140dfcf2633524e8bbc3ff21515714b1e5a96d"
+hash = "48373a729f8e0cb73c170dcbe60f2896c1658a7013124cdde185af958ac8fa4c6003d4ce62aca094c976f9182828910f838429d12b200de12b51c29e97b57992"
 
 [update]
 [update.modrinth]
 mod-id = "VztABulL"
-version = "daaoSCkV"
+version = "9yXBU0ZY"

@@ -1,0 +1,13 @@
+name = "[MTR4] CFR Eurofima Carriages Plus (+)"
+filename = "CFR_Eurofima_Plus.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/efw077eF/versions/TMza8pVN/CFR_Eurofima_Plus.zip"
+hash-format = "sha512"
+hash = "c05b7f8bf0ef9c4d724953dbb01360be762bf24e332537914beb8c92c161fbd14d07e9dad3edeaa7e8e231129855ef0daa54d44849a25983efd80c5b6aa2c829"
+
+[update]
+[update.modrinth]
+mod-id = "efw077eF"
+version = "TMza8pVN"

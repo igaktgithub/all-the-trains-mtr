@@ -3,11 +3,11 @@ filename = "Czech_Tram_Suspensions.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mKwaAXcF/versions/pqcni45r/Czech_Tram_Suspensions.zip"
+url = "https://cdn.modrinth.com/data/mKwaAXcF/versions/YTkTZSD7/Czech_Tram_Suspensions.zip"
 hash-format = "sha512"
-hash = "e893c18f676a6ad4f5425dc551e6e5529f56a5530f2aa6beb1010045415a690a39f3ec324f4e3c7875756069a1977e8a4969ad504cd4dcb92490a8d683642f40"
+hash = "6ed133f7bbc0b238da6d5a0202a8b45df0d74d509f91d42bb8f4ae1b3667e7b1a184cf1f8f19737d57ed7d2fe806df3c34377a7e766eb0eecc281d5be22b974f"
 
 [update]
 [update.modrinth]
 mod-id = "mKwaAXcF"
-version = "pqcni45r"
+version = "YTkTZSD7"

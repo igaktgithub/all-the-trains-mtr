@@ -1,13 +1,13 @@
 name = "Shirahane Vehicle [MTR4]"
-filename = "ShirahaneVehicle release v2.4.2.zip"
+filename = "ShirahaneVehicle v2.4.3 release.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QyedBZUN/versions/lxv7Rm3g/ShirahaneVehicle%20release%20v2.4.2.zip"
+url = "https://cdn.modrinth.com/data/QyedBZUN/versions/M6LXl5Pr/ShirahaneVehicle%20v2.4.3%20release.zip"
 hash-format = "sha512"
-hash = "e6bffb78b4c81211858f95f9ca89abc019493850cbc207e9556d0b8e261f1210b0df0220e0090f3a96db541eb08547f0f50bd61867aa61e111bb98f548044daf"
+hash = "c059dc47ac3bb696a10529b02cd76fecf7030ac2d758a5451cad69d1316566a46d8dac463486d75677822f4a414988b79a467dc7eb0ca41496aa3f76c98effc7"
 
 [update]
 [update.modrinth]
 mod-id = "QyedBZUN"
-version = "lxv7Rm3g"
+version = "M6LXl5Pr"
