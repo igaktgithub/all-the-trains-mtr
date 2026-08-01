@@ -1,13 +1,13 @@
 name = "[MTR 3/4] Munich Trains"
-filename = "munich_v4.1.1.zip"
+filename = "munich_v4.1.1-beta-2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/g43L5ckc/versions/oeSTKl5K/munich_v4.1.1.zip"
+url = "https://cdn.modrinth.com/data/g43L5ckc/versions/PcloivSX/munich_v4.1.1-beta-2.zip"
 hash-format = "sha512"
-hash = "48947167847542526926090eb74cf91edb2282f0d159abe4c86cb7291462285c0848212c08c21e870d540b20bddaa14f3caf7fb15216454485a01de7cade1cb9"
+hash = "f1dc76411008fc703375de365ca466b08e8933fd13cc8663294cfe8630bbbb910dcdee7360345936b1c064c350798bb6a2209016a934f967896bafe5f8f740de"
 
 [update]
 [update.modrinth]
 mod-id = "g43L5ckc"
-version = "oeSTKl5K"
+version = "PcloivSX"

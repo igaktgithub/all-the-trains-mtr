@@ -1,0 +1,13 @@
+name = "Class 720 Aventra (Greater Anglia)"
+filename = "Class 720 Greater Anglia - Skywalker_6517.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rEeVydAd/versions/OTnOGeAN/Class%20720%20Greater%20Anglia%20-%20Skywalker_6517.zip"
+hash-format = "sha512"
+hash = "1619d3ffa3ecb319bb9dc6dd9cddd10a5f54c5207f928d47f2f01f10a300d744a5b38e8b7738d98875719d8fecf88166dee6bef76da71e3575585d454d0753e1"
+
+[update]
+[update.modrinth]
+mod-id = "rEeVydAd"
+version = "OTnOGeAN"

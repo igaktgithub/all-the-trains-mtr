@@ -1,0 +1,13 @@
+name = "Class 720 Aventra (C2C)"
+filename = "Class 720 C2C - Skywalker_6517.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P5ddy5aK/versions/Ob8kokUq/Class%20720%20C2C%20-%20Skywalker_6517.zip"
+hash-format = "sha512"
+hash = "6d3d31790ce759664b788ce0c096a6ff8fe8cf3a987f94b36d39504a6c711b28782a2726313ad95911f7f4fe7bfb562a652a7dc63bac42f46dabce73e3b1ffa4"
+
+[update]
+[update.modrinth]
+mod-id = "P5ddy5aK"
+version = "Ob8kokUq"

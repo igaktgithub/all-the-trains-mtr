@@ -1,0 +1,13 @@
+name = "RegioRain_A"
+filename = "RegioRain_A.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bg6bpAX0/versions/nBX6qJmc/RegioRain_A.zip"
+hash-format = "sha512"
+hash = "2988c0a3ad024b5832f1d4d5857c85715feeb138b882f448e1857a8f8569c19c5de9e57a5b023318354eb1f68a494868630f25ed20df47950be3fd8891496362"
+
+[update]
+[update.modrinth]
+mod-id = "Bg6bpAX0"
+version = "nBX6qJmc"

@@ -1,13 +1,13 @@
 name = "[MTR3/4]Amsterdam Metro"
-filename = "MTR_srt_Amsterdam_Metro_mtr4_250223.zip"
+filename = "MTR_srt_Amsterdam_Metro_4.0_260718.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RvrMDakI/versions/U6PCpT8T/MTR_srt_Amsterdam_Metro_mtr4_250223.zip"
+url = "https://cdn.modrinth.com/data/RvrMDakI/versions/rImO3gRr/MTR_srt_Amsterdam_Metro_4.0_260718.zip"
 hash-format = "sha512"
-hash = "45f772e65053dcc57e9718b86e8b3d7e02a6351cffed44569377c064ab33148709a35db424aaf29c74e63a980fd338c28711b52aec0d391348b8a84d9929cfc0"
+hash = "c3aa118f1f19696650f348b75035189c1434e34fd1c3e3a0078b51151e93dc3d994d97448aab7c4b8c22b6e95481a83c92ee9a9565de69090953f5c3960631d4"
 
 [update]
 [update.modrinth]
 mod-id = "RvrMDakI"
-version = "U6PCpT8T"
+version = "rImO3gRr"

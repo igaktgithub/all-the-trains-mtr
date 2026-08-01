@@ -1,0 +1,13 @@
+name = "[MTR4] Bombardier Mark VI Monorail"
+filename = "Bombardier Mark VI Monorail.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BrCL7o9f/versions/y5dh5afW/Bombardier%20Mark%20VI%20Monorail.zip"
+hash-format = "sha512"
+hash = "17a86efe4076e0117e51a74cf98fcb117cba0c78af3f6ed08420472f5cc3baad4016198ef6e3f1aec1f644a4c740a858fee609f21c14e9112ffa41f1350bd405"
+
+[update]
+[update.modrinth]
+mod-id = "BrCL7o9f"
+version = "y5dh5afW"

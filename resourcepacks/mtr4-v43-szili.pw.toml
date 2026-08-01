@@ -1,0 +1,13 @@
+name = "[MTR4] V43 Szili"
+filename = "v43.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/U0HSF30Y/versions/rk1GQcI1/v43.zip"
+hash-format = "sha512"
+hash = "aed609047e3648df69c5278fa66a40ad70530dea2b19c8965339b56f2f707ea11c9f82b0290606764b5171974dabb558b1beedb59093ba84b9f3589b676989c5"
+
+[update]
+[update.modrinth]
+mod-id = "U0HSF30Y"
+version = "rk1GQcI1"

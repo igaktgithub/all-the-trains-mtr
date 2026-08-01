@@ -1,13 +1,13 @@
 name = "[MTR4] TCL Buses"
-filename = "VDL Citea TCL 1.1.zip"
+filename = "VDL Citea TCL 1.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BWfrIQbv/versions/Uc054cB9/VDL%20Citea%20TCL%201.1.zip"
+url = "https://cdn.modrinth.com/data/BWfrIQbv/versions/GSo9gNVV/VDL%20Citea%20TCL%201.2.zip"
 hash-format = "sha512"
-hash = "28438883f6bcc5af7f1cb09dee906fad2ee2bd8b6b24d062aaecfdebf861e635689eb9e71075cb986e355e69fd539a077be2dc8b248004156eea65b78c4f0ab6"
+hash = "9e868c23ae4ed786cf306ef2dbb5e5e9be790991b18cc9bdf935bb9c6ff38c778c1b4268c2d509d96b8c08504ebfd577622b766d36922e78660eedfac862ece6"
 
 [update]
 [update.modrinth]
 mod-id = "BWfrIQbv"
-version = "Uc054cB9"
+version = "GSo9gNVV"

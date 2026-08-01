@@ -1,13 +1,13 @@
 name = "U Bahn Berlin Pack"
-filename = "u_bahn_berlin_packV86-20260712-224512.zip"
+filename = "u_bahn_berlin_packV98-20260729-172224.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1RGAdKUm/versions/eoI45Lkk/u_bahn_berlin_packV86-20260712-224512.zip"
+url = "https://cdn.modrinth.com/data/1RGAdKUm/versions/m7CvsNAD/u_bahn_berlin_packV98-20260729-172224.zip"
 hash-format = "sha512"
-hash = "8030fc5eebbb02a9fbd8dacb1b2eedb96e42a15d368f7490179b740bd80559aaf9c39209255871da888bdc9f6236e60925ea3dba211ffdc41b581a6c6b646863"
+hash = "270bc0fa40a341e6cc7a4d67fc83478f34e8fceca878f43a8c82bf84a410dd334a78a05b69387ca54bf4b3404e3758f65eb9ca1885b52a25680a10dd4aa36430"
 
 [update]
 [update.modrinth]
 mod-id = "1RGAdKUm"
-version = "eoI45Lkk"
+version = "m7CvsNAD"

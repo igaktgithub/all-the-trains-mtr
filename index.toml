@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "4f1dcb14ebf19d9c5d21d7b5acfd4ba6b72164592a07d544b93afd6e4b9a89be"
+hash = "7ed765c29c948da6f20198107fdbcc239c59d027a2fd12555b0f88843020f903"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "926378c304cf4e6560818e3ec1e836e021a8cf99359d3a8ebd7c4f9a62cdb5c1"
+hash = "f115369857c49d16e62ad718342a0375da0919604bba4b95bac2760a7a0245af"
 metafile = true
 
 [[files]]
@@ -200,6 +200,11 @@ hash = "444acfcc5979109916681524ed06eb6ff2efcad0c8abd5508d2e3899013a712f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bombardier-mark-vi-monorail.pw.toml"
+hash = "19499a3fedc6b3e2dc996dde137ad910ca5cbcbb7a56da0685700a6787da72bb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/bombardier-movia-346.pw.toml"
 hash = "c734cfd3d26dbbcdfeff995f734ec26f32b09e0308f975df104bac29fa2359c4"
 metafile = true
@@ -290,8 +295,23 @@ hash = "81d33132f8d0c1d623c26287586aa170587544f84b2b7482ff9f44706a977153"
 metafile = true
 
 [[files]]
+file = "resourcepacks/class-701-southwestern-railway-swr.pw.toml"
+hash = "551597f222eaf7bc6c7a01d765a21dca8565425ed1afe9da18b7e83a757a02cd"
+metafile = true
+
+[[files]]
 file = "resourcepacks/class-710.pw.toml"
 hash = "97e90ba704d1a5fb8eaa5b7ed0f98e604b37894fff6ad6a6a0cc4d60a78a9d1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/class-720-c2c.pw.toml"
+hash = "81837eac62604d049c092e0810299350e577d0f90888bd1e3b6e4ec43a77e66f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/class-720-greater-anglia.pw.toml"
+hash = "cfbcdd5387b5ca0ef63e17e8c6404f6fa1198130fd57d9e2b6e8c90155e764a7"
 metafile = true
 
 [[files]]
@@ -331,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dart-slrv.pw.toml"
-hash = "803af38747e02590315515b56074367012db639cf1176ebb994b5cf596ad939e"
+hash = "2a90ce44e4ea9eb247749239be2b4e7c1d2c820a2e83a2dabc6c3e17a4f06e05"
 metafile = true
 
 [[files]]
@@ -366,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/eurostar-class-373.pw.toml"
-hash = "3e823d65905cf1051996826e8ad672da376abe4795258e129ad911887d3475af"
+hash = "7d047a7c31f62cba33e4f9a935e8112b3a1b5c85c96de4d87d40136da6b0e111"
 metafile = true
 
 [[files]]
@@ -616,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/moszyan-railways.pw.toml"
-hash = "ec1dc5588af10b58f3a6eccd874716eb5e31ec17352fd3ab88d2aa8a3c5c5ac9"
+hash = "b4274d8f55dbcf9e9854ab3c6cd569bc73d0ead61d013390c79521b63573b335"
 metafile = true
 
 [[files]]
@@ -676,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-amsterdam-metro.pw.toml"
-hash = "7a83de22bb80924da4453f115ba70040880856ee67023b28df106b2c3c8930ab"
+hash = "b3e60ff009bb6dd60569bb3d7fc8a85d6277ee693df21dfcab38680eb38d0aae"
 metafile = true
 
 [[files]]
@@ -712,6 +732,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-class-378-pack-by-skywalker_6517.pw.toml"
 hash = "b31a8c6db08c163f1773c2fd16f78bb8462c2ae6dcad6dcd39d69a52e0e4537d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-class-702-monorail.pw.toml"
+hash = "1a56b9bae471613dfc1064c485226a695aa5826482fab62bb7377e50d0a1cfb7"
 metafile = true
 
 [[files]]
@@ -831,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-shinkansen-infrastructure.pw.toml"
-hash = "4bf35500bcdc9601f21db3a58fa171d83adc1b1752779dbb23a07c2fd12466b7"
+hash = "8c06ee6080f70108b33f2d82363f1e8b8fec68e5796d3d83d2ed9eef57a21cc6"
 metafile = true
 
 [[files]]
@@ -866,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-tgv-atlantique-thalys.pw.toml"
-hash = "dfb63992b0a28e3c3512070876554bb78ed20e824a629542010df53c05c33901"
+hash = "5fbf17ec1da641021ee12e0373e2a8a8c70755d0519e1526ea3dcbc7f797d7b7"
 metafile = true
 
 [[files]]
@@ -991,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-bombardier-movia-bm21.pw.toml"
-hash = "725ac35586b19c1e4a33b79afa23f736af2251e3a2ff8bfb4985df94bbd2c065"
+hash = "61cbab5ebd5b553f83bfdbc737e92e1a3d2eb590180bc10857ef6e9ae484bd4e"
 metafile = true
 
 [[files]]
@@ -1077,6 +1102,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-cp3400-series.pw.toml"
 hash = "f153e7cf8b61db9f306791372cf5393544cccaf4e1431b96ce5d51cdf6873284"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-db-signs-pack.pw.toml"
+hash = "933c004bcc12ddc4a10526abc2ef1ef60edf89a733b1467350ae5a01b99863ae"
 metafile = true
 
 [[files]]
@@ -1286,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-smrt-trains.pw.toml"
-hash = "65e012f131027354b37adee2570f55733e0fe76cc4d78875bb656901d25977d4"
+hash = "c8a72f332e046f7a52a00cc07e0a24b43fd2d83c3048e5481757256355650421"
 metafile = true
 
 [[files]]
@@ -1336,7 +1366,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-tcl-buses.pw.toml"
-hash = "6b839962ad672eeb2524705106a50dfcfbc6f0c1528b0f59f36bd677e096350a"
+hash = "639f19b9d08bf1f2821a3470e4072ff44b37c18f2ac4ea5905529c6e864a1e1c"
 metafile = true
 
 [[files]]
@@ -1356,7 +1386,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-tokyo-metro-05-series-(eidan-900)-re-texture.pw.toml"
-hash = "b30128ab7860afb2ff66c69ee66d895879d693546637ac57258697eb1f8dd89c"
+hash = "9ed2e62dfc88773768707ad389c5577f750de8ca7d1b50be65394a0b04cc9ddc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-tokyo-metro-06-series.pw.toml"
+hash = "ce58569fe11642505ca7791c622568b92f5bb24b7200a66fd9d8261e771eb185"
 metafile = true
 
 [[files]]
@@ -1371,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-trtatokyo-metro01-series.pw.toml"
-hash = "311297b6f280d20c8cb2c7b8b2aa341f19c4cfd970d616d468f4a7884e139ab4"
+hash = "f8ed9d4bce39e47d497bf4be58e8965d64d0cdb9d40900b7154261968c9e613a"
 metafile = true
 
 [[files]]
@@ -1392,6 +1427,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-uk-stop-markers.pw.toml"
 hash = "3c119f7f3751035099939f22f59b878ce401a87578514f3bae10bd9c81d0f565"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-v43-szili.pw.toml"
+hash = "2b11fdba2b87905fc392b6ddc8e5d5c3c5afc821513f4ce8113c959c9d495ee0"
 metafile = true
 
 [[files]]
@@ -1501,7 +1541,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtrnsw-trainlink-emu-trains.pw.toml"
-hash = "b4dfd74e976896a62a02364a08c3b14e6859514c1528b9b2deb9a932d8c8d3c3"
+hash = "f26335788fbbc3995fc126540d02326b9c1f23144ec50524df3c48a73be398d8"
 metafile = true
 
 [[files]]
@@ -1536,7 +1576,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/munich-trains.pw.toml"
-hash = "6e9b49250fa14aff0c2179b7945faa99b7ca71a98188ba748e2034790719c81e"
+hash = "01404cd54733a827c67ea6e2038d47377571e6eec35877a74ea02b291d8fa41b"
 metafile = true
 
 [[files]]
@@ -1547,6 +1587,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/nl-deco.pw.toml"
 hash = "0f8c1b91d68a24627be8a2716a12e398fb312f1ad4e23f608d1abb6f907aa46b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/norwegian-mtr-add-on.pw.toml"
+hash = "c853e5dc8c3bdc4dd7f2562283b8984ce9b2ef0b10abe5ddc0d3031e88ba8848"
 metafile = true
 
 [[files]]
@@ -1625,6 +1670,11 @@ hash = "a1fc3654cec03f5af34e525f58c35ab86e77c24b2ef1b92028edc8a84d1f287e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/regiorain_a.pw.toml"
+hash = "a7c5358b469e056d764e3bee4e047e7de9bc63bc02ec08c196f460184c7c7307"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rotterdam-metro-rsg3.pw.toml"
 hash = "0461698b252f7f0ca620791ad624e28df25d53dd52791c9f31dbeb3096f4d41e"
 metafile = true
@@ -1681,7 +1731,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sg-mrt-pids-v2.pw.toml"
-hash = "66e23dec46c3bc0a82b33077131af1b0da17af6d0d764009ed39194f0005ae29"
+hash = "0ea9acc9bfc344c98a04b23413aa0b32a84408c5b926145044138bd03a33ee8c"
 metafile = true
 
 [[files]]
@@ -1771,7 +1821,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/stepford-connect-and-waterline-class-730.pw.toml"
-hash = "fe621150bd1f6339ae796848bb18e5ce28182fd43af7f865af38401efb8ab24a"
+hash = "9fdd312b89cbdae090d03f9c5d7dde383f49043f753c38e67deb53c3b1d00c98"
 metafile = true
 
 [[files]]
@@ -1851,7 +1901,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/u-bahn-berlin-pack.pw.toml"
-hash = "4abced34a216dda51e28c192d184676194e3473b7c5a4dc7eb137a15ace302c4"
+hash = "5b9af6af18fedd04fbb364293d69bde44619444997b0a5a23a65778ac0adf205"
 metafile = true
 
 [[files]]
@@ -1871,7 +1921,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/us-pids-pack.pw.toml"
-hash = "2e4fd6b3ef2296e29c36f00a3e073ca42d0ffb0c91c7b9a228a10f359713593f"
+hash = "d143a1c51bc18a65c730b022067440decbcd67fff60778a0d576379617e46e5a"
 metafile = true
 
 [[files]]
@@ -1886,7 +1936,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vdl-citea-lle-120.pw.toml"
-hash = "702b7a20ebc1d6a913305dced8d0390a20cacde22f4df60026c50589f1b6cd97"
+hash = "f64e8e04267a2d772a948c880283bbb07d30080e1ba45557e268d02d16737061"
 metafile = true
 
 [[files]]

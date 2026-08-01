@@ -1,0 +1,13 @@
+name = "[MTR] Class 702 Monorail (Evangelion)"
+filename = "DEWON-702-EVA-Monorail_2.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bP9QaaSW/versions/4Jo1RX3M/DEWON-702-EVA-Monorail_2.0-MTR4.zip"
+hash-format = "sha512"
+hash = "91878a818014b45d4cba03617486382d5ee760125042775c397d852f07375ac688533473f26f2dd5a96b68d9c26b8888cbf9b73bb2b438b239616705d2100afb"
+
+[update]
+[update.modrinth]
+mod-id = "bP9QaaSW"
+version = "4Jo1RX3M"

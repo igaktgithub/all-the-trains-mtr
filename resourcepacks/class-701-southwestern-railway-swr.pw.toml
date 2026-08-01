@@ -1,0 +1,13 @@
+name = "Class 701 Aventra (Southwestern Railway SWR Arterio)"
+filename = "Class 701 SWR - Skywalker_6517.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YMMtBTFn/versions/8ePyw7PZ/Class%20701%20SWR%20-%20Skywalker_6517.zip"
+hash-format = "sha512"
+hash = "c16cfbf94aa0a91530757695aa09bb5d4697458a09fbef07a08a1b0a9c3201bac50dce00c4b1f53543917b28c0770975311d8a5911ea3180218c1d9bd7733e76"
+
+[update]
+[update.modrinth]
+mod-id = "YMMtBTFn"
+version = "8ePyw7PZ"

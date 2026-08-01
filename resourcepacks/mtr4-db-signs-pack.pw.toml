@@ -1,0 +1,13 @@
+name = "[MTR4] DB Signs Pack"
+filename = "DB_signs_pack_V1.0-fix.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jX7pDpvT/versions/D7BB13XU/DB_signs_pack_V1.0-fix.zip"
+hash-format = "sha512"
+hash = "3c8f984cae16b2441051a96c659c723a0f3227809e5990b046c47ad75bc99968cf133721cc8df37922d7a8faf8d4c6b8b964126d4ec9fe08b2840b6dffa044ef"
+
+[update]
+[update.modrinth]
+mod-id = "jX7pDpvT"
+version = "D7BB13XU"

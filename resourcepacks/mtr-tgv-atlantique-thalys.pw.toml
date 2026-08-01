@@ -1,13 +1,13 @@
 name = "[MTR] TGV Atlantique + Thalys"
-filename = "DEWON-TGV_atlantique_thalys-2.0.zip"
+filename = "DEWON-TGV_atlantique_thalys-2.1-MTR4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SigIMavR/versions/GMxaBcCG/DEWON-TGV_atlantique_thalys-2.0.zip"
+url = "https://cdn.modrinth.com/data/SigIMavR/versions/Rkyh2eVB/DEWON-TGV_atlantique_thalys-2.1-MTR4.zip"
 hash-format = "sha512"
-hash = "a0724c5792e5c2dfa96171893b84034ae38a920e4432c3ef7cf5b1c2353180a7c79406481d98560f7de055ff656c6e70d2fe77b77362dd47ae12c93ad9e6a68c"
+hash = "22fd3f4b6c101f305f5f79070ae820ec210e9723eb98455a559210aeace81f090b3585286a8b08f0ada9992fc0ce5b0e7d5f3b3062419adeaf8fc74494197aa6"
 
 [update]
 [update.modrinth]
 mod-id = "SigIMavR"
-version = "GMxaBcCG"
+version = "Rkyh2eVB"

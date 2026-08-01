@@ -3,11 +3,11 @@ filename = "BR_Class_373_TGV_TMST_MTR4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IkZp3S0I/versions/QB0G4U6M/BR_Class_373_TGV_TMST_MTR4.zip"
+url = "https://cdn.modrinth.com/data/IkZp3S0I/versions/pZLo8oah/BR_Class_373_TGV_TMST_MTR4.zip"
 hash-format = "sha512"
-hash = "8d49b84e68dd0e303fead5ee3ba85a71395151d00e5602a0c937094dee93c7dec8f8ddbe5773edbfd43e6d5c05e74d134bf2271fcc074d4e09b75ed16b8c25f3"
+hash = "c09cd0962b4d580b57e05ae4270dc69ce0c627851602b6266a725b52493c680c4261d1c433ae092ce56a8c943cc3295ed2af1fd61666b66473d3e45357390172"
 
 [update]
 [update.modrinth]
 mod-id = "IkZp3S0I"
-version = "QB0G4U6M"
+version = "pZLo8oah"

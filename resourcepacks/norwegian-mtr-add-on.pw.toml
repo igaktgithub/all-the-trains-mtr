@@ -1,0 +1,13 @@
+name = "Norwegian MTR add-on"
+filename = "Norwegian Trains.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WgnKHzAV/versions/BH6kkP2F/Norwegian%20Trains.zip"
+hash-format = "sha512"
+hash = "c978db3e6c94b13eb30c00561f6a09cbd84232a53c48ae0f2f1b60d7320fa676da2d9ad12ab0c938a8a5c0c7645aae265f1a80f51980c9357de1635174ecc566"
+
+[update]
+[update.modrinth]
+mod-id = "WgnKHzAV"
+version = "BH6kkP2F"
