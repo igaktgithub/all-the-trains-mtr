@@ -1,0 +1,13 @@
+name = "[MTR4] Airliners for MTR - Additional Plane Liveries"
+filename = "Guull's Plane Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hADIpr0/versions/ptDYiJvQ/Guull%27s%20Plane%20Pack.zip"
+hash-format = "sha512"
+hash = "aa63f4426728fbf4e3b257985ad212a51c2ae5d60fa1ed514314f0302db8c651e0be17e6e22a703894ddaf099d6e4e3f699c02a9b051cfd9b772a85032bbe3fa"
+
+[update]
+[update.modrinth]
+mod-id = "8hADIpr0"
+version = "ptDYiJvQ"

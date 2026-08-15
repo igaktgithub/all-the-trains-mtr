@@ -3,11 +3,11 @@ filename = "ARCO_COACHES_MTR4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vUk53NlF/versions/95JAnzTm/ARCO_COACHES_MTR4.zip"
+url = "https://cdn.modrinth.com/data/vUk53NlF/versions/RCDE9RFI/ARCO_COACHES_MTR4.zip"
 hash-format = "sha512"
-hash = "2563d76fe692954324cd1a363846a291c34f62af38e6b4c7517cff30ea82e67084eb2b4816990180e70c9b2ea61141973672835c28a482e0876e6b6247e42e16"
+hash = "bd76a756552f4d52eec2ac722ce2676604030082adafed80d1e9e15dc7777bb6760885db48e866a2efd3bf21313e31d662b4f8b92f176e02dcaed3233730b592"
 
 [update]
 [update.modrinth]
 mod-id = "vUk53NlF"
-version = "95JAnzTm"
+version = "RCDE9RFI"

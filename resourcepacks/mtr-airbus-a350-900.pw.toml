@@ -1,0 +1,13 @@
+name = "[MTR] Airbus A350-900"
+filename = "A350-900 New Nose.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8XCHO3eR/versions/i4AJXEsS/A350-900%20New%20Nose.zip"
+hash-format = "sha512"
+hash = "eb0ae676a1e845a0a1bbe1b411f65088150c054d2c3c233ca0b98403be3ffabfa460bbd30d8b0df802d2572957b4514c4c72a960fc991245dbffa20df7831786"
+
+[update]
+[update.modrinth]
+mod-id = "8XCHO3eR"
+version = "i4AJXEsS"

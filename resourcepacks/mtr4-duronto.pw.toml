@@ -1,0 +1,13 @@
+name = "[MTR4] LHB Duronto Express Sleeper Coaches - Indian Railways"
+filename = "Duronto1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CEqUmvC3/versions/xvK7ZWMU/Duronto1.0.zip"
+hash-format = "sha512"
+hash = "0c8a8d96cbb67411aceeb3b3b513758895dd6e27ddb78b7caa22442b0c6f186ab51fb529c7c7fd64723bc8ceafbc93c29a3f1bc87171420f12b30ef935e8b677"
+
+[update]
+[update.modrinth]
+mod-id = "CEqUmvC3"
+version = "xvK7ZWMU"

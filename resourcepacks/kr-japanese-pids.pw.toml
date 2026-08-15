@@ -1,0 +1,13 @@
+name = "[MTR4|JCM]Japanese PIDS"
+filename = "Japanese_PIDS v1.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/idmz0Nym/versions/lPK6LvYH/Japanese_PIDS%20v1.5.zip"
+hash-format = "sha512"
+hash = "fd04debb850631b1e066718d38e7c665efecad59147530ed8eb648e8369e12b304f2121091845824d1097905eee78ac237e7246e1fd0c671fcbcd6f7ee06fcd8"
+
+[update]
+[update.modrinth]
+mod-id = "idmz0Nym"
+version = "lPK6LvYH"

@@ -1,0 +1,13 @@
+name = "International Metropack - Retro"
+filename = "MP Base v1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M9wsZ4XG/versions/hRLaO7wb/MP%20Base%20v1.4.zip"
+hash-format = "sha512"
+hash = "60fb435b002ceccee681f1225b4eb53496c22b964590c1f9edbd1a3e1004d91ae69333e69aa94dfd6e4b06dc1a0ce98cf1096ebf5852f218a491a739ffa74b41"
+
+[update]
+[update.modrinth]
+mod-id = "M9wsZ4XG"
+version = "hRLaO7wb"

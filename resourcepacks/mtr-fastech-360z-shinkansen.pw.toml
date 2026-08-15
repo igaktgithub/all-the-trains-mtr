@@ -1,0 +1,13 @@
+name = "[MTR] FASTECH 360Z | Class E955 Shinkansen"
+filename = "DEWON-FASTECH360Z-1.0-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DRaHhW4R/versions/G6QYBdCa/DEWON-FASTECH360Z-1.0-MTR4.zip"
+hash-format = "sha512"
+hash = "c7c33dbcd2456d8754abd191da8baafe147105693481f05319cdf92ad398e0bf55b88113a19224d0c2e31d0c76178cc05c69318dba47c44eca882fa6576051e9"
+
+[update]
+[update.modrinth]
+mod-id = "DRaHhW4R"
+version = "G6QYBdCa"

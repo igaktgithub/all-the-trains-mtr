@@ -1,0 +1,13 @@
+name = "[MTR4] Metro Lisboa"
+filename = "MetroLisboa V1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZ1WSvO4/versions/8TSmYNkM/MetroLisboa%20V1.0.1.zip"
+hash-format = "sha512"
+hash = "0a4811609cba18a92bb3ce1418f9a935da21c5121039ecbe88023ae09bd57dcc03e4e24ea69d4ec56db386bd9495fa0499a2fe24e8b965aa1f6384580b2a6f48"
+
+[update]
+[update.modrinth]
+mod-id = "KZ1WSvO4"
+version = "8TSmYNkM"

@@ -1,0 +1,13 @@
+name = "[MTR4] LHB Tejas Rajdhani Sleeper Coaches - Indian Railways"
+filename = "TejasRajdhani1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/b5jowrII/versions/qYPpgzXd/TejasRajdhani1.0.zip"
+hash-format = "sha512"
+hash = "42b6b6f41f541ca45a318401e5a7d536337ddfdb64bb57a0ac77262b31d9718cdff2d90fac0097542b77b0b50034e9f2b10ddeead34ff498487fe73147f9df06"
+
+[update]
+[update.modrinth]
+mod-id = "b5jowrII"
+version = "qYPpgzXd"

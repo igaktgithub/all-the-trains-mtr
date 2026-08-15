@@ -1,13 +1,13 @@
 name = "World PIDS-Pack [MTR 4/JCM]"
-filename = "World_PIDS-Pack-1113.zip"
+filename = "World_PIDS-Pack-200.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/szeOgXns/versions/1OYeKeSc/World_PIDS-Pack-1113.zip"
+url = "https://cdn.modrinth.com/data/szeOgXns/versions/mvNxsqhQ/World_PIDS-Pack-200.zip"
 hash-format = "sha512"
-hash = "225cbd7934ef987c6a4601eb6042485e1f2fa652916fa89f8ace85b5dc7c69359e8a705b4289617aad45ac2d08e2f22a9dd81eaca752e77d1704e117f7134181"
+hash = "e10b41f2b1c99f882695aebb0427a89f80fe79d4a5e035515598f026b7823022abfe38e855b8bfa8b2063ba0726675ae06d2e5ed679e39d2ccd1d2709e5dc035"
 
 [update]
 [update.modrinth]
 mod-id = "szeOgXns"
-version = "1OYeKeSc"
+version = "mvNxsqhQ"

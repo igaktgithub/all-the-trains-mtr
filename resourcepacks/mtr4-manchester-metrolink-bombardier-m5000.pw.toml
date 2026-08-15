@@ -3,11 +3,11 @@ filename = "Manchester_MetroLink_M5000.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bgUS7BuV/versions/tRogS9TG/Manchester_MetroLink_M5000.zip"
+url = "https://cdn.modrinth.com/data/bgUS7BuV/versions/cSKSdUz6/Manchester_MetroLink_M5000.zip"
 hash-format = "sha512"
-hash = "ad6cb9f24d4a579cc355dfdb5a0e0b64781e013b390c74df39c984c5595859b583d7500f9379a08e484fce1a95c3378a1712e8cc00371efacd255be11bc8901c"
+hash = "8e7b7dbd165e841cc1b7814ba95fc006e3f43127bbfef4577c624dee9ce56763077f538bbb388730d6a55034ff9bb87e163adb550dfb5e1c331f64c4b3eb4059"
 
 [update]
 [update.modrinth]
 mod-id = "bgUS7BuV"
-version = "tRogS9TG"
+version = "cSKSdUz6"

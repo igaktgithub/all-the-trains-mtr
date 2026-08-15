@@ -1,13 +1,13 @@
 name = "S Bahn Berlin BR481"
-filename = "s_bahn_berlin_packV40-20260716-185135.zip"
+filename = "s_bahn_berlin_packV44-20260811-000122.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6YnyDI0w/versions/ZAYuQXaH/s_bahn_berlin_packV40-20260716-185135.zip"
+url = "https://cdn.modrinth.com/data/6YnyDI0w/versions/kr38fqIK/s_bahn_berlin_packV44-20260811-000122.zip"
 hash-format = "sha512"
-hash = "b94142a47408e3f3677edc85dabc845648bc5dab8d2b586789b3d0c7699f6cef859dcb0f69f56899afb40ebe4895ae3ae269f4ef1fb1d6d3a91492842e9f7294"
+hash = "d5be94578f630f3c40ce56cc46e4ea10206e01c3f30071cff3db6da64a14db830e00cbaf04c31d3b7d71927242f8868352c4948a43c6293e33f6449034aab94b"
 
 [update]
 [update.modrinth]
 mod-id = "6YnyDI0w"
-version = "ZAYuQXaH"
+version = "kr38fqIK"
