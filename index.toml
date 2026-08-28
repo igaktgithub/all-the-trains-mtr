@@ -1990,6 +1990,11 @@ hash = "746f989d596246068ae05690c0dc7a05369cff06463ebbbfabd3aecc9156841d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/u-bahn-berlin-kleinprofil-pack.pw.toml"
+hash = "e88ba7ce58068e165efb55eede7ec81bb10f5bbb64dfb11b5a40ccdec7c5fa43"
+metafile = true
+
+[[files]]
 file = "resourcepacks/u-bahn-berlin-pack.pw.toml"
 hash = "af6cb2054db9e8ec285c932ee28cb1dcca71e0baec81d2119b554a8bea2e772b"
 metafile = true

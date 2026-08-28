@@ -1,0 +1,13 @@
+name = "U Bahn berlin Kleinprofil Pack"
+filename = "u_bahn_berlin_kleinprofilV9-20260821-220101.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcdroIG8/versions/AfHrwRbC/u_bahn_berlin_kleinprofilV9-20260821-220101.zip"
+hash-format = "sha512"
+hash = "63b144804a2f85271088d2b571a2e79067c7ae7265720e9a9cc0f95f59fe1c89afd3e3eda4353f434e85c0813357321478d4584d3be89dc6c3293c5a82799876"
+
+[update]
+[update.modrinth]
+mod-id = "NcdroIG8"
+version = "AfHrwRbC"
