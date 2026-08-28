@@ -1,0 +1,13 @@
+name = "[MTR3/4]Tianjin Metro DKZ7 pack"
+filename = "[MTR4]DKZ7_offi1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rRrNEAbF/versions/BgNBMT8Z/%5BMTR4%5DDKZ7_offi1.1.zip"
+hash-format = "sha512"
+hash = "5d3e2bedc5af90db9b4b105591f4c16170639e1a81c9cd19af5c31db57332110ab01c2c44ecabb7cfddf7d8efdf8ea975e85e88c01d17087546b8ea301691a6b"
+
+[update]
+[update.modrinth]
+mod-id = "rRrNEAbF"
+version = "BgNBMT8Z"

@@ -1,0 +1,13 @@
+name = "[MTR] TGV M (Avelia Horizon)"
+filename = "DEWON-TGV_M-1.2-MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2g9uylbd/versions/mGoCJQUc/DEWON-TGV_M-1.2-MTR4.zip"
+hash-format = "sha512"
+hash = "5fa1bf9bcfd42cc11836902b4ac9e5677dd222471242d407716a06588201fa91990ad4bcba5123d349ab3df45a582b77ad9cb16c7e14b39038a783fe0dc654d3"
+
+[update]
+[update.modrinth]
+mod-id = "2g9uylbd"
+version = "mGoCJQUc"

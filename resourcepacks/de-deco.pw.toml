@@ -1,0 +1,13 @@
+name = "[MTR] DE Decoration"
+filename = "DE Decoration.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/APgj0i8r/versions/d63KJ2nt/DE%20Decoration.zip"
+hash-format = "sha512"
+hash = "ef8b446d45416865d08d6696a3c252a454955813ba1975fece4fe8382bbd5c6d0a37ef9c031260f5fbeefbea8f37ea31c78d5fb926dcfcb262d4bd51c9f32a78"
+
+[update]
+[update.modrinth]
+mod-id = "APgj0i8r"
+version = "d63KJ2nt"

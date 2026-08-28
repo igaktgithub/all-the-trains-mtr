@@ -1,0 +1,13 @@
+name = "[MTR4] CP Class 1400 Locomotive"
+filename = "CP_1400_v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LoFw8VKY/versions/QS8SrCR9/CP_1400_v1.0.0.zip"
+hash-format = "sha512"
+hash = "95142081fea11606fd1d1afd385bf249a51daf14d2e780f908a41a19ced08eb0a199883cad8e8a2c66e6d08a7e27dd78e05049d7fb62d1de77e496476b56d69f"
+
+[update]
+[update.modrinth]
+mod-id = "LoFw8VKY"
+version = "QS8SrCR9"

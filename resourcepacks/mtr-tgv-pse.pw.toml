@@ -1,13 +1,13 @@
 name = "[MTR] TGV PSE + TGV Postal"
-filename = "DEWON-TGV_PSE_&_postal-2.0.zip"
+filename = "DEWON-TGV_PSE_&_postal-3.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/eqeypOh1/versions/H9ZwjAJ2/DEWON-TGV_PSE_%26_postal-2.0.zip"
+url = "https://cdn.modrinth.com/data/eqeypOh1/versions/wUjWo88e/DEWON-TGV_PSE_%26_postal-3.1.zip"
 hash-format = "sha512"
-hash = "e7ee79e25252623defa04701403d223fa2b8a327a8e64ea7ef704141f262cc19c65c05c4805cfef36a9df1945f91215c65b16879f272f44d2ff48761e30c5a62"
+hash = "c325e0cac1c98087f08078b17272a3e53e475dba987c7f2703ae68d0f9fee74eac4cc57552bba31839bc8fd4c54865cbf1e2a77d679a3e768673f7f609ebc281"
 
 [update]
 [update.modrinth]
 mod-id = "eqeypOh1"
-version = "H9ZwjAJ2"
+version = "wUjWo88e"

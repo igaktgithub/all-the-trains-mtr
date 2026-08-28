@@ -1,0 +1,13 @@
+name = "[MTR4]BR Class 360 EMR"
+filename = "MTR4_BR_Class360_srt_260823.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LUvLIsY4/versions/n2872oXb/MTR4_BR_Class360_srt_260823.zip"
+hash-format = "sha512"
+hash = "4fa055540c9a2f862dd07a67f67914892eb0da6191b27af353f5dfefdf86f958f29a09be0dd1c579e773541d9898e4f31ecdb29902e5f3b7e32a3c45592083cf"
+
+[update]
+[update.modrinth]
+mod-id = "LUvLIsY4"
+version = "n2872oXb"

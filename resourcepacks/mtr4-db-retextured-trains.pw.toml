@@ -1,0 +1,13 @@
+name = "[MTR4] DB Retextured Trains"
+filename = "MTR4_DB_retextured_trains_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pWL5tDZJ/versions/vNic1bA0/MTR4_DB_retextured_trains_V1.0.zip"
+hash-format = "sha512"
+hash = "9e14fd382b0473141a1d5c19ccf492d240d432e150e7b3df748051613fefbdfe71bbadb0f5532fe40032b2e30781ba558a58cbc7e886b32b42a19860b8bb1cce"
+
+[update]
+[update.modrinth]
+mod-id = "pWL5tDZJ"
+version = "vNic1bA0"

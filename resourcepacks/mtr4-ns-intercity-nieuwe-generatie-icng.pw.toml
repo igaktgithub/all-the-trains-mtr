@@ -1,0 +1,13 @@
+name = "[MTR4] NS Intercity Nieuwe Generatie / Alstom Coradia Stream"
+filename = "NS ICNG.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pwnhpCh/versions/2blxu3R0/NS%20ICNG.zip"
+hash-format = "sha512"
+hash = "cf2e8453146ce0dc28fd21ea66d35fad1bd2180495e02884bfd3b8fe1e5c1dc270f9c86827b6d51998091fbafe005666ad70a4f5eb5fce5b7b53fa6a37b0222a"
+
+[update]
+[update.modrinth]
+mod-id = "9pwnhpCh"
+version = "2blxu3R0"

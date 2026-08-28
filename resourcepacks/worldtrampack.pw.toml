@@ -1,13 +1,13 @@
 name = "[MTR/NTE] World Tram pack"
-filename = "world tram pack 1.2.5f.zip"
+filename = "WTP 2.0.0 alpha-5.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zCEtMibU/versions/IA6uh7WJ/world%20tram%20pack%201.2.5f.zip"
+url = "https://cdn.modrinth.com/data/zCEtMibU/versions/5FTXvDOp/WTP%202.0.0%20alpha-5.zip"
 hash-format = "sha512"
-hash = "1c81a8e92db6677990c0a920e2d84f3dcadac27096ed48d3ea77e397802ee57659328d6c7583a359687db9b08b07d603df6d8839b3c68796380081f59941fb9f"
+hash = "b863244c9ebedcc97c9e305c32c41111e7cd5896141dad6e9d4f1ee2264853ea5f24ed1fe3b9d221c152420a5597a27d18ebca5fc5f9db0ab2544894cbab6e97"
 
 [update]
 [update.modrinth]
 mod-id = "zCEtMibU"
-version = "IA6uh7WJ"
+version = "5FTXvDOp"

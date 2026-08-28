@@ -1,13 +1,13 @@
 name = "[MTR4] JR East E233-2000 Series | JR東日本E233系2000番台"
-filename = "JR_East_E233-2000_Series_V1.1.zip"
+filename = "JR_East_E233-2000_Series_V1.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/B8aHkl1g/versions/vG8kFWlA/JR_East_E233-2000_Series_V1.1.zip"
+url = "https://cdn.modrinth.com/data/B8aHkl1g/versions/RBGwO6ax/JR_East_E233-2000_Series_V1.2.zip"
 hash-format = "sha512"
-hash = "c97861d70e3fb91580465c686ea9655d0ca83be623cbe0a13cfd35e07f4e344cfe461c69e9e305e99f5c52707041fa1622e0368e2e65070cfe75c4d34cf81cdd"
+hash = "463dfccdf4ae5c89632c3d3c75ce2df4c70ec1e6c37df8c61d24f0fb2734b21a271e6a10748ead008dc0786c190fd24f654895a8d6136d04a139e8b4ddc66b02"
 
 [update]
 [update.modrinth]
 mod-id = "B8aHkl1g"
-version = "vG8kFWlA"
+version = "RBGwO6ax"

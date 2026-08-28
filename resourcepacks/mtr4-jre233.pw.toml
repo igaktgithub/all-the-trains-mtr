@@ -1,0 +1,13 @@
+name = "[MTR4] JR East E233 Series | JR東日本 E233系"
+filename = "JR_East_E233_Series_ver_1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rSxCH6YH/versions/H7UmbTxO/JR_East_E233_Series_ver_1.1.zip"
+hash-format = "sha512"
+hash = "c4f9c947d8530fa1e534bb52aa93dfc8545814754882346d10dc97b62e5bc6f5932a9aec1bbebd181218d28dd2e9b4ba2191c42d749a5a44079c8eaf1d6c9fb6"
+
+[update]
+[update.modrinth]
+mod-id = "rSxCH6YH"
+version = "H7UmbTxO"

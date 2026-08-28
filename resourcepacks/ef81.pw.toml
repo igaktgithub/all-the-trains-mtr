@@ -1,0 +1,13 @@
+name = "【MTR4】Class EF81|EF81形"
+filename = "botamochi129_EF81-MTR4 v.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xg3CqzmH/versions/VHGxlbhj/botamochi129_EF81-MTR4%20v.1.0.zip"
+hash-format = "sha512"
+hash = "c5ac07287e9475828de54bf758f80ab7cc143b25ed683eaae5097d9a6159d39a603951f0715bab1fc3d238f287cf71a3595e7f9ec630d44af97267d503d3cdfe"
+
+[update]
+[update.modrinth]
+mod-id = "xg3CqzmH"
+version = "VHGxlbhj"

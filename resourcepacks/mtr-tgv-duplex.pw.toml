@@ -1,13 +1,13 @@
 name = "[MTR] TGV Duplex"
-filename = "DEWON-TGV_Duplex_PBKA_1.1.zip"
+filename = "DEWON-TGV_Duplex_PBKA_2.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3EoX9WnT/versions/d3mN588n/DEWON-TGV_Duplex_PBKA_1.1.zip"
+url = "https://cdn.modrinth.com/data/3EoX9WnT/versions/jDkqeOjF/DEWON-TGV_Duplex_PBKA_2.0.zip"
 hash-format = "sha512"
-hash = "1f34976e5439f3bd0ccc1bfe0edfdf2a6645ddfef00c140cfcf3298138d921cd627ba1aafccab1d0ad700218bfc97e3f68cb1541401557d0b47cd445ead5350f"
+hash = "cb56d2d8d7ee1a8f42aa93b2291f62d48b13cf907a3ae902b3c1544209e7564c7974b6ced858adff98a9eeb9531e84b254724fa48dba5a251f9c05a357ccbf1d"
 
 [update]
 [update.modrinth]
 mod-id = "3EoX9WnT"
-version = "d3mN588n"
+version = "jDkqeOjF"
