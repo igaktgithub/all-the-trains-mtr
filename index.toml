@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "83f7fc7f1829fb3b37310e9ce1cdc3e2581f6f6d70cec548a4a4fd96285f0531"
-
-[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "f1024ae20178e0f018293fe667474f4514672c612c6a69b5aabf69fc91e61af6"
 
