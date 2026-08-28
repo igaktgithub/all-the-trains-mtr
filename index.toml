@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "83f7fc7f1829fb3b37310e9ce1cdc3e2581f6f6d70cec548a4a4fd96285f0531"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "f1024ae20178e0f018293fe667474f4514672c612c6a69b5aabf69fc91e61af6"
 
@@ -1026,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr34busan-transport-corp-class-2000.pw.toml"
-hash = "b6497e861dc5bac475d15fc9f8810ff09b02e5d3db761bd9eaee6fb29330753a"
+hash = "51e8bc3ddd1a761e7c5eaca0c0a9a89447f0ed7adb64a855f1632a290e626613"
 metafile = true
 
 [[files]]
@@ -1866,7 +1870,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sotetsu-11000-series.pw.toml"
-hash = "5b33c79cf293ef1616b32bc7dd702acbe89c46a75a6160d93127668221caee27"
+hash = "3756bb643ea1b761eb40eb7a234e283140950d0c06dd8f8cbb9ab422141ae970"
 metafile = true
 
 [[files]]
