@@ -3,11 +3,11 @@ filename = "LNER_azuma_MTR4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uX3VZBa0/versions/UZbqllzt/LNER_azuma_MTR4.zip"
+url = "https://cdn.modrinth.com/data/uX3VZBa0/versions/G4De0FAT/LNER_azuma_MTR4.zip"
 hash-format = "sha512"
-hash = "2ab2afd41feb864d36800f552c0097bea4cb5a6f8b912a102603cee369ac401fd0259f0152bd335ee99d4d4f9810a9c7126cfb31f2871621d774d08aa21eb6e5"
+hash = "2cb112ca53298d2f3d457f10713f785f78af9ced17d0f1bf0390f62c6143539b4c3c7cf626de1312f88d51e2a370ddd70cdf181aadabf35b62ad0bacbfce3192"
 
 [update]
 [update.modrinth]
 mod-id = "uX3VZBa0"
-version = "UZbqllzt"
+version = "G4De0FAT"
