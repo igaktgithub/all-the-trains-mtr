@@ -1,0 +1,13 @@
+name = "[MTR3/4] British Rail Class 458"
+filename = "swt_458.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H6t3jRbC/versions/MaPhNrlB/swt_458.zip"
+hash-format = "sha512"
+hash = "760e2801b7be7a3d0a1c42359b71c97058e05516f5d9cc1c2dd21e6a56b7152437325702207e7235f62df95ff9fb8bfae4375613dd05e7b4f5b2ffec05884707"
+
+[update]
+[update.modrinth]
+mod-id = "H6t3jRbC"
+version = "MaPhNrlB"
