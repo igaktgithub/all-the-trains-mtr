@@ -34,13 +34,37 @@ import json
 import subprocess
 import sys
 import tomllib
+import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
 BASE_URL = "https://addons.minecrafttransitrailway.com"
+MODRINTH_API = "https://api.modrinth.com/v2"
 RESOURCEPACKS_DIR = Path("resourcepacks")
 REQUIRED_TAG = "MTR4"
 TARGET_CATEGORY = "Resource Pack"
+
+# Exact Modrinth titles to never add, regardless of tags -- maintained by
+# hand, add to this as needed.
+EXCLUDED_NAMES = {
+    "Leah's Cheesy Resources",
+    "Rekon Sound Library",
+    "Ceru's Sound Library (MTR Mod)",
+}
+
+# Case-insensitive substrings that mark a pack as no longer wanted (old/
+# unmaintained versions the DB keeps around for history). Matched against
+# the Modrinth title, e.g. "[Deprecated] ...", "... (Discontinued-...)",
+# "[SUPERSEDED] ...".
+DEPRECATED_KEYWORDS = ("deprecated", "discontinued", "superseded", "abandoned")
+
+
+def is_excluded(title: str) -> bool:
+    if title in EXCLUDED_NAMES:
+        return True
+    lowered = title.lower()
+    return any(keyword in lowered for keyword in DEPRECATED_KEYWORDS)
 
 
 def fetch_json(url: str):
@@ -73,6 +97,16 @@ def get_existing_modrinth_ids() -> set[str]:
         if mod_id:
             ids.add(mod_id)
     return ids
+
+
+def get_modrinth_title(mr_id: str) -> str | None:
+    url = f"{MODRINTH_API}/project/{urllib.parse.quote(mr_id)}"
+    try:
+        data = fetch_json(url)
+    except urllib.error.HTTPError as exc:
+        print(f"::warning::Could not look up title for {mr_id}: {exc}", file=sys.stderr)
+        return None
+    return data.get("title")
 
 
 def existing_pw_files() -> set[str]:
@@ -131,6 +165,14 @@ def main() -> int:
 
     added_names = []
     for mr_id in to_add:
+        title = get_modrinth_title(mr_id)
+        if title is None:
+            print(f"Skipping {mr_id}: could not fetch its Modrinth title, skipping to be safe")
+            continue
+        if is_excluded(title):
+            print(f"Skipping {mr_id}: excluded by name ({title!r})")
+            continue
+
         name = add_resourcepack(mr_id)
         if name:
             added_names.append(name)
