@@ -1,0 +1,82 @@
+name: Add new MTR4 resource packs
+
+on:
+  schedule:
+    # Runs daily. Keep this more frequent than your version-update workflow --
+    # it's only reading a "recent updates" feed with a limited page size, so
+    # long gaps risk missing entries. Adjust the cron as you like.
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  add-new-resourcepacks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "stable"
+
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Find and add new resource packs
+        id: add
+        run: |
+          set -o pipefail
+          python3 scripts/add_new_resourcepacks.py | tee /tmp/script-output.txt
+
+      - name: Build commit message
+        id: message
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          text = Path("/tmp/script-output.txt").read_text()
+          start = "::added-summary-start::"
+          end = "::added-summary-end::"
+          try:
+              block = text.split(start, 1)[1].split(end, 1)[0].strip()
+              names = json.loads(block)
+          except (IndexError, json.JSONDecodeError):
+              names = []
+
+          Path("/tmp/added-count.txt").write_text(str(len(names)))
+
+          if names:
+              noun = "resource pack" if len(names) == 1 else "resource packs"
+              lines = [f"added {len(names)} {noun}:"]
+              lines += [f"- {name}" for name in names]
+              Path("/tmp/commit-message.txt").write_text("\n".join(lines) + "\n")
+          PY
+
+      - name: Commit and push
+        run: |
+          added_count="$(cat /tmp/added-count.txt)"
+          if [ "$added_count" = "0" ]; then
+            echo "No new resource packs found, nothing to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          packwiz refresh
+
+          git add resourcepacks/ index.toml
+          git commit -F /tmp/commit-message.txt
+          git push
