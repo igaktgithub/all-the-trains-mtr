@@ -180,11 +180,6 @@ hash = "83860e17e14ebf7d2a1b74dcc02c3b67f677ee3e0e755fec222de6773e9bc3dc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/american-heavy-freight-pack.pw.toml"
-hash = "44f73cbcc19354756c1bf4ade283927af804ac4e6e720711f3ef2dd199ac47e1"
-metafile = true
-
-[[files]]
 file = "resourcepacks/austrian-express-collection-1-pack.pw.toml"
 hash = "1830f792311c7790f00b91de14f4a8b7570d2ad0286c09ec4aae649dfb12c5ec"
 metafile = true
@@ -237,11 +232,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/british-rail-class-350.pw.toml"
 hash = "cd19eb9fc289fb943d3cb0256822c7ecae324be077029417e05f5e11db265a35"
-metafile = true
-
-[[files]]
-file = "resourcepacks/british-rail-class-458.pw.toml"
-hash = "87f69065584ff64dc33e04fcc508dfb80aa4640176474758a7d5ffccff892d46"
 metafile = true
 
 [[files]]
@@ -780,28 +770,8 @@ hash = "b31a8c6db08c163f1773c2fd16f78bb8462c2ae6dcad6dcd39d69a52e0e4537d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mtr-class-700-desiro-city.pw.toml"
-hash = "499ba49705f36256b1f051fa88ffe4de6208104f105c3896cfc7162f7fba893b"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mtr-class-702-monorail.pw.toml"
 hash = "1a56b9bae471613dfc1064c485226a695aa5826482fab62bb7377e50d0a1cfb7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-class-707-desiro-city-southeastern.pw.toml"
-hash = "47399d527963d302920d3855f8b579d1a4c13f2fbc36214c18c20d21872e1dd0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-class-707-desiro-city-swr.pw.toml"
-hash = "2034fd866c2fe957c1ea5ba6714226a161951758fd3458a4f7beb845f1396bf0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-class-717-desiro-city.pw.toml"
-hash = "64f42821ad054e46b20012de4b6f55ea280c642ede79c4596a786d2e3bd36579"
 metafile = true
 
 [[files]]
@@ -865,11 +835,6 @@ hash = "886386efd6b0941a1ae96d6eaf250a77fe6f67f10053d0851dd946dcc57c4acd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mtr-infra-french-coral-car-i.e.s-143.pw.toml"
-hash = "95af5222be49582339981af0222ceed2405a3a2e3cb4ced1c338f55e43fb16ee"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mtr-intercoupling.pw.toml"
 hash = "55d427b73601d542b45961c28702d79a966298a5ec307670f54d72aee0a4cc75"
 metafile = true
@@ -897,11 +862,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-mi09.pw.toml"
 hash = "5afed2da08e40d4f5f5b80b909d34e76662486e74a44401cdc5253244213369d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-mi2n.pw.toml"
-hash = "9a4b6316937949d52776b37523361eff60406401898095742e519563eb82b2ed"
 metafile = true
 
 [[files]]
@@ -1275,11 +1235,6 @@ hash = "0b8875dfd6d12115405772a83c6548cb7dffccb76e0a834c65592abb6869323f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mtr4-hankyu-1000-series-1000.pw.toml"
-hash = "dad342cc262aead1d1b54f0e6f354d70ba8dae7ef0bbf039130e7f856ef31fe0"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mtr4-hankyu-9000-series-9000.pw.toml"
 hash = "0d7731bcda49a2eb670390bb55ec37f2090b7f03f90da1f4690114cc285cf38e"
 metafile = true
@@ -1365,18 +1320,8 @@ hash = "ffab82a17bf210807b85b1315ce33ea530bd1fb24584bf98d176cf292f6f2d17"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mtr4-loughborough-tube-2024-tube-stock.pw.toml"
-hash = "af35ff6fa2c110d70f189e895e02129c26e96cc17370b922d45718226ff4902a"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mtr4-manchester-metrolink-bombardier-m5000.pw.toml"
 hash = "fb02b3290cabed00c2c4e57e62b1055fdb08b8f12104f96a012c77b23d4a2138"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr4-manchester-metrolink-firemaansaldobreda-t-68.pw.toml"
-hash = "76adff7f3907afe6b96cd5474432f598d14ef26f9bf2720b07d63f0cf8721837"
 metafile = true
 
 [[files]]
@@ -1527,11 +1472,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-tokyo-metro-05-series-(eidan-900)-re-texture.pw.toml"
 hash = "9ed2e62dfc88773768707ad389c5577f750de8ca7d1b50be65394a0b04cc9ddc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr4-tokyo-metro-05n-toyo-rapid-2000-series.pw.toml"
-hash = "043ef1bfad2b514fc77c36249d33e7c70417c063e4d69c66367edf457b2444d7"
 metafile = true
 
 [[files]]
@@ -1882,11 +1822,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/sg-mrt-pids-v2.pw.toml"
 hash = "0ea9acc9bfc344c98a04b23413aa0b32a84408c5b926145044138bd03a33ee8c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sg-mrt-style-pids-v1.01-public-ver-absurdlysmrt.pw.toml"
-hash = "bba5de9298c8153e7c6e54f4620d91a2edfe92fe6489978070ebab9f30d223f7"
 metafile = true
 
 [[files]]
