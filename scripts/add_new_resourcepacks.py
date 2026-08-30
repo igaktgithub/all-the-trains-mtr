@@ -1,28 +1,40 @@
 #!/usr/bin/env python3
 """
-Finds resource packs listed on the MTR Content DB
-(https://addons.minecrafttransitrailway.com/) that are tagged for MTR4 and
-are not yet part of this modpack, then adds them with `packwiz mr add`.
+1. Finds resource packs listed on the MTR Content DB
+   (https://addons.minecrafttransitrailway.com/) that are tagged MTR4 and
+   not yet part of this modpack, and adds them with `packwiz mr add`.
+2. Runs `packwiz refresh` / `packwiz update --all -y` / `packwiz refresh`,
+   the same cycle the old update-only workflow ran, so this single
+   workflow now covers both jobs.
+3. Prints a commit message combining what got added and what got updated.
 
-Data source (reverse-engineered from the site's own frontend, no public
-docs exist for this API):
+Data source for step 1 (reverse-engineered from the site's own frontend,
+no public docs exist for this API):
   - do_addon.php?act=getall&lang=en
         Full addon list (~900 entries), each with `category` and `tags`.
-        Deliberately NOT using do_addon.php?act=get_updates here: that
-        endpoint is a "recent activity" feed (Modrinth versions published
-        in roughly the last N publishes, across all categories) -- it
-        never surfaces a resource pack that was always MTR4 but simply
-        predates this automation and never got added, since nothing about
-        it would be "recent". getall has no such blind spot: every run
-        diffs against the *entire* current MTR4 resource-pack list, so a
-        backlog item is caught on the very next run instead of waiting
-        for its author to publish an update.
+        Deliberately NOT using do_addon.php?act=get_updates: that endpoint
+        is a "recent activity" feed and never surfaces a pack that was
+        always MTR4 but predates this automation and never got added --
+        getall diffs against the *entire* current list every run, so a
+        backlog item is caught on the very next run.
+
+Names are pre-checked against api.modrinth.com before anything is
+installed, so a "[Deprecated]"/"[Discontinued]"/"[Superseded]" pack (or
+one of the explicitly excluded names) is skipped instead of added.
+
+How "updated" is detected: right after the new packs are added and
+`packwiz refresh` has run, everything on disk is staged with `git add -A`.
+That means the working tree matches the index exactly. Then
+`packwiz update --all -y` + `packwiz refresh` run, and whatever those
+commands change is left as *unstaged* changes -- so `git diff --name-only`
+at that point shows exactly the files packwiz update touched, with no
+overlap with the newly-added files (those are already staged).
 
 Exit behaviour:
-  - Prints one line per pack it added, and a final summary block matching
-    the requested commit-message format on stdout, so the workflow step
-    can capture it directly with `... >> "$GITHUB_OUTPUT"`-style redirection
-    (see the accompanying workflow for how this is consumed).
+  - Prints a single commit message between ::commit-message-start:: and
+    ::commit-message-end:: markers for the workflow to extract. The block
+    is empty (nothing between the markers) when there was nothing to add
+    or update -- the workflow skips the commit in that case.
   - A pack that packwiz refuses to add (e.g. no version compatible with
     this pack's Minecraft version -- this is what naturally excludes
     MTR3-only packs when their builds target an older MC version) is
@@ -46,12 +58,11 @@ REQUIRED_TAG = "MTR4"
 TARGET_CATEGORY = "Resource Pack"
 
 # Exact Modrinth titles to never add, regardless of tags -- maintained by
-# hand, add to this as needed.
+# hand, add more as needed (one string per line, comma after each).
 EXCLUDED_NAMES = {
     "Leah's Cheesy Resources",
     "Rekon Sound Library",
     "Ceru's Sound Library (MTR Mod)",
-    "SG MRT style PIDS v1.01 Public Ver [MTR4]",
 }
 
 # Case-insensitive substrings that mark a pack as no longer wanted (old/
@@ -72,6 +83,10 @@ def fetch_json(url: str):
     req = urllib.request.Request(url, headers={"User-Agent": "all-the-trains-mtr-bot"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         return json.load(resp)
+
+
+def run(cmd: list[str]) -> subprocess.CompletedProcess:
+    return subprocess.run(cmd, capture_output=True, text=True)
 
 
 def get_mtr4_resourcepack_ids() -> set[str]:
@@ -118,18 +133,8 @@ def add_resourcepack(mr_id: str) -> str | None:
     """Runs `packwiz mr add` for mr_id. Returns the pack's display name on
     success, or None if packwiz rejected it (logged, not fatal)."""
     before = existing_pw_files()
-    result = subprocess.run(
-        [
-            "packwiz",
-            "mr",
-            "add",
-            mr_id,
-            "--meta-folder",
-            "resourcepacks",
-            "-y",
-        ],
-        capture_output=True,
-        text=True,
+    result = run(
+        ["packwiz", "mr", "add", mr_id, "--meta-folder", "resourcepacks", "-y"]
     )
     if result.returncode != 0:
         print(
@@ -143,7 +148,6 @@ def add_resourcepack(mr_id: str) -> str | None:
     after = existing_pw_files()
     new_files = after - before
     if not new_files:
-        # Shouldn't happen if returncode was 0, but don't crash on it.
         print(f"::warning::{mr_id} reported success but no new file was found", file=sys.stderr)
         return mr_id
 
@@ -153,14 +157,14 @@ def add_resourcepack(mr_id: str) -> str | None:
     return data.get("name", mr_id)
 
 
-def main() -> int:
+def add_new_resourcepacks() -> list[str]:
     site_ids = get_mtr4_resourcepack_ids()
     existing = get_existing_modrinth_ids()
     to_add = sorted(site_ids - existing)
 
     if not to_add:
-        print("No new MTR4 resource packs found -- pack is up to date.")
-        return 0
+        print("No new MTR4 resource packs found on the MTR Content DB.")
+        return []
 
     print(f"{len(to_add)} candidate(s) not yet in the pack: {to_add}")
 
@@ -179,11 +183,88 @@ def main() -> int:
             added_names.append(name)
             print(f"Added: {name} ({mr_id})")
 
-    # Machine-readable summary consumed by the workflow to build the commit
-    # message. Keep this the last thing printed.
-    print("::added-summary-start::")
-    print(json.dumps(added_names))
-    print("::added-summary-end::")
+    return added_names
+
+
+def changed_pw_toml_files() -> list[str]:
+    """.pw.toml files with unstaged changes (working tree vs index)."""
+    result = run(["git", "diff", "--name-only"])
+    if result.returncode != 0:
+        print(f"::warning::git diff failed: {result.stderr.strip()}", file=sys.stderr)
+        return []
+    return sorted(
+        line for line in result.stdout.splitlines() if line.endswith(".pw.toml")
+    )
+
+
+def read_pack_name(path: str) -> str | None:
+    try:
+        with open(path, "rb") as f:
+            data = tomllib.load(f)
+    except (OSError, tomllib.TOMLDecodeError):
+        return None
+    return data.get("name")
+
+
+def update_everything() -> tuple[list[str], list[str]]:
+    """Returns (updated_mod_names, updated_resourcepack_names)."""
+    # Refresh so index.toml reflects the packs just added, then stage
+    # everything so far -- this is what makes the diff below show only
+    # what `packwiz update` itself changes.
+    run(["packwiz", "refresh"])
+    run(["git", "add", "-A"])
+
+    result = run(["packwiz", "update", "--all", "-y"])
+    if result.returncode != 0:
+        print(f"::warning::packwiz update --all reported an error:\n{result.stderr.strip()}", file=sys.stderr)
+    run(["packwiz", "refresh"])
+
+    updated_mods = []
+    updated_resourcepacks = []
+    for path in changed_pw_toml_files():
+        name = read_pack_name(path)
+        if not name:
+            continue
+        print(f"Updated: {name} ({path})")
+        if path.startswith("mods/"):
+            updated_mods.append(name)
+        elif path.startswith("resourcepacks/"):
+            updated_resourcepacks.append(name)
+    return updated_mods, updated_resourcepacks
+
+
+def _section(lines: list[str], count: int, verb: str, singular: str, plural: str, names: list[str]) -> None:
+    if not names:
+        return
+    if lines:
+        lines.append("")
+    noun = singular if count == 1 else plural
+    lines.append(f"{verb} {count} {noun}:")
+    lines += [f"- {name}" for name in names]
+
+
+def build_commit_message(
+    added_resourcepacks: list[str],
+    updated_resourcepacks: list[str],
+    updated_mods: list[str],
+) -> str:
+    lines: list[str] = []
+    _section(lines, len(added_resourcepacks), "Added", "resource pack", "resource packs", added_resourcepacks)
+    _section(lines, len(updated_resourcepacks), "Updated", "resource pack", "resource packs", updated_resourcepacks)
+    _section(lines, len(updated_mods), "Updated", "mod", "mods", updated_mods)
+    return "\n".join(lines)
+
+
+def main() -> int:
+    added_resourcepacks = add_new_resourcepacks()
+    updated_mods, updated_resourcepacks = update_everything()
+
+    message = build_commit_message(added_resourcepacks, updated_resourcepacks, updated_mods)
+
+    print("::commit-message-start::")
+    if message:
+        print(message)
+    print("::commit-message-end::")
 
     return 0
 
