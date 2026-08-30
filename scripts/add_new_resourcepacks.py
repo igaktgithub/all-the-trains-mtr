@@ -51,6 +51,7 @@ EXCLUDED_NAMES = {
     "Leah's Cheesy Resources",
     "Rekon Sound Library",
     "Ceru's Sound Library (MTR Mod)",
+    "SG MRT style PIDS v1.01 Public Ver [MTR4]",
 }
 
 # Case-insensitive substrings that mark a pack as no longer wanted (old/
