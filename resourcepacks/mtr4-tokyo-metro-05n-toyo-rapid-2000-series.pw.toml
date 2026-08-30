@@ -1,0 +1,13 @@
+name = "[MTR4] Tokyo Metro 05N Series, Toyo Rapid 2000 Series"
+filename = "TM05N_TR2000_Series_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fnJ1Gec8/versions/5g1GDd1x/TM05N_TR2000_Series_V1.0.zip"
+hash-format = "sha512"
+hash = "1205c46c1e259ad66be893fe5a3857acbc705326e6ada24110d9d7bc493777f16203092b7b70ed63ed014d82c10ff2461ceff4d221665fe8b4dfd4e895b242f2"
+
+[update]
+[update.modrinth]
+mod-id = "fnJ1Gec8"
+version = "5g1GDd1x"
