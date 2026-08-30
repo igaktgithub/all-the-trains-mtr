@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "ddf84ad74baf418fe1eb0c15c524ee4cb2a444438ad71bc349ad8e2fd8230baf"
+hash = "ea4228b597e0aadf576339d3840b613c08d2f903be0a3f1107c25fe888306362"
 
 [[files]]
 file = "mods/balm.pw.toml"
