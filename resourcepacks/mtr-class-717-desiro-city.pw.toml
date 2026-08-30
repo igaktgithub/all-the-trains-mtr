@@ -1,0 +1,13 @@
+name = "[MTR] Class 717 Desiro City"
+filename = "Class 717 DC -Skywalker_6517 (Premium Version).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/joFY93vv/versions/Nbq23nx2/Class%20717%20DC%20-Skywalker_6517%20%28Premium%20Version%29.zip"
+hash-format = "sha512"
+hash = "fac2c9d2797b04f0fe048377c6234def156f83b6f029405a305b9cb490394ef4b0d65f878798fd8678ff11e481cde9f6cd0707c9de58f806db5da8ec961646e1"
+
+[update]
+[update.modrinth]
+mod-id = "joFY93vv"
+version = "Nbq23nx2"

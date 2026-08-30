@@ -1,0 +1,13 @@
+name = "[Deprecated] Gatwick Express Class 377 / 387 Pack"
+filename = "mtr4_gatwick_express_pack_v1_2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cajjWNMe/versions/xaVtefer/mtr4_gatwick_express_pack_v1_2.zip"
+hash-format = "sha512"
+hash = "eb948098ab64c496ce01d8dfb957f23077b79aaa8eaca3031f7158ca6c448b319236ad581737316483937c0a8d54c180c08de6d0257e2f09901a7304512a3703"
+
+[update]
+[update.modrinth]
+mod-id = "cajjWNMe"
+version = "xaVtefer"

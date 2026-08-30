@@ -1,0 +1,13 @@
+name = "Ceru's Sound Library (MTR Mod)"
+filename = "Ceru's Sound Library V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IC1CKISB/versions/rxMkNmmi/Ceru%27s%20Sound%20Library%20V1.0.zip"
+hash-format = "sha512"
+hash = "da79fcd4039453a05fd714cf529ab680d0bc2ab50e868bb0a1c9d3d40e381819c703f5c3da6d30c537be0a9a1f28751defb9fe73153c28707d7572af55cfc274"
+
+[update]
+[update.modrinth]
+mod-id = "IC1CKISB"
+version = "rxMkNmmi"

@@ -1,0 +1,13 @@
+name = "[SUPERSEDED] BR Turbostar Extension Pack"
+filename = "br_turbostar_extension_pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cOzyqtuW/versions/LtNOIXSi/br_turbostar_extension_pack.zip"
+hash-format = "sha512"
+hash = "54d65d52c256f4c32bbe855ab3802bee5bd768037b9cfe72b0066fdbd8157b638db777bf31b4b5c1894fe18b4fc9b097be71c903abeb6dafc989dda2c5b1ee1e"
+
+[update]
+[update.modrinth]
+mod-id = "cOzyqtuW"
+version = "LtNOIXSi"

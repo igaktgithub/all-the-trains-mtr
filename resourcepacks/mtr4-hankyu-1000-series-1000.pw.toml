@@ -1,0 +1,13 @@
+name = "[MTR4] Hankyu 1000 Series | 阪急1000系"
+filename = "Hankyu_1000_Series_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lVrA2WHx/versions/CqRQtLTz/Hankyu_1000_Series_V1.0.zip"
+hash-format = "sha512"
+hash = "fdc8eb0f3f9086813c15550be43eaa993b3ef1786287e03b67865748000f4fd44f9a6b1c41b477d297bc0667ce6f73891a3923bbc7285a40b94981dba1ca34c5"
+
+[update]
+[update.modrinth]
+mod-id = "lVrA2WHx"
+version = "CqRQtLTz"

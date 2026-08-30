@@ -1,0 +1,13 @@
+name = "[DEPRECATED] The Bombardier Turbostar Pack"
+filename = "br_turbostar_pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rt3wdrmA/versions/CqVPMOFl/br_turbostar_pack.zip"
+hash-format = "sha512"
+hash = "5e75c23492afcce251012f462f358777b8ce76f90778ff0898a526cdbb3ddc230140d706451101e8342c6a43a9c02e8f4230207df5b44f46b4cc9bd7ad1f24aa"
+
+[update]
+[update.modrinth]
+mod-id = "rt3wdrmA"
+version = "CqVPMOFl"

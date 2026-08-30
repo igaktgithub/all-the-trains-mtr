@@ -1,0 +1,13 @@
+name = "Rekon Sound Library"
+filename = "rekon_sound_library.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/10w4z4Jr/versions/sc5lh2LA/rekon_sound_library.zip"
+hash-format = "sha512"
+hash = "5b17e7f991e9fba1cb6e73204522bd243a70ef85ede014985e7a94e35b0a0a30bd3ed5bb1a8608392e9b1d9cce93023287b4fa87143e89055622f58b56c7693b"
+
+[update]
+[update.modrinth]
+mod-id = "10w4z4Jr"
+version = "sc5lh2LA"
