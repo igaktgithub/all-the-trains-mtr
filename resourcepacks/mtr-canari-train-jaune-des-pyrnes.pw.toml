@@ -1,0 +1,13 @@
+name = "[MTR] Canari Train Jaune des Pyrénées"
+filename = "train-jaune_r1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m0TI8N1q/versions/2vmGnCpr/train-jaune_r1.0.0.zip"
+hash-format = "sha512"
+hash = "ede8b6a2c632fc793fd011aca9d503fc105e9fe2bdb5890ab88c376c2e63ae114c04e76629c59819e39a39b4592ce8427db384b5597ab535eaaf71366afa21e7"
+
+[update]
+[update.modrinth]
+mod-id = "m0TI8N1q"
+version = "2vmGnCpr"

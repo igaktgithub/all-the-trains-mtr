@@ -1,0 +1,13 @@
+name = "[MTR4] BB 26000"
+filename = "bb26000_r1.2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmXc6lFC/versions/yoj1eWpV/bb26000_r1.2.0.zip"
+hash-format = "sha512"
+hash = "ca7b1d6d873e01a602ebcfa8aac56c4a5a242dd6992e5a5c51a9065edc029ced20d90fcdb41e28c54de3736653445cbd64c1335c8034c1740efc46918d5dd472"
+
+[update]
+[update.modrinth]
+mod-id = "TmXc6lFC"
+version = "yoj1eWpV"

@@ -705,6 +705,11 @@ hash = "a108efc6c3b8b27957fd3c56cc2dd0f9a64e71845fe7025fd2cc1c666efc3006"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr-4-mp-05-ratp-idfm.pw.toml"
+hash = "0535c9772c54c88687101dba79ddfcc837fc8fd933144b47b2d66a9f3248dae2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr-4-signs--.pw.toml"
 hash = "1005e170edf93fc80a8e7b7c78cdea99aaa7139c5cc1892ba6276fde1b62fe05"
 metafile = true
@@ -767,6 +772,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-british-rail-class-378-capitalstar.pw.toml"
 hash = "96f5fdae4f988f4da1f0e5d936f1feaa1ce06dc1928fd70f3bd1cab9c92638ef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-canari-train-jaune-des-pyrnes.pw.toml"
+hash = "e692e5bc542dbe35fd3dc63a9f20e066ca0613b42b0f7cda86aa90f7cd21a15c"
 metafile = true
 
 [[files]]
@@ -1100,6 +1110,11 @@ hash = "f5864381021ea38074ad5d07c0462e2f4c698f687818e591bc69cc9dc203b63e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-bb-26000.pw.toml"
+hash = "8cf88fdb6ad9346ca70fa5fca6c05445712577ec32fb14993c2db501228c67c4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-bombardier-flexity-berlin-pack.pw.toml"
 hash = "6f09e84d314adc792e2435a4f54a755b68cbe36196461f6d64da37ec0af6b27c"
 metafile = true
@@ -1177,6 +1192,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-commonwealth-transport-group-resources-for-mtr.pw.toml"
 hash = "7149502d3173cd18ba806ce7a9a408c65e8afd11167a008ab7bcdc962b864fd1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-corail-car-icn-night-train.pw.toml"
+hash = "0c3b5839e0be96b99a18eb900beef841a470820edb52bce0ca90dd1f5e48c6b4"
 metafile = true
 
 [[files]]
@@ -1402,6 +1422,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-mtr-black-mesa-tram-pack.pw.toml"
 hash = "1826934d81d852e9e1d119976e0ca4c029ec2fd613345069d1f4806857caa489"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-nightjet-coach.pw.toml"
+hash = "da5e761b2a70b595aa65d087942e31a86735243a10edbf7871e3b81547f08a69"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "[MTR4] Corail car ICN (Night train)"
+filename = "corail_icnr1.0.0_hotfix1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jyCWGJoJ/versions/9JILiFbx/corail_icnr1.0.0_hotfix1.zip"
+hash-format = "sha512"
+hash = "f8bbd99b67f59e3e6e45a491afc4a701757053d9910c5ba156a0fb2c3152d1a0cea06a59e4b98f09abda945f3b5a71d6f07c9d8414e5a0d180e15f68cf3e3fa8"
+
+[update]
+[update.modrinth]
+mod-id = "jyCWGJoJ"
+version = "9JILiFbx"

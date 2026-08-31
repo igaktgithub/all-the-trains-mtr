@@ -1,0 +1,13 @@
+name = "[MTR 4] MP 05 RATP-IDFM"
+filename = "mp05test1.0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kpEvPPAN/versions/p6HgaGMY/mp05test1.0.2.zip"
+hash-format = "sha512"
+hash = "9745e46fcf5f307291c2194c15912bc7f787272b07ba4154ed31bf5a10a73907ec1e8d3e9321f071d67780cde5efccac3647417b5359443d6ee3ced889049de7"
+
+[update]
+[update.modrinth]
+mod-id = "kpEvPPAN"
+version = "p6HgaGMY"

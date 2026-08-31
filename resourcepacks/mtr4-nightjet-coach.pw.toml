@@ -1,0 +1,13 @@
+name = "[MTR4] Nightjet Coach"
+filename = "nightjet_coach_r1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/orV1xwFh/versions/vyyHbekg/nightjet_coach_r1.0.0.zip"
+hash-format = "sha512"
+hash = "1e2a3d2bad5f966787e8d60ded8015c251065227c266fbdeae4d64f893832d42f452d328dcde1d0696f06285587e4f4c3af7dbb84afd2a272c75569dee4629ce"
+
+[update]
+[update.modrinth]
+mod-id = "orV1xwFh"
+version = "vyyHbekg"
