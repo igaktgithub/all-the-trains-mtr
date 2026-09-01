@@ -1,0 +1,13 @@
+name = "Some1Fox Planes"
+filename = "Some1Fox´s Planes 1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BFh7keyH/versions/XPF2FHvk/Some1Fox%C2%B4s%20Planes%201.0.0.zip"
+hash-format = "sha512"
+hash = "1a6e7f9ada0f9cc1506ceb3e4cfd3160425b2e0d64f882883f8bbfc6d306c032f4744c30329ef9d0d16e888a879a4340d889c9c2f55d5078c09aff76091843aa"
+
+[update]
+[update.modrinth]
+mod-id = "BFh7keyH"
+version = "XPF2FHvk"

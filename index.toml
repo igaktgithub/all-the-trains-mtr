@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-airbus-a350-900.pw.toml"
-hash = "5a1e0d382dd4f457735e752dce53017fda1234d07bd8edf193230c5432b2e6aa"
+hash = "07ffe397c1d30dfdc73ea21466e14158ab49526cba4b758273f6bfc841163af7"
 metafile = true
 
 [[files]]
@@ -1942,6 +1942,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/sncf-pids.pw.toml"
 hash = "fba7bc04ce2c78e0e613cdea5b560767843b1aadba85174af1a5b5ca8ffca2e0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/some1fox-planes.pw.toml"
+hash = "2b06178a1f8d20a441252dcbdbafe54f3d44e056244a33780c3bb2e86a84c3dc"
 metafile = true
 
 [[files]]

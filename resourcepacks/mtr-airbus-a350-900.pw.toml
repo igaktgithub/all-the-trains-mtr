@@ -1,13 +1,13 @@
 name = "[MTR] Airbus A350-900"
-filename = "A350-900 New Nose.zip"
+filename = "Airbus A350-900 (Cathay Pacific).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8XCHO3eR/versions/i4AJXEsS/A350-900%20New%20Nose.zip"
+url = "https://cdn.modrinth.com/data/8XCHO3eR/versions/egHLsWwd/Airbus%20A350-900%20%28Cathay%20Pacific%29.zip"
 hash-format = "sha512"
-hash = "eb0ae676a1e845a0a1bbe1b411f65088150c054d2c3c233ca0b98403be3ffabfa460bbd30d8b0df802d2572957b4514c4c72a960fc991245dbffa20df7831786"
+hash = "e7a8a162d0729aba6e7305594281d9506d2cff2ac2e779dc2dc4a6c910a0bfae99f5540fb0f3f90a2f6e583dde1044da5233868114c98e64ac672787a186ab49"
 
 [update]
 [update.modrinth]
 mod-id = "8XCHO3eR"
-version = "i4AJXEsS"
+version = "egHLsWwd"
