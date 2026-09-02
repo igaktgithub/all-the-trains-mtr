@@ -43,17 +43,29 @@ Exit behaviour:
 
 import glob
 import json
+import re
 import subprocess
 import sys
 import tomllib
 import urllib.error
 import urllib.parse
 import urllib.request
+from datetime import date
 from pathlib import Path
 
 BASE_URL = "https://addons.minecrafttransitrailway.com"
 MODRINTH_API = "https://api.modrinth.com/v2"
 RESOURCEPACKS_DIR = Path("resourcepacks")
+
+# --- Changelog file -------------------------------------------------------
+# Toggle to turn the CHANGELOG.txt accumulation on/off without touching any
+# other logic.
+CHANGELOG_ENABLED = True
+# Only runs on/after this date write to CHANGELOG.txt. Earlier runs (and
+# anything before this feature existed) are never logged retroactively.
+CHANGELOG_START_DATE = date(2026, 9, 2)
+CHANGELOG_FILE = Path("CHANGELOG.txt")
+# ---------------------------------------------------------------------------
 REQUIRED_TAG = "MTR4"
 TARGET_CATEGORY = "Resource Pack"
 
@@ -63,7 +75,6 @@ EXCLUDED_NAMES = {
     "Leah's Cheesy Resources",
     "Rekon Sound Library",
     "Ceru's Sound Library (MTR Mod)",
-    "SG MRT style PIDS v1.01 Public Ver [MTR4]",
 }
 
 # Case-insensitive substrings that mark a pack as no longer wanted (old/
@@ -261,9 +272,90 @@ def build_commit_message(
     return "\n".join(lines)
 
 
+# --- Changelog file ---------------------------------------------------------
+# CHANGELOG.txt keeps three running, ever-growing sections (Added resource
+# packs / Updated resource packs / Updated mods). Each run appends whatever
+# it added/updated to the matching section instead of writing a new dated
+# block, so the file always shows one cumulative list per category.
+
+_CHANGELOG_HEADER_RE = re.compile(r"^(Added|Updated) \d+ (resource packs?|mods?):$")
+
+# (verb, singular noun) -> ordering in the file. Also doubles as the set of
+# known section keys when parsing an existing file.
+_CHANGELOG_SECTIONS = [
+    ("Added", "resource pack"),
+    ("Updated", "resource pack"),
+    ("Updated", "mod"),
+]
+
+
+_NOUN_TO_SINGULAR = {
+    "resource pack": "resource pack",
+    "resource packs": "resource pack",
+    "mod": "mod",
+    "mods": "mod",
+}
+
+
+def _changelog_section_key(verb: str, noun: str) -> tuple[str, str]:
+    return (verb, _NOUN_TO_SINGULAR[noun])
+
+
+def parse_changelog(text: str) -> dict[tuple[str, str], list[str]]:
+    sections: dict[tuple[str, str], list[str]] = {}
+    current: tuple[str, str] | None = None
+    for raw_line in text.splitlines():
+        line = raw_line.strip()
+        match = _CHANGELOG_HEADER_RE.match(line)
+        if match:
+            current = _changelog_section_key(match.group(1), match.group(2))
+            sections.setdefault(current, [])
+            continue
+        if line.startswith("- ") and current is not None:
+            sections[current].append(line[2:])
+    return sections
+
+
+def render_changelog(sections: dict[tuple[str, str], list[str]]) -> str:
+    lines: list[str] = []
+    for verb, noun in _CHANGELOG_SECTIONS:
+        names = sections.get((verb, noun), [])
+        if not names:
+            continue
+        plural = "resource packs" if noun == "resource pack" else "mods"
+        lines.append(f"{verb} {len(names)} {plural}:")
+        lines += [f"- {name}" for name in names]
+    return "\n".join(lines) + "\n" if lines else ""
+
+
+def update_changelog(
+    added_resourcepacks: list[str],
+    updated_resourcepacks: list[str],
+    updated_mods: list[str],
+) -> None:
+    if not CHANGELOG_ENABLED:
+        return
+    if date.today() < CHANGELOG_START_DATE:
+        return
+    if not (added_resourcepacks or updated_resourcepacks or updated_mods):
+        return  # nothing happened this run -- leave the file untouched
+
+    existing = CHANGELOG_FILE.read_text() if CHANGELOG_FILE.exists() else ""
+    sections = parse_changelog(existing)
+
+    sections.setdefault(("Added", "resource pack"), []).extend(added_resourcepacks)
+    sections.setdefault(("Updated", "resource pack"), []).extend(updated_resourcepacks)
+    sections.setdefault(("Updated", "mod"), []).extend(updated_mods)
+
+    CHANGELOG_FILE.write_text(render_changelog(sections))
+# -----------------------------------------------------------------------------
+
+
 def main() -> int:
     added_resourcepacks = add_new_resourcepacks()
     updated_mods, updated_resourcepacks = update_everything()
+
+    update_changelog(added_resourcepacks, updated_resourcepacks, updated_mods)
 
     message = build_commit_message(added_resourcepacks, updated_resourcepacks, updated_mods)
 
