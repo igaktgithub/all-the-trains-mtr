@@ -1,0 +1,13 @@
+name = "[MTR 34] Minecraft Transit Railway 3+4"
+filename = "MTR-34-2.2.1-DEV-106+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XrWP1Uoh/versions/1dNBjVlP/MTR-34-2.2.1-DEV-106%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "72371527be0a2f679a449a2eace9e7f5dc5f81de89d4ae7002fdbeed459af79f2c2df4783dcf5c113578b5150d10a2e3842b03d0516157e51283a901a29adacf"
+
+[update]
+[update.modrinth]
+mod-id = "XrWP1Uoh"
+version = "1dNBjVlP"

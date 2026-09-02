@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "630c3cda6f2d4060e1811579382321eaf1c4bdc9048df6189d7626c9a63d63bd"
+hash = "392b1d64a593408a7929d81c2b2b1dcee0c32691e1451dafbe85335f441d93f1"
 metafile = true
 
 [[files]]
@@ -495,8 +495,23 @@ hash = "b171439803216e66f8f32772b3386182fc01dd6bd410a53fffb11a5f1d8796b5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/international-metro-pack.pw.toml"
+hash = "103c2849760f1feeedbc4153239ed4f55f5f243e6f5f3e0835f3f01b23469156"
+metafile = true
+
+[[files]]
 file = "resourcepacks/international-metropack-retro.pw.toml"
 hash = "4eaf001e06bd34ded4192391ac5812f65d98f2adcae01c2d1bf96124a49e12b8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/international-trainpack.pw.toml"
+hash = "d0b2c3592469065ce46078c54157e38dfe2247dede49a5f10ea2583345b8413d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/international-transportpack.pw.toml"
+hash = "aece98d8356cc93a0dc7ffcb5f66f1eb972de5147b0dac02ecf9569b9f0ee919"
 metafile = true
 
 [[files]]
@@ -702,6 +717,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-300x-shinkansen.pw.toml"
 hash = "a108efc6c3b8b27957fd3c56cc2dd0f9a64e71845fe7025fd2cc1c666efc3006"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-34-minecraft-transit-railway-3+4.pw.toml"
+hash = "3004d829b2ef01845243da8930f0608ec3051a49db9a43c6b3ffd876c16e1f82"
 metafile = true
 
 [[files]]
@@ -922,6 +942,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-n700a-series-shinkansen.pw.toml"
 hash = "cfd08303ad8cc1c9460aaaa66a5a1ece4ec0898f626759b67a047376b5bd5aba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-nte.pw.toml"
+hash = "36d759ec5c96ad8bb289e2d653d3306a8df923f099cd94c4128fbfb0b1c34ba3"
 metafile = true
 
 [[files]]
@@ -1722,6 +1747,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtrnte-cp-lisbon-urban-trains-pack.pw.toml"
 hash = "22ec62205567ff0e41f69df8eb11f7ceea9c74d7e4300dd8072093b4292c8c64"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrntemtr-34-zatopinsk-pack.pw.toml"
+hash = "751a6ccf178a399b171586a5c1ceb8d4d93d1137ad3ab3cdeeaff297ad3f1311"
 metafile = true
 
 [[files]]

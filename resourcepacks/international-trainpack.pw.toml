@@ -1,0 +1,13 @@
+name = "[MTR/NTE] International TrainPack"
+filename = "ITRP_MTR4_Demo_Modern.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/If8Ufiql/versions/hlWjeuOx/ITRP_MTR4_Demo_Modern.zip"
+hash-format = "sha512"
+hash = "5714ff8c85f939e1bc86153652b96f7aa9c7df3ddcaa40a18caa9b888bdb5113b994ad1378ceebc578749eb185a0389c78e941dbafbaec8c01bb6055c0d38ea2"
+
+[update]
+[update.modrinth]
+mod-id = "If8Ufiql"
+version = "hlWjeuOx"

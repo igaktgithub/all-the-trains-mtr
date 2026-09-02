@@ -1,0 +1,13 @@
+name = "[MTR/NTE/MTR-34] Zatopinsk Pack"
+filename = "Zatopinsk Pack v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gaeoQ7Z/versions/NucHuYsO/Zatopinsk%20Pack%20v1.0.zip"
+hash-format = "sha512"
+hash = "231da751d1cb829b6e2445f44bacd1bf0a63ca1eef10e4caa4b279f363a2800487a1961603719f74756b2ff4b4b56d90cdc1936555fb7eab142f025c4eabc8a7"
+
+[update]
+[update.modrinth]
+mod-id = "9gaeoQ7Z"
+version = "NucHuYsO"
