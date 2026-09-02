@@ -1,0 +1,13 @@
+name = "[MTR/NTE]Taiwan 1435mm Railway track Pack"
+filename = "Taiwan 1435mm Railway track_v1.0.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GcdDLElQ/versions/5jpSniDD/Taiwan%201435mm%20Railway%20track_v1.0.1.zip"
+hash-format = "sha512"
+hash = "6bc86e031336b6cc13f5764e8e4279e5975cbd1d81a62926d8617adb49068c02748ce1ea6f56468baa68c432279d5ea130b6264c959df68180693e29e1d2d0e2"
+
+[update]
+[update.modrinth]
+mod-id = "GcdDLElQ"
+version = "5jpSniDD"

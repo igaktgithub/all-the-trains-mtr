@@ -1,0 +1,13 @@
+name = "[MTR/JCM] IntervalTimePIDS"
+filename = "IntervalTimePIDSPack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JlUHccp2/versions/urtsSEYp/IntervalTimePIDSPack.zip"
+hash-format = "sha512"
+hash = "4d746ae3bc9ab65bd0c042de1c3fe1b7d63bd7fc6bdf98caa5aa518d69c8b74315661388d1b129916c2d0f1b3c9182c0d55ede77a448033a430abbfd20ecd6c7"
+
+[update]
+[update.modrinth]
+mod-id = "JlUHccp2"
+version = "urtsSEYp"

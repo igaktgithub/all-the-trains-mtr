@@ -515,6 +515,11 @@ hash = "aece98d8356cc93a0dc7ffcb5f66f1eb972de5147b0dac02ecf9569b9f0ee919"
 metafile = true
 
 [[files]]
+file = "resourcepacks/intervaltimepids.pw.toml"
+hash = "1dca1739465726429f3a4c0c6696eed7ee39f595a2d2ff47d8a8a21b68613241"
+metafile = true
+
+[[files]]
 file = "resourcepacks/istanbul-metro-logo-for-mtr-mod.pw.toml"
 hash = "6abd76dda9979cff43f607f4f73cdacf72eff76f7e236bb3c8f16700ba4fd667"
 metafile = true
@@ -2042,6 +2047,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/stepford-county-railway-repaints-by-skywalker.pw.toml"
 hash = "69e0674f0f7cc5240d7cec68214595c853d76a10fb9b8f77b20ec559d238d259"
+metafile = true
+
+[[files]]
+file = "resourcepacks/taiwan-1435mm-railway-track-pack.pw.toml"
+hash = "53f1a6ac47ae8b22b09aecff99f3ef2490d1258838cd39bdc41eae013699e951"
 metafile = true
 
 [[files]]
