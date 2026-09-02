@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/e217-series-train.pw.toml"
-hash = "9c5403cb287a8a0bdd0ac3c27e3dbc672e960ebc78c63c4980363a2e802eef6d"
+hash = "2c28662187d5fbe4b2c44448a2e84c5230bd3f40c233a63a3c4e433b62a05436"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/jr-east-e131-500.pw.toml"
-hash = "3f6b9f2df4b2c80aff5af3f316463f6d2ae579d9d0a90ecd4f273bce1f180e2a"
+hash = "6cf0f644525aa9a7abb6c9a21b75b6096ef5ed44d2367b5f5cac7999db784c68"
 metafile = true
 
 [[files]]
@@ -1331,7 +1331,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-jr-e235-jr-east-e235-series.pw.toml"
-hash = "329ecce7d1ddf83c89182d6be8f098ead8b2d58dc4182f3fc3b34db151628675"
+hash = "362616e69dc9fc043a7de2e0bca76ae1c38e3806e404ecbe2dae5f16d4fb57dc"
 metafile = true
 
 [[files]]
