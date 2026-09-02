@@ -63,7 +63,6 @@ EXCLUDED_NAMES = {
     "Leah's Cheesy Resources",
     "Rekon Sound Library",
     "Ceru's Sound Library (MTR Mod)",
-    "SG MRT style PIDS v1.01 Public Ver [MTR4]",
 }
 
 # Case-insensitive substrings that mark a pack as no longer wanted (old/
@@ -71,6 +70,11 @@ EXCLUDED_NAMES = {
 # the Modrinth title, e.g. "[Deprecated] ...", "... (Discontinued-...)",
 # "[SUPERSEDED] ...".
 DEPRECATED_KEYWORDS = ("deprecated", "discontinued", "superseded", "abandoned")
+
+
+def has_mtr4_tag(tags: list[str]) -> bool:
+    """True for 'MTR4' itself or any compound variant like 'MTR4+[JCM]'."""
+    return any(tag == REQUIRED_TAG or tag.startswith(f"{REQUIRED_TAG}+") for tag in tags)
 
 
 def is_excluded(title: str) -> bool:
@@ -97,7 +101,7 @@ def get_mtr4_resourcepack_ids() -> set[str]:
     return {
         e["mr_id"]
         for e in entries
-        if e.get("category") == TARGET_CATEGORY and REQUIRED_TAG in e.get("tags", [])
+        if e.get("category") == TARGET_CATEGORY and has_mtr4_tag(e.get("tags", []))
     }
 
 

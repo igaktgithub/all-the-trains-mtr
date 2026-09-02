@@ -1960,6 +1960,11 @@ hash = "b6ba0335db969662b5f633fd60870d5428a2dc953ab5828774385a938528eae7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/singapore-mrt-pids.pw.toml"
+hash = "001faa9e96edbbae2147c17f7ee463020f5dee72ecd8d6334f6905f469ca7741"
+metafile = true
+
+[[files]]
 file = "resourcepacks/skm-pack.pw.toml"
 hash = "3e4ef366a8991356ca64972d276a630e30d4934cb46e9a2bce272b637e127911"
 metafile = true

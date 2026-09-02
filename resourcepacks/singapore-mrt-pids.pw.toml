@@ -1,0 +1,13 @@
+name = "Singapore MRT PIDs"
+filename = "Singapore MRT PIDs.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SMnQcICV/versions/2Tc2wdeI/Singapore%20MRT%20PIDs.zip"
+hash-format = "sha512"
+hash = "003b79ecd4ecb894212daadac76ef43f19b6bf6dc8500b6660bc2bc13e4b0c4b698efecf11a14e7d5afb514f137e86a4f2eccf46d4ea2df7277ee727aff60391"
+
+[update]
+[update.modrinth]
+mod-id = "SMnQcICV"
+version = "2Tc2wdeI"
