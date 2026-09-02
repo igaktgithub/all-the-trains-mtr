@@ -26,7 +26,9 @@ jobs:
 
       - name: Install packwiz
         run: |
-          go install github.com/packwiz/packwiz@latest
+          git clone --depth 1 https://github.com/packwiz/packwiz.git /tmp/packwiz-src
+          cd /tmp/packwiz-src
+          go build -o "$(go env GOPATH)/bin/packwiz" .
           echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
 
       - name: Set up Python
