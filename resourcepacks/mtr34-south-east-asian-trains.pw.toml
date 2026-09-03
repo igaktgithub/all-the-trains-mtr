@@ -1,13 +1,13 @@
 name = "[MTR3/4] South East Asian Trains"
-filename = "MTR_srt_SEAtrains4.0_250422.zip"
+filename = "MTR_srt_SEAtrains4.0_260903.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ndTJUGqL/versions/QOQxEiqV/MTR_srt_SEAtrains4.0_250422.zip"
+url = "https://cdn.modrinth.com/data/ndTJUGqL/versions/Y1uETc0n/MTR_srt_SEAtrains4.0_260903.zip"
 hash-format = "sha512"
-hash = "35927a646448267482ad5457f85e6a749d1f4d47f1d1e8baf9b3eedb7f44714c7c179a525dd43e14985458e161fede80e7be210f2ea7890b19b361d8713f1859"
+hash = "dea655d7f54369b9caee5a30596209366329ed77321e1da37f921a4728a7c94d84413ac9879bc291708ff4fca8567b475368acd250c746c17f5a8378872346d2"
 
 [update]
 [update.modrinth]
 mod-id = "ndTJUGqL"
-version = "QOQxEiqV"
+version = "Y1uETc0n"
