@@ -1,13 +1,13 @@
 name = "UK Signs [MTR 3/4]"
-filename = "UK Signs v3.1.zip"
+filename = "UKSigns v4.0 beta-1.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rtIySn3x/versions/w7PqtAEz/UK%20Signs%20v3.1.zip"
+url = "https://cdn.modrinth.com/data/rtIySn3x/versions/4firL2CV/UKSigns%20v4.0%20beta-1.0.zip"
 hash-format = "sha512"
-hash = "eae73ac9a703462f486539f3aaad81647383d4db702b3017907ba6aaaa9836b812fa3dec8d652a5591b2a46084da0c25c4fb88830b875cf850b862d0e1a3f4fa"
+hash = "1c68642418536e9752a702a16a291188ca6303f374759dc71f0e64a4b9add44a4d6f7140a9c65dab8b43f77ea8c05c7aee628c4c34ce3217a9ea77aef4e3a507"
 
 [update]
 [update.modrinth]
 mod-id = "rtIySn3x"
-version = "w7PqtAEz"
+version = "4firL2CV"
