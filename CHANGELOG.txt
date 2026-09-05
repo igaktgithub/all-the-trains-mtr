@@ -1,3 +1,6 @@
-Updated 2 resource packs:
+Added 1 resource packs:
+- 【MTR3/4】MTR Japanese Accessories
+Updated 3 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
+- [MTR4] VDL retexture & Black cab by Soodari

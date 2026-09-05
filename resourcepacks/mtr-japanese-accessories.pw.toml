@@ -1,0 +1,13 @@
+name = "【MTR3/4】MTR Japanese Accessories"
+filename = "Japanese_Accessories.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FxcjEuwF/versions/FXx13Tah/Japanese_Accessories.zip"
+hash-format = "sha512"
+hash = "b5975d903fff6d2731e7205056879c3b963b99aac1052ff2a1da5e13a203abdb3cde4e5b22bdd5d4f7fd8e8338c7a9d998692357178363de6a1d4e2b61793ec4"
+
+[update]
+[update.modrinth]
+mod-id = "FxcjEuwF"
+version = "FXx13Tah"

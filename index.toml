@@ -915,6 +915,11 @@ hash = "da3473a6cce89a58bb0ff18a84bf5c7efbba89df8ccb6274d91e9ba7bc5399f0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr-japanese-accessories.pw.toml"
+hash = "b9647989976fcfaad65a8e2ce5a8595986293e28d5d60a9573709d1082aa22df"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr-ktx-1.pw.toml"
 hash = "a4c83bb3dba741849e030f9047fc393681d5109ccef6dc9897ae9cd3c09cc35d"
 metafile = true
@@ -2161,7 +2166,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vdl-citea-and-cab.pw.toml"
-hash = "eee20da63165796388e6bcfabba2f01a8ab3d946282d04c50ff7dbd2591b829b"
+hash = "a8e5e7ce072eebfda6d7a0e7c009d998b36bceb9d4cf2659433f4b62072a7c59"
 metafile = true
 
 [[files]]
