@@ -816,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-class-700-desiro-city.pw.toml"
-hash = "499ba49705f36256b1f051fa88ffe4de6208104f105c3896cfc7162f7fba893b"
+hash = "c4ba2ab4e6126902427ad43f04244b4a8b8f88156e2e2c7d271363eff00039f1"
 metafile = true
 
 [[files]]
@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-class-717-desiro-city.pw.toml"
-hash = "64f42821ad054e46b20012de4b6f55ea280c642ede79c4596a786d2e3bd36579"
+hash = "925c27965542d23d167ba31650fc44de37f14c15154cb9e98374087e908d57ab"
 metafile = true
 
 [[files]]
@@ -1042,6 +1042,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-win350-shinkansen.pw.toml"
 hash = "122df4a6e6a029ebcbb27e1b2841e12e35a3294a89f842744a758323d6a514f4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-yaxus-hd-tohoku-shinkansen-rail-pack.pw.toml"
+hash = "f5d58974747b82309625680ff5965ef0c5770cd1bcd99780cdf63b2aa84c2955"
 metafile = true
 
 [[files]]
@@ -1337,6 +1342,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-hankyu-9000-series-9000.pw.toml"
 hash = "0d7731bcda49a2eb670390bb55ec37f2090b7f03f90da1f4690114cc285cf38e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-jnr-205-series-205.pw.toml"
+hash = "2e109d7c3c9b274c0b156156ffd6a03e23ca99d235c187b7326dedf0d324bbf3"
 metafile = true
 
 [[files]]

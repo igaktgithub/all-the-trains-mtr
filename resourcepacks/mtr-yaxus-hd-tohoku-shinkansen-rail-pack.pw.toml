@@ -1,0 +1,13 @@
+name = "[MTR] Yaxu's HD Tohoku shinkansen rail pack"
+filename = "Yaxu's HD Tohoku shinkansen rail pack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KzIahhIh/versions/pycLKwlu/Yaxu%27s%20HD%20Tohoku%20shinkansen%20rail%20pack.zip"
+hash-format = "sha512"
+hash = "cfb6c9a09097bf26ddfec3433bb394aa8eb9e587d0355dbbe76fb10391f69a91417f7a0dd7c6231a5f91ff8c4d9ba7b7a60947f2ade613a79285e3f5a0e50b1f"
+
+[update]
+[update.modrinth]
+mod-id = "KzIahhIh"
+version = "pycLKwlu"

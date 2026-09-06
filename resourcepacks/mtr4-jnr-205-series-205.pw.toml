@@ -1,0 +1,13 @@
+name = "[MTR4] JNR 205 Series | 国鉄205系"
+filename = "JNR_205_Series_V1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pWBRVO80/versions/f8QMLvaj/JNR_205_Series_V1.0.zip"
+hash-format = "sha512"
+hash = "0b8b9e2514a12d802943d3186f69a7bfee2344361472e7a50caa811a04f08412b4d8864efaff93b3c3d9d411a354be42a52aadad5959420127be2316f0d12274"
+
+[update]
+[update.modrinth]
+mod-id = "pWBRVO80"
+version = "f8QMLvaj"

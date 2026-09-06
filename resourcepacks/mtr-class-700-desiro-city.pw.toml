@@ -1,13 +1,13 @@
 name = "[MTR] Class 700 Desiro City"
-filename = "Class 700 DC -Skywalker_6517 (Premium Version).zip"
+filename = "Class 700 DC -Skywalker_6517 (Modrinth Version).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z6QDIntj/versions/YmGOmysR/Class%20700%20DC%20-Skywalker_6517%20%28Premium%20Version%29.zip"
+url = "https://cdn.modrinth.com/data/Z6QDIntj/versions/Bb9aPxst/Class%20700%20DC%20-Skywalker_6517%20%28Modrinth%20Version%29.zip"
 hash-format = "sha512"
-hash = "8308a4fffdb3cc611b268ae787162bb62cb4cf029f2c582468c8757f71dc4ce7aefb84f8826fadf6ccbb0494e01aed8693c26840b511c703efc55bf4c49954f5"
+hash = "1423d17a78f87ea3ed04385e429f121e18fcb756638c1b60f14e8a98db8d40720d98b72dcc7cdb1006123c1434bd7e84587c3b6325792b0928f921caab8a90ec"
 
 [update]
 [update.modrinth]
 mod-id = "Z6QDIntj"
-version = "YmGOmysR"
+version = "Bb9aPxst"
