@@ -1,0 +1,13 @@
+name = "[MTR4] Alsthom TFS - RATP Livery"
+filename = "MTR_Alsthom_TFS_RATP_WIP.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmWoQFgE/versions/9VYO9QSE/MTR_Alsthom_TFS_RATP_WIP.zip"
+hash-format = "sha512"
+hash = "eb23aa8bc64600f8d7aac190faa015e104e1a5bc791bfa0d9583fe292f16f6f1f68adb4faa5d5da4ebef405d893e430dddd76480761f549441950392b5538be4"
+
+[update]
+[update.modrinth]
+mod-id = "nmWoQFgE"
+version = "9VYO9QSE"

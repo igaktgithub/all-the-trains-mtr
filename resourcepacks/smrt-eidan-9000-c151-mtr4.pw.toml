@@ -1,13 +1,13 @@
 name = "SMRT Eidan 9000 C151 [MTR4]"
-filename = "SMRT Eidan 9000 C151 [MTR4].zip"
+filename = "SMRT Eidan 9000 Repaints [V1.1].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hyBIxiTg/versions/3VfQlXW2/SMRT%20Eidan%209000%20C151%20%5BMTR4%5D.zip"
+url = "https://cdn.modrinth.com/data/hyBIxiTg/versions/BD02wgkh/SMRT%20Eidan%209000%20Repaints%20%5BV1.1%5D.zip"
 hash-format = "sha512"
-hash = "0daf250a1417967c3b083ec6b5d2276a5e07902e4a6e2bbd071006c182b0e96de8535e2b4dd6bb26e09017180faa69c721ebfbc88ed0613873b034567be8d149"
+hash = "793c5a9acbf07fc6b42703dba20506203e7645726ea8b8e9761c1a9e3ef066441864c288165a93a3d3110de12f7c8f280fb8f29d7b71914057345e66a51086b9"
 
 [update]
 [update.modrinth]
 mod-id = "hyBIxiTg"
-version = "3VfQlXW2"
+version = "BD02wgkh"

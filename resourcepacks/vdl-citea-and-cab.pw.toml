@@ -1,13 +1,13 @@
 name = "[MTR4] VDL retexture & Black cab by Soodari"
-filename = "MTR4_citea_and_cab_260904.zip"
+filename = "MTR4_citea_and_cab_260906.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dL7twluD/versions/JMP5frlI/MTR4_citea_and_cab_260904.zip"
+url = "https://cdn.modrinth.com/data/dL7twluD/versions/Zy1k7IbC/MTR4_citea_and_cab_260906.zip"
 hash-format = "sha512"
-hash = "9fd0f228a4160c121880260e36093ae8c0f5f3221d3e0cba47d3bd6c73b32f8c38a620dc5cff1d7abe891e1ff338ca21d00047729d16b9c2d7ea1cc3d4e8beb6"
+hash = "78eb65d14efed46cf4564894cf0325d3c8d5224f863bc8f5c92e849fe981834e91bc4f6ee26860ce2f757e3c569b1bc9d3d3cf66b9e9fc122287cddad0a67247"
 
 [update]
 [update.modrinth]
 mod-id = "dL7twluD"
-version = "JMP5frlI"
+version = "Zy1k7IbC"

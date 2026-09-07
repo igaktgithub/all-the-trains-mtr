@@ -1,0 +1,13 @@
+name = "[MTR 4] - Carteles de vía de FEVE (1 - 10)"
+filename = "[MTR 4] Carteles FEVE (vía 1 - 10).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8nUrTPJ8/versions/bRW34kyg/%5BMTR%204%5D%20Carteles%20FEVE%20%28v%C3%ADa%201%20-%2010%29.zip"
+hash-format = "sha512"
+hash = "4f210ecebbb867fe38ee00ab0efa83582589a53be93fd34810c8d8fc0536d9fba71a45877e8972a27d322dd5a050095e5b1f81232c1e85bbf19ed6c1378d9656"
+
+[update]
+[update.modrinth]
+mod-id = "8nUrTPJ8"
+version = "bRW34kyg"

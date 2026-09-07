@@ -600,6 +600,11 @@ hash = "70d1c47ad460eb0a4d9b36ab644dcd2d01c8feb0503a60c7c2659f5ffa147085"
 metafile = true
 
 [[files]]
+file = "resourcepacks/lightrain_minato.pw.toml"
+hash = "caeb2d4ce997160bb09467c40a8b93efb7fd9fbf71237564eeeca5cf0de2dda9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lightrain_shizuku.pw.toml"
 hash = "f3c1e9d27626e5a0d2a817585224cb46bb2841522885a91a57c98cd5181c032f"
 metafile = true
@@ -727,6 +732,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-34-minecraft-transit-railway-3+4.pw.toml"
 hash = "3004d829b2ef01845243da8930f0608ec3051a49db9a43c6b3ffd876c16e1f82"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-4-carteles-de-va-de-feve-1-10.pw.toml"
+hash = "fc3e695be1c563cfe561259ed033eef02687c86438b64da8ba671c121befdfd2"
 metafile = true
 
 [[files]]
@@ -1231,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-commonwealth-transport-group-resources-for-mtr.pw.toml"
-hash = "7149502d3173cd18ba806ce7a9a408c65e8afd11167a008ab7bcdc962b864fd1"
+hash = "a879aa7c2619ea80bae76cd1b12497cff52fc6640d08ec898a368a7f7758af69"
 metafile = true
 
 [[files]]
@@ -1580,6 +1590,11 @@ hash = "b3335ee21123f836398a1097dfd9c239e303be0e45faf859163b2136fcaefb5d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-tfs-ratp.pw.toml"
+hash = "a8578ea2423950a4d8015cb07a30fd6bc2567fc7b6fdca180f7a53488f7ca4be"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-thomas-the-tank-engine.pw.toml"
 hash = "f1e011734a1314e9e80e2b7742370cd24b88f4e4b8c9f738db8bad1198e083d9"
 metafile = true
@@ -1736,7 +1751,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtrkorail_suburban_trains.pw.toml"
-hash = "e9d39dc3c100751b5f14ae8e6ed625977396c4e1cf8bdfbd5816d62b3537f71b"
+hash = "e24bf60831777a7ca6e5ba54a61a2293476aa8dbf082527e8731a5a1efbd7a33"
 metafile = true
 
 [[files]]
@@ -1991,7 +2006,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/smrt-eidan-9000-c151-mtr4.pw.toml"
-hash = "532abdf8d5691bc86457e39ebf463d78ea2e9bdc5b0dbe600f92447071f99a24"
+hash = "6f6c065e559a259e284e3ceab6646897b291d11ad62414238f0092a0c3fec7f2"
 metafile = true
 
 [[files]]
@@ -2176,7 +2191,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vdl-citea-and-cab.pw.toml"
-hash = "a8e5e7ce072eebfda6d7a0e7c009d998b36bceb9d4cf2659433f4b62072a7c59"
+hash = "df1e06a40ae481ed526f7817d820aa3154f8e36a4dea8486760852cb41819433"
 metafile = true
 
 [[files]]

@@ -1,10 +1,17 @@
-Added 3 resource packs:
+Added 6 resource packs:
 - 【MTR3/4】MTR Japanese Accessories
 - [MTR] Yaxu's HD Tohoku shinkansen rail pack
 - [MTR4] JNR 205 Series | 国鉄205系
-Updated 5 resource packs:
+- [MTR 4] - Carteles de vía de FEVE (1 - 10)
+- LighTRain_湊
+- [MTR4] Alsthom TFS - RATP Livery
+Updated 9 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
 - [MTR] Class 700 Desiro City
 - [MTR] Class 717 Desiro City
+- [MTR4] Commonwealth Transport Group Resources for MTR
+- [MTR3/4]Korail Suburban Trains
+- SMRT Eidan 9000 C151 [MTR4]
+- [MTR4] VDL retexture & Black cab by Soodari

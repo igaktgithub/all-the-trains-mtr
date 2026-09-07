@@ -1,0 +1,13 @@
+name = "LighTRain_湊"
+filename = "LighTRain_湊_MTR4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/itFKUSxT/versions/kp08U8Mo/LighTRain_%E6%B9%8A_MTR4.zip"
+hash-format = "sha512"
+hash = "e2607c9ce089e31a6bbe95be12ad74a214116b00f87f9747c6eeb99c13f9916a79f7514c8aebab7772703118d9ea9280e969ac4bf3a05705c28142b90ddd658a"
+
+[update]
+[update.modrinth]
+mod-id = "itFKUSxT"
+version = "kp08U8Mo"
