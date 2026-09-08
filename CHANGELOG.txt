@@ -5,7 +5,7 @@ Added 6 resource packs:
 - [MTR 4] - Carteles de vía de FEVE (1 - 10)
 - LighTRain_湊
 - [MTR4] Alsthom TFS - RATP Livery
-Updated 9 resource packs:
+Updated 10 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -15,3 +15,6 @@ Updated 9 resource packs:
 - [MTR3/4]Korail Suburban Trains
 - SMRT Eidan 9000 C151 [MTR4]
 - [MTR4] VDL retexture & Black cab by Soodari
+- (MTR4) Hampton Railways Train Pack
+Updated 1 mods:
+- Fabric Language Kotlin

@@ -1,13 +1,13 @@
 name = "(MTR4) Hampton Railways Train Pack"
-filename = "Hampton Railways Train Pack.zip"
+filename = "Hampton Railways Train Pack V3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uglvYER0/versions/ebSABGxg/Hampton%20Railways%20Train%20Pack.zip"
+url = "https://cdn.modrinth.com/data/uglvYER0/versions/mt3I7A1G/Hampton%20Railways%20Train%20Pack%20V3.zip"
 hash-format = "sha512"
-hash = "627a3a8133040df8e78cecc4e0a09f42fbb98085d16ca49f5dca0111120f94990e4a61ee33cf597018318ca3d24ff12424a7772b32613fc65edd57f2fae877c4"
+hash = "96a86f2b4c8096d0c5be49e811b14c9cf4c6a05dc1be308adcd8f2375c5e0f7165a01acdcefdd793d3ad657ee9c2b152a9341257091b1c5bfd74992280a66a3f"
 
 [update]
 [update.modrinth]
 mod-id = "uglvYER0"
-version = "ebSABGxg"
+version = "mt3I7A1G"
