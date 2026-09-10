@@ -3,11 +3,11 @@ filename = "MTR_Alsthom_TFS_RATP_WIP.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmWoQFgE/versions/9VYO9QSE/MTR_Alsthom_TFS_RATP_WIP.zip"
+url = "https://cdn.modrinth.com/data/nmWoQFgE/versions/4SFa8NQ6/MTR_Alsthom_TFS_RATP_WIP.zip"
 hash-format = "sha512"
-hash = "eb23aa8bc64600f8d7aac190faa015e104e1a5bc791bfa0d9583fe292f16f6f1f68adb4faa5d5da4ebef405d893e430dddd76480761f549441950392b5538be4"
+hash = "705af0dd80a6a1d584205a2c09acd84e259e18c5e5809480fc9ca52a1e5b190dc3cc315679724eafa7e961d10c43006019997fadf3abfc3b1dc804fa24e5ee1f"
 
 [update]
 [update.modrinth]
 mod-id = "nmWoQFgE"
-version = "9VYO9QSE"
+version = "4SFa8NQ6"

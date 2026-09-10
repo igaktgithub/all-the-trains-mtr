@@ -5,7 +5,7 @@ Added 6 resource packs:
 - [MTR 4] - Carteles de vía de FEVE (1 - 10)
 - LighTRain_湊
 - [MTR4] Alsthom TFS - RATP Livery
-Updated 11 resource packs:
+Updated 12 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -17,5 +17,6 @@ Updated 11 resource packs:
 - [MTR4] VDL retexture & Black cab by Soodari
 - (MTR4) Hampton Railways Train Pack
 - [MTR4] CP 3400 Series
+- [MTR4] Alsthom TFS - RATP Livery
 Updated 1 mods:
 - Fabric Language Kotlin
