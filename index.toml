@@ -525,6 +525,11 @@ hash = "6abd76dda9979cff43f607f4f73cdacf72eff76f7e236bb3c8f16700ba4fd667"
 metafile = true
 
 [[files]]
+file = "resourcepacks/jnr-d51.pw.toml"
+hash = "1331cbf491d4e13a50939972cebe766e06622bf48daa494de89b49aa4aa49d28"
+metafile = true
+
+[[files]]
 file = "resourcepacks/jr-209-500-series.pw.toml"
 hash = "955729007c05e28220ae2881bc3eda67dff5adb8601f4a344c10922cb90c6de7"
 metafile = true

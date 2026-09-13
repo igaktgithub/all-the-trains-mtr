@@ -1,0 +1,13 @@
+name = "[MTR4+JCM] JNR D51 Steam Locomotive"
+filename = "JNR D51 Steam Locomotive v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e9XouwjO/versions/xsfwLFEe/JNR%20D51%20Steam%20Locomotive%20v1.0.zip"
+hash-format = "sha512"
+hash = "03cb90f8a37fe7236996d3371d2ba31feacef6587e29613ca75061a4f6e2ab6077db721cbcf400e80aef74b9f902e5d284f14db836916b8dda9c9efae5a06545"
+
+[update]
+[update.modrinth]
+mod-id = "e9XouwjO"
+version = "xsfwLFEe"

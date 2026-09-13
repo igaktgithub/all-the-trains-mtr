@@ -1,10 +1,11 @@
-Added 6 resource packs:
+Added 7 resource packs:
 - 【MTR3/4】MTR Japanese Accessories
 - [MTR] Yaxu's HD Tohoku shinkansen rail pack
 - [MTR4] JNR 205 Series | 国鉄205系
 - [MTR 4] - Carteles de vía de FEVE (1 - 10)
 - LighTRain_湊
 - [MTR4] Alsthom TFS - RATP Livery
+- [MTR4+JCM] JNR D51 Steam Locomotive
 Updated 12 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
