@@ -6,7 +6,7 @@ Added 7 resource packs:
 - LighTRain_湊
 - [MTR4] Alsthom TFS - RATP Livery
 - [MTR4+JCM] JNR D51 Steam Locomotive
-Updated 12 resource packs:
+Updated 13 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -19,5 +19,6 @@ Updated 12 resource packs:
 - (MTR4) Hampton Railways Train Pack
 - [MTR4] CP 3400 Series
 - [MTR4] Alsthom TFS - RATP Livery
+- [MTR3/4] Avanti West Coast Class 390 'Pendolino'
 Updated 1 mods:
 - Fabric Language Kotlin
