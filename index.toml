@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/jr-east-e531-series-.pw.toml"
-hash = "435fd424778401e175f4a229376d35e7fe643561f61a2f63b7e96d82a41a53e3"
+hash = "5408bc6e58d40927a0184065a303214566ebdc9f1f7ae5d2361e3c73c5558742"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-4-signs--.pw.toml"
-hash = "1005e170edf93fc80a8e7b7c78cdea99aaa7139c5cc1892ba6276fde1b62fe05"
+hash = "5bf859202e6241ac5a479a473109a7278b840c0e4ccc44c38e95982f00b8cd9a"
 metafile = true
 
 [[files]]
@@ -1411,7 +1411,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-jre233.pw.toml"
-hash = "f45b43b58979898a0360e5b4fbfff65a76b8b7d05a9002a25045412bf5dd017e"
+hash = "e676572eb601339eff760f2c53d2d9e94982616aa1fbca4a55d279e30b374bec"
 metafile = true
 
 [[files]]

@@ -3,11 +3,11 @@ filename = "signsohyeah.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/G7WzOElE/versions/OgfMryYS/signsohyeah.zip"
+url = "https://cdn.modrinth.com/data/G7WzOElE/versions/T6H0GK1H/signsohyeah.zip"
 hash-format = "sha512"
-hash = "683978893d2cab9e04e6c6345594d56e85e195a4a5348546029fb0883dcb6c2c1fd0f7149eb4c7f4f7ca8565643475336ba0aa63c9e8b828f6e716b65d41ad21"
+hash = "17e8f750257597e86f0b091abd6e7428333c23768a4a662bad4793d4558c517fe16be6531fbd8ab4b2e999617d308a186b9486a9b58ac248dc45338c81cf0800"
 
 [update]
 [update.modrinth]
 mod-id = "G7WzOElE"
-version = "OgfMryYS"
+version = "T6H0GK1H"
