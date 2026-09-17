@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/jr-east-e131-500.pw.toml"
-hash = "6cf0f644525aa9a7abb6c9a21b75b6096ef5ed44d2367b5f5cac7999db784c68"
+hash = "fbd6bb5ffef19e5d8e077ace29f5204ae5307034edc5ed8f7ba58d4a0fc6120e"
 metafile = true
 
 [[files]]
@@ -1366,7 +1366,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-jr-e235-jr-east-e235-series.pw.toml"
-hash = "362616e69dc9fc043a7de2e0bca76ae1c38e3806e404ecbe2dae5f16d4fb57dc"
+hash = "5a0adbbbbd107959b0231cd250419e7fc5d6e031fc188d0c63be9a25a03f368f"
 metafile = true
 
 [[files]]
@@ -2216,7 +2216,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/welshierail.pw.toml"
-hash = "51e38d0f5990b39a93abf874e228df1246cbea0a4cfc119145608a73b47fc439"
+hash = "22ca77563ebb86ca632baa6863f0c4bb817a3850888906d871f26439b892517b"
 metafile = true
 
 [[files]]

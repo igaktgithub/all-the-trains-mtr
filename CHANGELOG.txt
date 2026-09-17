@@ -6,7 +6,7 @@ Added 7 resource packs:
 - LighTRain_湊
 - [MTR4] Alsthom TFS - RATP Livery
 - [MTR4+JCM] JNR D51 Steam Locomotive
-Updated 16 resource packs:
+Updated 19 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -23,5 +23,8 @@ Updated 16 resource packs:
 - [MTR4] JR East E531 Series | JR東日本 E531系
 - [MTR 4] Signs+
 - [MTR4] JR East E233 Series | JR東日本 E233系
+- [MTR4]JR東日本 E131系 | JR East E131 Series
+- [MTR4] JR東日本 E235系 | JR East E235 series
+- WelshieRail
 Updated 1 mods:
 - Fabric Language Kotlin
