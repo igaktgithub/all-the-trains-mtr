@@ -1,6 +1,6 @@
 name = "All The Trains MTR"
 author = "igaktbr"
-version = "5.1.1"
+version = "5.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,7 +9,7 @@ hash-format = "sha256"
 hash = "20999da4d69a392a8aa65fcb74e87b89c394947297781b45eb78ecfe366b73e1"
 
 [versions]
-fabric = "0.19.3"
+fabric = "0.19.5"
 minecraft = "1.20.4"
 
 [options]
