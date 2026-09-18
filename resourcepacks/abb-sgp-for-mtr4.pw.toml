@@ -3,11 +3,11 @@ filename = "ABB-SGP.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XhGfr3qB/versions/IfZVerwS/ABB-SGP.zip"
+url = "https://cdn.modrinth.com/data/XhGfr3qB/versions/maDw6ZQ3/ABB-SGP.zip"
 hash-format = "sha512"
-hash = "e5fab08cf9e43c137480583a73e601582caa06095f0a66a7f1ee91de3edb1d2b5edf523e5fbeca474c1d1609477ad7a7a9668fce6b152040f9ac07150bd08d6d"
+hash = "f775c471390ef7fd3d9d0562b928c4af70d9b2253b31def6d473709702ad7c6dbd9df388740bfc9e55b67d76beb0d5df5ae431beab7dd121ab465189bc21e992"
 
 [update]
 [update.modrinth]
 mod-id = "XhGfr3qB"
-version = "IfZVerwS"
+version = "maDw6ZQ3"

@@ -1,13 +1,13 @@
 name = "[MTR4]JR東日本 E217系|JR East E217 series"
-filename = "JR_East_E217_Series_v1.6.zip"
+filename = "JR_East_E217_Series_v1.6.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3RznpLhG/versions/WCaRGTY6/JR_East_E217_Series_v1.6.zip"
+url = "https://cdn.modrinth.com/data/3RznpLhG/versions/gNKtTug9/JR_East_E217_Series_v1.6.1.zip"
 hash-format = "sha512"
-hash = "b6a6e986803bf96f2cf7b1850e922d92d8d42a69ad2ff890f7bd23b872214bc610ca034d72c27ba612e87aaaf13a24d9befd4aef53f3661debdebb46fd54e26b"
+hash = "ad917e344b78f09ebf24286d65e04f3ce6aecea43dfa678d8135c0590f75134d1ca616d5bc9bcc825d0b9f26ce4d6b21b70386667945ebcaf24f1984272f46ce"
 
 [update]
 [update.modrinth]
 mod-id = "3RznpLhG"
-version = "WCaRGTY6"
+version = "gNKtTug9"
