@@ -1,12 +1,12 @@
 name = "All The Trains MTR"
 author = "igaktbr"
-version = "5.0.0"
+version = "5.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1b03d6b2546b76f033a7d40677ed24b3a0a3553aa977751178a8292bf9ae4081"
+hash = "20999da4d69a392a8aa65fcb74e87b89c394947297781b45eb78ecfe366b73e1"
 
 [versions]
 fabric = "0.19.3"

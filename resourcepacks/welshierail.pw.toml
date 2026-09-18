@@ -1,13 +1,13 @@
 name = "WelshieRail"
-filename = "WR Class 700.zip"
+filename = "WelshieRail Mark 5a.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vcwas0FV/versions/HZNc9HrG/WR%20Class%20700.zip"
+url = "https://cdn.modrinth.com/data/Vcwas0FV/versions/vRrJembv/WelshieRail%20Mark%205a.zip"
 hash-format = "sha512"
-hash = "4369210d179b5cde90b1682be9ef31e81fe1980ab2a28782169797a3bf375d519486dff3de8fc5b235725786f8012bf3840a43389d5c2b1002117691087ba4a9"
+hash = "6f3ec9cbb5d427ea1b8f2ea7fcf28a4f2e0e8138aabfd34c42ba28a6bbc096b957e5b031738a6fd0fb9bbbf7018918f7081b394d7d97d2e4b6f6e729a9804492"
 
 [update]
 [update.modrinth]
 mod-id = "Vcwas0FV"
-version = "HZNc9HrG"
+version = "vRrJembv"

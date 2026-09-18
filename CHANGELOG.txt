@@ -1,12 +1,15 @@
-Added 7 resource packs:
+Added 9 resource packs:
 - 【MTR3/4】MTR Japanese Accessories
 - [MTR] Yaxu's HD Tohoku shinkansen rail pack
 - [MTR4] JNR 205 Series | 国鉄205系
 - [MTR 4] - Carteles de vía de FEVE (1 - 10)
 - LighTRain_湊
-- [MTR4] Alsthom TFS - RATP Livery
 - [MTR4+JCM] JNR D51 Steam Locomotive
-Updated 22 resource packs:
+- [MTR4] 京急新1000形 | Keikyu New 1000 Series
+- [MTR4/JCM] British Rail Class 390 'Pendolino'
+- [MTR4/JCM] Trams4MC 2 - Realistic tram resourcepack
+
+Updated 23 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -29,5 +32,7 @@ Updated 22 resource packs:
 - ABB/SGP for [MTR4]
 - [MTR4]JR東日本 E217系|JR East E217 series
 - [MTR4] Seoul Metro Signage
-Updated 1 mods:
+- [MTR4] 相鉄11000系 | Sotetsu 11000 series
+
+Updated 1 mod:
 - Fabric Language Kotlin

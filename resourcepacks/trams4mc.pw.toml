@@ -1,0 +1,13 @@
+name = "[MTR4/JCM] Trams4MC 2 - Realistic tram resourcepack"
+filename = "Trams4MC 2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/i1DLY6Km/versions/GxIKACE5/Trams4MC%202.0.zip"
+hash-format = "sha512"
+hash = "5613bd17ce4aa3de4c82de1367e89bbb47834d16d940d2043ca21a1b3dfbd3bddc6e5be475f9769ba3c2e1c4761229e6e37d50923d89bb86b317a63be357ce1d"
+
+[update]
+[update.modrinth]
+mod-id = "i1DLY6Km"
+version = "GxIKACE5"

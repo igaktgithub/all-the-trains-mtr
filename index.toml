@@ -225,6 +225,11 @@ hash = "f4ae0611f4f3bfec233aa291dd0ea37002e913abb9aad52571089762f50f6df0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/br-class-390-pendolino.pw.toml"
+hash = "41732d1243dd5017c02d823702577416813c8649a80fc48d531b428acf2910b2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/british-rail-class-153.pw.toml"
 hash = "dbaa7d858601881dc6dccce5f00093085c98e6c9e0ed523999f44a2dc5beda9d"
 metafile = true
@@ -546,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/keikyu-n1000-siemens.pw.toml"
-hash = "cb4d86ca52ff2fdaf09ab67a134e6119114d8b85b2e017d90b4586b9e84b58e5"
+hash = "d68272bdba093d0c4eca2bd85ae1d8ddc06d81fedbf192b355f78101334ccfb4"
 metafile = true
 
 [[files]]
@@ -2031,7 +2036,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sotetsu-11000-series.pw.toml"
-hash = "3756bb643ea1b761eb40eb7a234e283140950d0c06dd8f8cbb9ab422141ae970"
+hash = "936f4dca027c81e8f067559635f798cb1d823b6b6b623e38cf7b550be1fa321f"
 metafile = true
 
 [[files]]
@@ -2140,6 +2145,11 @@ hash = "7821559050d56f1af9f621324d4f87db46bd0485165026374f012e58db12ae8b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/trams4mc.pw.toml"
+hash = "aa10d09342c2a51ff9367ec41bc00b0ab9df0c0ce9ec2eb0491d5f10d1990ae3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/translink-ni-railways-class-172.pw.toml"
 hash = "3543bc3889077e5fa4ae3ced00e1a3c6f4c82b507e36c186b30dd7b3eb90db25"
 metafile = true
@@ -2216,7 +2226,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/welshierail.pw.toml"
-hash = "22ca77563ebb86ca632baa6863f0c4bb817a3850888906d871f26439b892517b"
+hash = "aa66b96c2c89f4eb8b9bc9b2934593d96537a34d425ea9eae42361a3101768aa"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "[MTR4/JCM] British Rail Class 390 'Pendolino'"
+filename = "BR_Class390_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xnWrCZTc/versions/lzHafObw/BR_Class390_MTR4.zip"
+hash-format = "sha512"
+hash = "326594c7c26c544e58f21c5d831f28d6bca89ac879c34f2376f53071aaffe594607bca53da1da68b46d7c5376fd72885cbc1aaab797f9f8647a905a7adc70a49"
+
+[update]
+[update.modrinth]
+mod-id = "xnWrCZTc"
+version = "lzHafObw"
