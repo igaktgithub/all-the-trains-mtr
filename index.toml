@@ -280,6 +280,11 @@ hash = "e8503c3c149229039edb8e8d3d080ccf99c4717b9b3163c392acbe735e767a64"
 metafile = true
 
 [[files]]
+file = "resourcepacks/chicago-cta-signage.pw.toml"
+hash = "a15c4f321eb3e1838dd06163e96f5028f04e7a8b70ea71ed3da0a074b022a43c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/chopin-tactile-map-music.pw.toml"
 hash = "d079225a77a5dee596be8f1011728cb651ad003223a0a89e188f782ae8354c44"
 metafile = true
@@ -551,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/keikyu-n1000-siemens.pw.toml"
-hash = "d68272bdba093d0c4eca2bd85ae1d8ddc06d81fedbf192b355f78101334ccfb4"
+hash = "cb4d86ca52ff2fdaf09ab67a134e6119114d8b85b2e017d90b4586b9e84b58e5"
 metafile = true
 
 [[files]]
@@ -2226,7 +2231,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/welshierail.pw.toml"
-hash = "aa66b96c2c89f4eb8b9bc9b2934593d96537a34d425ea9eae42361a3101768aa"
+hash = "22ca77563ebb86ca632baa6863f0c4bb817a3850888906d871f26439b892517b"
 metafile = true
 
 [[files]]

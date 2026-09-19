@@ -1,0 +1,13 @@
+name = "[MTR4] Chicago CTA Signage"
+filename = "Chicago CTA Signage v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gzSlq313/versions/237ElvWI/Chicago%20CTA%20Signage%20v1.0.zip"
+hash-format = "sha512"
+hash = "af5675950f14572280a0170b5dadcfa219a95cf0a640aa30ad9e3e5f90ace18b3e9bf69720acb148f1ec7f9eec987ea3c420c285728c8596058b2ee880d537fb"
+
+[update]
+[update.modrinth]
+mod-id = "gzSlq313"
+version = "237ElvWI"
