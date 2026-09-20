@@ -1,0 +1,13 @@
+name = "MTR 4 Kiha 47"
+filename = "kiha47_mtr.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BnarRgCE/versions/e8DfzQ3v/kiha47_mtr.zip"
+hash-format = "sha512"
+hash = "75cb1a73e52875b35c1226fc7a109cee69b400939222f324f9a2f238f9c740253442e586b7474a17819509c414f1c09819360e7664ac45c7733f354e160a15ce"
+
+[update]
+[update.modrinth]
+mod-id = "BnarRgCE"
+version = "e8DfzQ3v"

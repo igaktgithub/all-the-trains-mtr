@@ -3,11 +3,11 @@ filename = "JR_East_E217_Series_v1.6.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3RznpLhG/versions/gNKtTug9/JR_East_E217_Series_v1.6.1.zip"
+url = "https://cdn.modrinth.com/data/3RznpLhG/versions/73Juy2j9/JR_East_E217_Series_v1.6.1.zip"
 hash-format = "sha512"
-hash = "ad917e344b78f09ebf24286d65e04f3ce6aecea43dfa678d8135c0590f75134d1ca616d5bc9bcc825d0b9f26ce4d6b21b70386667945ebcaf24f1984272f46ce"
+hash = "1964be16d021345b87d651c9422dd0df1b0b14bb201878e56693b419d2907a4cfac4eab6b80b1e38608f259fe89017c48933f88752bed89cd0d095ccbdc8f415"
 
 [update]
 [update.modrinth]
 mod-id = "3RznpLhG"
-version = "gNKtTug9"
+version = "73Juy2j9"
