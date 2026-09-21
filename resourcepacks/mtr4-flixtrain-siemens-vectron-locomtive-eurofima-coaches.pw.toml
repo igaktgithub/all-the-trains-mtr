@@ -1,13 +1,13 @@
 name = "[MTR4] FlixTrain Siemens Vectron Locomtive + Eurofima Coaches"
-filename = "FlixTrain_Siemens_Vectron_plus_Carriages.zip"
+filename = "MTR4_Siemens_Vectron_&_FlixTrain_Rolling_Stock.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8MoyW5Wz/versions/nsQH0dHz/FlixTrain_Siemens_Vectron_plus_Carriages.zip"
+url = "https://cdn.modrinth.com/data/8MoyW5Wz/versions/dfj1Q3P7/MTR4_Siemens_Vectron_%26_FlixTrain_Rolling_Stock.zip"
 hash-format = "sha512"
-hash = "53dae05cc2c477f7120c06eca170e6e8f219bc16379bd9a4adf9c18c8c72dc984e558dcf94899ca1d76dce83d7a39f15592375c0b7eba9957bb0c36699808104"
+hash = "dc611fd825b1c362ca73dd39bf3bed559a731e65e5433737b400088f56ef3c3aedff9058e903d406c6f73c10622a5dc586e8b15c0f44d23a93f58fde0be28806"
 
 [update]
 [update.modrinth]
 mod-id = "8MoyW5Wz"
-version = "nsQH0dHz"
+version = "dfj1Q3P7"

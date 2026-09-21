@@ -1,0 +1,13 @@
+name = "MTR Tram Wien Pack"
+filename = "JSC Tram Wien Pack BETA 1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ogG6wLNT/versions/86GPsdO5/JSC%20Tram%20Wien%20Pack%20BETA%201.zip"
+hash-format = "sha512"
+hash = "705e446027545459a3e28cf65d0428090bad801c1c6d804453e1e2ad7cce59b20f6a072053c0dc3507bc9c6f8d38cdc54b424931c83bcd214799a5f1ddf10f67"
+
+[update]
+[update.modrinth]
+mod-id = "ogG6wLNT"
+version = "86GPsdO5"

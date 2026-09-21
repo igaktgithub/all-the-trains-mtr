@@ -1336,7 +1336,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-flixtrain-siemens-vectron-locomtive-eurofima-coaches.pw.toml"
-hash = "c62d502acdf518b6c0c78877d094cd00825ef84fecd4130370f0644f6bebef6c"
+hash = "8804554b4daa7c8a96adc33736fd969d3e0c2858ca3420f04ae801bf94685e7f"
 metafile = true
 
 [[files]]
@@ -1482,6 +1482,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-mark5a-nova-3-set.pw.toml"
 hash = "45ea45a3ca2c7c9910e24f709a6773d645ccd9cdfa83039270ad94148b206797"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-mercedes-benz-tcitaro.pw.toml"
+hash = "c358f0c9bfacfab64810a769dbc361adb3f18daaa97622bd9c292ded53f1dd4f"
 metafile = true
 
 [[files]]
@@ -1642,6 +1647,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-tokyo-metro-06-series.pw.toml"
 hash = "aae090fd21999da9e51a2920cd995fe779bfa45cc181494090a6fd2e9f9a0d6f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-tokyo-metro-07-series.pw.toml"
+hash = "c5c65271f79adf061a4a6e015132d5044d6b7ed1a11a46a0abc62d121b337e27"
 metafile = true
 
 [[files]]
@@ -2046,7 +2056,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sotetsu-11000-series.pw.toml"
-hash = "936f4dca027c81e8f067559635f798cb1d823b6b6b623e38cf7b550be1fa321f"
+hash = "3756bb643ea1b761eb40eb7a234e283140950d0c06dd8f8cbb9ab422141ae970"
 metafile = true
 
 [[files]]
@@ -2155,6 +2165,11 @@ hash = "7821559050d56f1af9f621324d4f87db46bd0485165026374f012e58db12ae8b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/tram-wien.pw.toml"
+hash = "b4cc04b2068d9285be59fc6f7f26fbc734e3795c3e69981108439e619356680e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/trams4mc.pw.toml"
 hash = "aa10d09342c2a51ff9367ec41bc00b0ab9df0c0ce9ec2eb0491d5f10d1990ae3"
 metafile = true
@@ -2236,7 +2251,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/welshierail.pw.toml"
-hash = "22ca77563ebb86ca632baa6863f0c4bb817a3850888906d871f26439b892517b"
+hash = "009ab45f0a10163f11aa51f81d9961a3bc2f9d90f26bbdbb252374fd47f9a8f2"
 metafile = true
 
 [[files]]

@@ -1,4 +1,4 @@
-Added 11 resource packs:
+Added 14 resource packs:
 - 【MTR3/4】MTR Japanese Accessories
 - [MTR] Yaxu's HD Tohoku shinkansen rail pack
 - [MTR4] JNR 205 Series | 国鉄205系
@@ -10,7 +10,10 @@ Added 11 resource packs:
 - [MTR4/JCM] Trams4MC 2 - Realistic tram resourcepack
 - [MTR4] Chicago CTA Signage
 - MTR 4 Kiha 47
-Updated 29 resource packs:
+- MTR4 - Tokyo Metro 07 Series
+- [MTR4] Mercedes-Benz tCitaro
+- MTR Tram Wien Pack
+Updated 32 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -40,6 +43,9 @@ Updated 29 resource packs:
 - [MTR4] Tokyo Metro 05 Series
 - MTR4 - Tokyo Metro 06 Series
 - [MTR4] SKM Pack
+- [MTR4] FlixTrain Siemens Vectron Locomtive + Eurofima Coaches
+- [MTR4] 相鉄11000系 | Sotetsu 11000 series
+- WelshieRail
 Updated 2 mods:
 - Fabric Language Kotlin
 - Entity Culling

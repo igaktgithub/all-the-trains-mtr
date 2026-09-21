@@ -1,0 +1,13 @@
+name = "MTR4 - Tokyo Metro 07 Series"
+filename = "MTR4 TM-07 Series v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9TvmWz2X/versions/N9AKIS1G/MTR4%20TM-07%20Series%20v1.0.zip"
+hash-format = "sha512"
+hash = "1e00b278fe85f0714214e00016dfe6d5e4c69009ef70eba62e9608dceb3ac13c6d58c313ada5c2e7bf08f3fb4ed37e05476f3fb7fc6575cc1ee09feb497e2e44"
+
+[update]
+[update.modrinth]
+mod-id = "9TvmWz2X"
+version = "N9AKIS1G"

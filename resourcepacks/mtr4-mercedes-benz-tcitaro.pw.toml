@@ -1,0 +1,13 @@
+name = "[MTR4] Mercedes-Benz tCitaro"
+filename = "tCitaro_1.0.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3LyOPtq/versions/Jt2RW3Pa/tCitaro_1.0.1.zip"
+hash-format = "sha512"
+hash = "18cf67c5989de751cb74c12e81d4ea79faf687d0e19cfe56c3e6519a86dcb7c17181d4cddb59487221d4919dc2e1d9d1a242fd4ad242056633816107cadae7ee"
+
+[update]
+[update.modrinth]
+mod-id = "m3LyOPtq"
+version = "Jt2RW3Pa"
