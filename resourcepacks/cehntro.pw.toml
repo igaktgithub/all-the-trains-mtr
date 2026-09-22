@@ -1,13 +1,13 @@
 name = "Leah's Cehntro Pack"
-filename = "Leah's Cehntro Pack v1.3.0 Pre-Release 1.zip"
+filename = "Leah's Cehntro Pack v2.0.0 Pre-Release 2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4kutBQkr/versions/pbQHSsje/Leah%27s%20Cehntro%20Pack%20v1.3.0%20Pre-Release%201.zip"
+url = "https://cdn.modrinth.com/data/4kutBQkr/versions/X9yc06Ds/Leah%27s%20Cehntro%20Pack%20v2.0.0%20Pre-Release%202.zip"
 hash-format = "sha512"
-hash = "a4ee316221e946681421423b5bbb070eba18a19b44b113952d3b7da6002452d93e34957931c0b70982b9c21202dc142bdd3f30d34cf75b4d394471617330abf4"
+hash = "0c47bf404334aae88510dcd94a09fa6bb1f71c2bcb4c58867ae9094c9e513dfcbea71018bbb3276095d6fed84f807e732bc4c78dbb23640fa40708a5ca071271"
 
 [update]
 [update.modrinth]
 mod-id = "4kutBQkr"
-version = "pbQHSsje"
+version = "X9yc06Ds"
