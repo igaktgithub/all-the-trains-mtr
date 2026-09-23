@@ -3,11 +3,11 @@ filename = "Moszyan Railways Resources.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tschwQ8f/versions/odTIO3X3/Moszyan%20Railways%20Resources.zip"
+url = "https://cdn.modrinth.com/data/tschwQ8f/versions/h3qEo6H2/Moszyan%20Railways%20Resources.zip"
 hash-format = "sha512"
-hash = "fde789032732f5f03d204a120906457f90dd84c300c90901527bea128fdd953786b9c8c6de3a5d92fdf37808d0d24f4cb008d23047540465b1763a62e3548e0e"
+hash = "49dc3b6d4fa3d4c3d8b63515b0254c5a56d32fefecb2cde2410d5d33a0b3206dffb414ff49361b9cc35e4d85cdeb3d61e40adc4c530893ebc1725b9329793b8b"
 
 [update]
 [update.modrinth]
 mod-id = "tschwQ8f"
-version = "odTIO3X3"
+version = "h3qEo6H2"

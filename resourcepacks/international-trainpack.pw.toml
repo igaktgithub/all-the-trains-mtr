@@ -1,13 +1,13 @@
 name = "[MTR/NTE] International TrainPack"
-filename = "ITRP_MTR4_Demo_Modern.zip"
+filename = "Railway infrastructure v2.5.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/If8Ufiql/versions/hlWjeuOx/ITRP_MTR4_Demo_Modern.zip"
+url = "https://cdn.modrinth.com/data/If8Ufiql/versions/C6DTOuO4/Railway%20infrastructure%20v2.5.zip"
 hash-format = "sha512"
-hash = "5714ff8c85f939e1bc86153652b96f7aa9c7df3ddcaa40a18caa9b888bdb5113b994ad1378ceebc578749eb185a0389c78e941dbafbaec8c01bb6055c0d38ea2"
+hash = "9cf08df559ca37a247b94ed994bcfba0a970e6c1d4be1fec30f779b3b5e9dce33feedc73bef08ab9f2580006dcecd21298e4cc4f25b6117242903a626a6d1720"
 
 [update]
 [update.modrinth]
 mod-id = "If8Ufiql"
-version = "hlWjeuOx"
+version = "C6DTOuO4"

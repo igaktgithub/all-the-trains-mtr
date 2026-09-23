@@ -13,7 +13,7 @@ Added 14 resource packs:
 - MTR4 - Tokyo Metro 07 Series
 - [MTR4] Mercedes-Benz tCitaro
 - MTR Tram Wien Pack
-Updated 34 resource packs:
+Updated 38 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -48,6 +48,10 @@ Updated 34 resource packs:
 - WelshieRail
 - Leah's Cehntro Pack
 - [MTR4] Moszyan Railways Resources for MTR
+- [MTR/NTE] International TrainPack
+- Leah's Resource Library
+- [MTR4] Moszyan Railways Resources for MTR
+- MTR4 - Tokyo Metro 07 Series
 Updated 3 mods:
 - Fabric Language Kotlin
 - Entity Culling
