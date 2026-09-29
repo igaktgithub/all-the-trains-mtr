@@ -1,0 +1,13 @@
+name = "[MTR 4] Toei 10-300 series 3rd batch train|都营10-300系3次車"
+filename = "Toei_Shinjuku_Line_10_300_3rd_batch_v_0.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vOJlYf4d/versions/kI72ZfMs/Toei_Shinjuku_Line_10_300_3rd_batch_v_0.1.zip"
+hash-format = "sha512"
+hash = "9cab946d1c16d509d5bb6db209f266c29d956781ffc78690f27719390af7a204b80078aecd44f464ee1b4f260b257c593d3cac8557659b51bf1f477ee2b78cff"
+
+[update]
+[update.modrinth]
+mod-id = "vOJlYf4d"
+version = "kI72ZfMs"

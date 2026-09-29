@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/e217-series-train.pw.toml"
-hash = "5a209ef5e4452a9d8b8607cc14bbcef7cbc7103b2c0ce31fc53f8a6961482860"
+hash = "f33f8e3fff3d5ccded19f1d9000c2c8bdb9b09bac3caf309b1853b71e5192f24"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/jr-east-e131-500.pw.toml"
-hash = "fbd6bb5ffef19e5d8e077ace29f5204ae5307034edc5ed8f7ba58d4a0fc6120e"
+hash = "03559994bc6079ae399ead93693e935eac5d584098da5ded8ffe8eba8b7d3188"
 metafile = true
 
 [[files]]
@@ -762,6 +762,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-4-mp-05-ratp-idfm.pw.toml"
 hash = "0535c9772c54c88687101dba79ddfcc837fc8fd933144b47b2d66a9f3248dae2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-4-only-toei-shinjuku-line-10-300-3rd-batch-train.pw.toml"
+hash = "fa665c41564bd4c78b0d3263bf045d1fd700648fd8bb461868f2b904d64c84c6"
 metafile = true
 
 [[files]]
@@ -1381,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-jr-e235-jr-east-e235-series.pw.toml"
-hash = "5a0adbbbbd107959b0231cd250419e7fc5d6e031fc188d0c63be9a25a03f368f"
+hash = "99f1873f85eff005d6b1e6e631d4f302f1afd05dca4e0b61aaf3b23ee876ef2f"
 metafile = true
 
 [[files]]
@@ -1426,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr4-jre233.pw.toml"
-hash = "e676572eb601339eff760f2c53d2d9e94982616aa1fbca4a55d279e30b374bec"
+hash = "e440a651a14d26b159022643622891f8d537f1620298551834d06ccfc4b3d54e"
 metafile = true
 
 [[files]]
@@ -1772,6 +1777,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtrinnovia_metro_mark2.pw.toml"
 hash = "742058b5775f09f2b88155edb3b1a4f436e7fbdf6314f10fcfdc24c7658d6792"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrjcm-u-bahn-pack.pw.toml"
+hash = "0f2058f22078c8c0f23eca1caf9561fa379ec5e5d1f94dbc2ee23d39d825dc27"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrjcmhkr-pids.pw.toml"
+hash = "4252a856a09498ebd7621c3d199c472b184e5feee94e7df225487cb9a4a511a6"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "[MTR/JCM] U-Bahn Pack"
+filename = "Ubahn Zug Pack v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zfx6IyVt/versions/sql3XRMd/Ubahn%20Zug%20Pack%20v1.0.zip"
+hash-format = "sha512"
+hash = "4f97c723dbf432912939ce807ed3d23056cecad1baa4b5d31c800d05bfc736f4977851d4f0a73031449a7423991ebb7614b4d54b2da00ea9318d126b055acc91"
+
+[update]
+[update.modrinth]
+mod-id = "Zfx6IyVt"
+version = "sql3XRMd"

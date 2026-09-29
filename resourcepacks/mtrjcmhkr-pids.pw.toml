@@ -1,0 +1,13 @@
+name = "[MTR4|JCM]HKR PIDS"
+filename = "HKR PIDS.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MWTPg16P/versions/AHYX6ToP/HKR%20PIDS.zip"
+hash-format = "sha512"
+hash = "3ff0191624bb152df5d00886c4d7185127368d275e60b4f779020e1a75fe6f666e83eb726ea21d88e64ed98c7fddbd7dbd81982b17b024773fe434ede2d02d54"
+
+[update]
+[update.modrinth]
+mod-id = "MWTPg16P"
+version = "AHYX6ToP"
