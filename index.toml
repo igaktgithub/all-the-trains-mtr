@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/keikyu-n1000-siemens.pw.toml"
-hash = "cb4d86ca52ff2fdaf09ab67a134e6119114d8b85b2e017d90b4586b9e84b58e5"
+hash = "d68272bdba093d0c4eca2bd85ae1d8ddc06d81fedbf192b355f78101334ccfb4"
 metafile = true
 
 [[files]]
@@ -1975,6 +1975,11 @@ hash = "e2904e6bc290f3975a871a2a431a7187d617a67cdb1213ab22943aae391a14a8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/s-bahn-rheinland.pw.toml"
+hash = "cdb24078bcdb1d1ee05191d984aaa7fef8d10c163a557487832e721278770f6e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/s700-pantograph.pw.toml"
 hash = "80ca5660e28b69417cebfb88df2b3d2f16bf474167797cbaa95436c77ecd893b"
 metafile = true
@@ -2266,7 +2271,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/welshierail.pw.toml"
-hash = "009ab45f0a10163f11aa51f81d9961a3bc2f9d90f26bbdbb252374fd47f9a8f2"
+hash = "c7ba218118c7a04d9ce16f2d191a08c04cb23245b2d8c709aff198c1efed7308"
 metafile = true
 
 [[files]]

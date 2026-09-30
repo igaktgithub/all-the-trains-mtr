@@ -1,4 +1,4 @@
-Added 17 resource packs:
+Added 18 resource packs:
 - 【MTR3/4】MTR Japanese Accessories
 - [MTR] Yaxu's HD Tohoku shinkansen rail pack
 - [MTR4] JNR 205 Series | 国鉄205系
@@ -16,7 +16,8 @@ Added 17 resource packs:
 - [MTR4|JCM]HKR PIDS
 - [MTR/JCM] U-Bahn Pack
 - [MTR 4] Toei 10-300 series 3rd batch train|都营10-300系3次車
-Updated 44 resource packs:
+- S-Bahn Rheinland Repaint Pack
+Updated 46 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -61,6 +62,8 @@ Updated 44 resource packs:
 - [MTR4]JR東日本 E131系 | JR East E131 Series
 - [MTR4] JR東日本 E235系 | JR East E235 series
 - [MTR4] JR East E233 Series | JR東日本 E233系
+- [MTR4] 京急新1000形 | Keikyu New 1000 Series
+- WelshieRail
 Updated 3 mods:
 - Fabric Language Kotlin
 - Entity Culling

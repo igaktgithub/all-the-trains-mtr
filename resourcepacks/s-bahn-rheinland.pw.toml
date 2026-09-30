@@ -1,0 +1,13 @@
+name = "S-Bahn Rheinland Repaint Pack"
+filename = "S-Bahn Rheinland V1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Evi3Hum5/versions/jwGuUGAT/S-Bahn%20Rheinland%20V1.zip"
+hash-format = "sha512"
+hash = "cb34b56f526c3f0d1897243c8d70ad6fc2248a9e01162b0ba0fdcf8dc4083cd11d868e77d0bbaa455436f1f32aa809a64df4045521cfd40c6e601d173307907b"
+
+[update]
+[update.modrinth]
+mod-id = "Evi3Hum5"
+version = "jwGuUGAT"

@@ -1,13 +1,13 @@
 name = "WelshieRail"
-filename = "GRCR Class 717.zip"
+filename = "WelshieRail and GRCR Class 378.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vcwas0FV/versions/voAAkN8N/GRCR%20Class%20717.zip"
+url = "https://cdn.modrinth.com/data/Vcwas0FV/versions/UrqwCBKk/WelshieRail%20and%20GRCR%20Class%20378.zip"
 hash-format = "sha512"
-hash = "af03faa2c0e1ff1d1421322ccc45cf9262c42939bc0700c7eb1b702532fa4d154b49ad9b5a82a30e63ab62a46e27451172cb9fa1f0baa6c86e1c1c5a6cbaaff8"
+hash = "679654c1f70f2feed1f0e908310a459d3191c55d417e5779776a59b8db45dfc1cd5b79765c2e1c98339e27ef2f550eddf2ed5cb8508ff2215261e6d0eeb4522b"
 
 [update]
 [update.modrinth]
 mod-id = "Vcwas0FV"
-version = "voAAkN8N"
+version = "UrqwCBKk"
