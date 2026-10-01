@@ -3,11 +3,11 @@ filename = "RČ Pack.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GyjXfsuy/versions/gysD7W6S/R%C4%8C%20Pack.zip"
+url = "https://cdn.modrinth.com/data/GyjXfsuy/versions/8EWKekI7/R%C4%8C%20Pack.zip"
 hash-format = "sha512"
-hash = "b42db8f6453b14eb06c6f246e9e8472352199aecec847d17357b4b890c867d397b4e85138767a0e2313847bda57ae4c1f7958dc4e6c76c1db43e1166a75b1eba"
+hash = "354049f4627793cb3ebca9aed7d3533e020c30946813a6d657c34a61781f642d338ad48bcbe45c01dfd57164cac416d9a560de094cb4bd90b1bd6dc33b4d3b86"
 
 [update]
 [update.modrinth]
 mod-id = "GyjXfsuy"
-version = "gysD7W6S"
+version = "8EWKekI7"
