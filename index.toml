@@ -1170,6 +1170,11 @@ hash = "fc2f45f1fb3fb5a4dfe38f3a6611d614760dc24ef3094392aaa543ac25e386fd"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-12000-sotetsu-12000-series.pw.toml"
+hash = "619fd7823ead848c049032e087e92d08c3ff11a44e9cbbfb4ff32fc6a794ae0a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-700-series-shinkansen.pw.toml"
 hash = "b99283c6613da336986ea64d2a5872b70f549f187af78df6b28a3f85f3e85581"
 metafile = true
@@ -2136,7 +2141,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/thadanorka-cargo-pack.pw.toml"
-hash = "78abe414331b31112d03a518bfeb30ed19754f8fe105b093ef435314262b6216"
+hash = "928d2627de5566a01dc4e5f39ad06e906832b3c564a5094821f25f41c2c8c637"
 metafile = true
 
 [[files]]

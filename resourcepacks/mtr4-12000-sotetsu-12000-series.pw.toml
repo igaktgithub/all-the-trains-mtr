@@ -1,0 +1,13 @@
+name = "[MTR4] 相鉄12000系 | Sotetsu 12000 series"
+filename = "Sotetsu_12000.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/csn1eTSJ/versions/oiDNBx7g/Sotetsu_12000.zip"
+hash-format = "sha512"
+hash = "276c7e167d7903bec49e615ef4362c9be4c29343650e30bae77347b6a91443eece6eb3ecd08aff58856a97093a907ff868bbf0184da3f112ae785e9bfee3ffe4"
+
+[update]
+[update.modrinth]
+mod-id = "csn1eTSJ"
+version = "oiDNBx7g"
