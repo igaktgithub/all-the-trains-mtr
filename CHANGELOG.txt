@@ -1,4 +1,4 @@
-Added 19 resource packs:
+Added 22 resource packs:
 - 【MTR3/4】MTR Japanese Accessories
 - [MTR] Yaxu's HD Tohoku shinkansen rail pack
 - [MTR4] JNR 205 Series | 国鉄205系
@@ -18,7 +18,10 @@ Added 19 resource packs:
 - [MTR 4] Toei 10-300 series 3rd batch train|都营10-300系3次車
 - S-Bahn Rheinland Repaint Pack
 - [MTR4] 相鉄12000系 | Sotetsu 12000 series
-Updated 48 resource packs:
+- [MTR4/JCM]JREAST_zairai_lcd_pids
+- [MTR] Ryanair boeing 747-200
+- [MTR4] DB Fahrzeuge Pack
+Updated 49 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -67,7 +70,9 @@ Updated 48 resource packs:
 - WelshieRail
 - [MTR4] RČ Pack
 - [MTR4] Thadanorka Cargo Pack
-Updated 3 mods:
+- [MTR4] Seoul Metro Signage
+Updated 4 mods:
 - Fabric Language Kotlin
 - Entity Culling
 - Entity Culling
+- Joban Client Mod

@@ -1,13 +1,13 @@
 name = "[MTR4] Seoul Metro Signage"
-filename = "Seoul Metro Signage v2.0.zip"
+filename = "Seoul Metro Signage v2.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2EDc0xEQ/versions/OmPycQbZ/Seoul%20Metro%20Signage%20v2.0.zip"
+url = "https://cdn.modrinth.com/data/2EDc0xEQ/versions/NJ98m5PX/Seoul%20Metro%20Signage%20v2.1.zip"
 hash-format = "sha512"
-hash = "f3bdd73a5beb7778a414fb30e3c2a4d402bd2cc6a1aa1dc1eed9f3d3ac24e7d96a6b78601d287280f1fe047d2132976f83176a897381aba79826e67bf4988afe"
+hash = "c734eedd3f2c832a0b6286b57bcb03d1fe79ed195579191f7a411dd9f244eaaf7001910a46f0c0054cf9852fca50540a3e3fa24fe5a069ce7483a62e27fde3f2"
 
 [update]
 [update.modrinth]
 mod-id = "2EDc0xEQ"
-version = "OmPycQbZ"
+version = "NJ98m5PX"

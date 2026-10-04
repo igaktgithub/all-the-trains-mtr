@@ -1,0 +1,13 @@
+name = "[MTR] Ryanair boeing 747-200"
+filename = "Ryanair 747-200.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LrhO0Q0d/versions/E5kE7nif/Ryanair%20747-200.zip"
+hash-format = "sha512"
+hash = "ecafa2e99c28b57d07f098c0cd9322727f9fef249468333d861ab835fcf8b041c73310288c8666db0f93b5a76a74f84901baa9d494fa87091fbd072f750306f6"
+
+[update]
+[update.modrinth]
+mod-id = "LrhO0Q0d"
+version = "E5kE7nif"

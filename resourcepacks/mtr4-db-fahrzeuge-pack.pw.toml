@@ -1,0 +1,13 @@
+name = "[MTR4] DB Fahrzeuge Pack"
+filename = "DB Fahrzeuge Pack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rkpIuKwt/versions/zafQHOkG/DB%20Fahrzeuge%20Pack.zip"
+hash-format = "sha512"
+hash = "f6d64d2c6534e8c689aa5a622a8ba15e37371494b79f1b2831eef0058bb6a9b19414806c5d189ba5fe6c3199a11ffb88169ccac097d517cdcb1a5b36c4ca7ac0"
+
+[update]
+[update.modrinth]
+mod-id = "rkpIuKwt"
+version = "zafQHOkG"
