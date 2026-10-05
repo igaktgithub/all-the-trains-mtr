@@ -1,13 +1,13 @@
 name = "[MTR4] Bombardier Movia BM21"
-filename = "bm21.zip"
+filename = "bm21 - 0.1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WSJ7EvtB/versions/cKODASBS/bm21.zip"
+url = "https://cdn.modrinth.com/data/WSJ7EvtB/versions/6HVHMOYK/bm21%20-%200.1.1.zip"
 hash-format = "sha512"
-hash = "07d33f0b7f35bbe7b107e3b66c2ef614882f919b49bd9c7992f6a613a614ee83b343320dda6c8b35570ad4891ef2bd013578ca69b8da5e4f9ed0a44042178b05"
+hash = "8fd8840aacdf45f5ae41b8a8a3b7096344ca55294cb528e222db9f28048aff9713e833a186e2e36d8d680e1314ce8d0806386d002a07a1ee7b73b2abcb25bb5f"
 
 [update]
 [update.modrinth]
 mod-id = "WSJ7EvtB"
-version = "cKODASBS"
+version = "6HVHMOYK"

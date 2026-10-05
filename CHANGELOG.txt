@@ -21,7 +21,7 @@ Added 22 resource packs:
 - [MTR4/JCM]JREAST_zairai_lcd_pids
 - [MTR] Ryanair boeing 747-200
 - [MTR4] DB Fahrzeuge Pack
-Updated 49 resource packs:
+Updated 52 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -71,8 +71,12 @@ Updated 49 resource packs:
 - [MTR4] RČ Pack
 - [MTR4] Thadanorka Cargo Pack
 - [MTR4] Seoul Metro Signage
-Updated 4 mods:
+- [MTR4] JR East E531 Series | JR東日本 E531系
+- [MTR4] Bombardier Movia BM21
+- [MTR4] JR East E531 series | JR東日本E531系
+Updated 5 mods:
 - Fabric Language Kotlin
 - Entity Culling
 - Entity Culling
+- Joban Client Mod
 - Joban Client Mod
