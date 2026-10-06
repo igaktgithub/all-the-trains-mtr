@@ -21,7 +21,7 @@ Added 22 resource packs:
 - [MTR4/JCM]JREAST_zairai_lcd_pids
 - [MTR] Ryanair boeing 747-200
 - [MTR4] DB Fahrzeuge Pack
-Updated 52 resource packs:
+Updated 55 resource packs:
 - [MTR3/4] South East Asian Trains
 - UK Signs [MTR 3/4]
 - [MTR4] VDL retexture & Black cab by Soodari
@@ -74,6 +74,9 @@ Updated 52 resource packs:
 - [MTR4] JR East E531 Series | JR東日本 E531系
 - [MTR4] Bombardier Movia BM21
 - [MTR4] JR East E531 series | JR東日本E531系
+- [MTR 4] Signs+
+- [MTR3/4] BR InterCity 225 Set
+- [MTR4] 相鉄11000系 | Sotetsu 11000 series
 Updated 5 mods:
 - Fabric Language Kotlin
 - Entity Culling
