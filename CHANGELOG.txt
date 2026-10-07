@@ -1,0 +1,44 @@
+Added 13 resource packs:
+- [MTR4] Chicago CTA Signage
+- MTR 4 Kiha 47
+- MTR4 - Tokyo Metro 07 Series
+- [MTR4] Mercedes-Benz tCitaro
+- MTR Tram Wien Pack
+- [MTR4|JCM]HKR PIDS
+- [MTR/JCM] U-Bahn Pack
+- [MTR 4] Toei 10-300 series 3rd batch train|都营10-300系3次車
+- S-Bahn Rheinland Repaint Pack
+- [MTR4] 相鉄12000系 | Sotetsu 12000 series
+- [MTR4/JCM]JREAST_zairai_lcd_pids
+- [MTR] Ryanair boeing 747-200
+- [MTR4] DB Fahrzeuge Pack
+Updated 26 resource packs:
+- [MTR4] 京急新1000形 | Keikyu New 1000 Series
+- WelshieRail
+- [MTR4]JR東日本 E217系|JR East E217 series
+- [MTR4] Tokyo Metro 05 Series
+- MTR4 - Tokyo Metro 06 Series
+- [MTR4] SKM Pack
+- [MTR4] FlixTrain Siemens Vectron Locomtive + Eurofima Coaches
+- [MTR4] 相鉄11000系 | Sotetsu 11000 series
+- Leah's Cehntro Pack
+- [MTR4] Moszyan Railways Resources for MTR
+- [MTR/NTE] International TrainPack
+- Leah's Resource Library
+- MTR4 - Tokyo Metro 07 Series
+- [MTR3/4]KTX_EUM
+- [MTR] Class 707 Desiro City SWR
+- [MTR4]JR東日本 E131系 | JR East E131 Series
+- [MTR4] JR東日本 E235系 | JR East E235 series
+- [MTR4] JR East E233 Series | JR東日本 E233系
+- [MTR4] RČ Pack
+- [MTR4] Thadanorka Cargo Pack
+- [MTR4] Seoul Metro Signage
+- [MTR4] JR East E531 Series | JR東日本 E531系
+- [MTR4] Bombardier Movia BM21
+- [MTR4] JR East E531 series | JR東日本E531系
+- [MTR 4] Signs+
+- [MTR3/4] BR InterCity 225 Set
+Updated 2 mods:
+- Entity Culling
+- Joban Client Mod
