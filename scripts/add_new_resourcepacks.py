@@ -65,6 +65,9 @@ CHANGELOG_ENABLED = True
 # anything before this feature existed) are never logged retroactively.
 CHANGELOG_START_DATE = date(2026, 9, 2)
 CHANGELOG_FILE = Path("CHANGELOG.txt")
+# True: a name already listed in a section is not listed again (the same mod
+# updated on several days appears once). False: every run appends everything.
+CHANGELOG_DEDUPE = True
 # ---------------------------------------------------------------------------
 REQUIRED_TAG = "MTR4"
 TARGET_CATEGORY = "Resource Pack"
@@ -75,7 +78,6 @@ EXCLUDED_NAMES = {
     "Leah's Cheesy Resources",
     "Rekon Sound Library",
     "Ceru's Sound Library (MTR Mod)",
-    "SG MRT style PIDS v1.01 Public Ver [MTR4]",
 }
 
 # Case-insensitive substrings that mark a pack as no longer wanted (old/
@@ -329,6 +331,21 @@ def render_changelog(sections: dict[tuple[str, str], list[str]]) -> str:
     return "\n".join(lines) + "\n" if lines else ""
 
 
+def dedupe_sections(sections: dict[tuple[str, str], list[str]]) -> dict[tuple[str, str], list[str]]:
+    """Drops repeated names inside each section, keeping first-seen order."""
+    if not CHANGELOG_DEDUPE:
+        return sections
+    return {key: list(dict.fromkeys(names)) for key, names in sections.items()}
+
+
+def add_to_section(sections: dict[tuple[str, str], list[str]], key: tuple[str, str], names: list[str]) -> None:
+    target = sections.setdefault(key, [])
+    for name in names:
+        if CHANGELOG_DEDUPE and name in target:
+            continue
+        target.append(name)
+
+
 def update_changelog(
     added_resourcepacks: list[str],
     updated_resourcepacks: list[str],
@@ -342,11 +359,11 @@ def update_changelog(
         return  # nothing happened this run -- leave the file untouched
 
     existing = CHANGELOG_FILE.read_text() if CHANGELOG_FILE.exists() else ""
-    sections = parse_changelog(existing)
+    sections = dedupe_sections(parse_changelog(existing))  # also cleans old repeats
 
-    sections.setdefault(("Added", "resource pack"), []).extend(added_resourcepacks)
-    sections.setdefault(("Updated", "resource pack"), []).extend(updated_resourcepacks)
-    sections.setdefault(("Updated", "mod"), []).extend(updated_mods)
+    add_to_section(sections, ("Added", "resource pack"), added_resourcepacks)
+    add_to_section(sections, ("Updated", "resource pack"), updated_resourcepacks)
+    add_to_section(sections, ("Updated", "mod"), updated_mods)
 
     CHANGELOG_FILE.write_text(render_changelog(sections))
 # -----------------------------------------------------------------------------

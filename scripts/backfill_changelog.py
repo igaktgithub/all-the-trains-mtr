@@ -17,10 +17,13 @@ Usage (run from the repo root, after a `git pull`):
     # print AND append it to CHANGELOG.txt (existing entries stay on top)
     python3 scripts/backfill_changelog.py --since 2026-09-18 --write
 
+    # just remove repeated names from the current CHANGELOG.txt
+    python3 scripts/backfill_changelog.py --clean
+
 Pick --since as the day of the first commit you want included. If
 CHANGELOG.txt already logged some of those commits, start the day AFTER
-the last one it covers -- the merge doesn't dedupe (same as the live
-changelog, where a pack added twice is listed twice).
+the last one it covers. Repeated names are dropped (CHANGELOG_DEDUPE in
+add_new_resourcepacks.py), so overlapping ranges or running it twice is safe.
 
 Manual commits (like "update pack.toml") have no such sections and are
 ignored. Old lowercase headers ("added 23 resource packs:") are accepted.
@@ -33,6 +36,8 @@ import sys
 
 from add_new_resourcepacks import (
     CHANGELOG_FILE,
+    add_to_section,
+    dedupe_sections,
     parse_changelog,
     render_changelog,
 )
@@ -72,25 +77,40 @@ def normalize(message: str) -> str:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    parser.add_argument("--since", required=True, help="first day to include, YYYY-MM-DD")
+    parser.add_argument("--since", help="first day to include, YYYY-MM-DD")
     parser.add_argument("--author", default="github-actions[bot]")
     parser.add_argument(
         "--write",
         action="store_true",
         help=f"append the result to {CHANGELOG_FILE} instead of only printing it",
     )
+    parser.add_argument(
+        "--clean",
+        action="store_true",
+        help=f"only rewrite {CHANGELOG_FILE} without repeated names, then exit",
+    )
     args = parser.parse_args()
+
+    if args.clean:
+        if not CHANGELOG_FILE.exists():
+            sys.exit(f"{CHANGELOG_FILE} not found")
+        cleaned = render_changelog(dedupe_sections(parse_changelog(CHANGELOG_FILE.read_text())))
+        CHANGELOG_FILE.write_text(cleaned)
+        print(cleaned, end="")
+        return 0
+    if not args.since:
+        parser.error("--since is required (unless you use --clean)")
 
     # Start from what the file already has (only used with --write).
     existing = ""
     if args.write and CHANGELOG_FILE.exists():
         existing = CHANGELOG_FILE.read_text()
-    sections = parse_changelog(existing)
+    sections = dedupe_sections(parse_changelog(existing))
 
     messages = commit_messages(args.since, args.author)
     for message in messages:
         for key, names in parse_changelog(normalize(message)).items():
-            sections.setdefault(key, []).extend(names)
+            add_to_section(sections, key, names)
 
     merged = render_changelog(sections)
     print(f"# {len(messages)} commit(s) read since {args.since}", file=sys.stderr)
