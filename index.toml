@@ -2045,6 +2045,11 @@ hash = "0ea9acc9bfc344c98a04b23413aa0b32a84408c5b926145044138bd03a33ee8c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/sg-mrt-style-pids-v1.01-public-ver-absurdlysmrt.pw.toml"
+hash = "8643b8f9ea4fd3b3572ef3b37e3fd8346d78ad219d5859e10deea9809fbdc94f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/shimannamon_rail.pw.toml"
 hash = "e9f9f93fa625f177fe94f8d0e8650c00a6e666467d18260eef5222e4d6251232"
 metafile = true
