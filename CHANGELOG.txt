@@ -1,4 +1,4 @@
-Added 14 resource packs:
+Added 16 resource packs:
 - [MTR4] Chicago CTA Signage
 - MTR 4 Kiha 47
 - MTR4 - Tokyo Metro 07 Series
@@ -13,6 +13,8 @@ Added 14 resource packs:
 - [MTR] Ryanair boeing 747-200
 - [MTR4] DB Fahrzeuge Pack
 - SG MRT style PIDS v1.01 Public Ver [MTR4]
+- [MTR/JCM] S-Bahn Pack
+- [MTR4/JCM] Volzhanin 6270 | Beta
 Updated 26 resource packs:
 - [MTR4] 京急新1000形 | Keikyu New 1000 Series
 - WelshieRail

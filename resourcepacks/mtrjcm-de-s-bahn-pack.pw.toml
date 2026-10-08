@@ -1,0 +1,13 @@
+name = "[MTR/JCM] S-Bahn Pack"
+filename = "Sbahn Zug Pack v2.1 Hotfix.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dkqiCqoC/versions/1c6cEyYH/Sbahn%20Zug%20Pack%20v2.1%20Hotfix.zip"
+hash-format = "sha512"
+hash = "f9de02866960789dee1a7b958a0c19e11d741dd7cbffb0feb5c74c65a8c27a3cb69d696d97f8958697c7d0d5b2501dd6dda06083c300363812352dce7fca1cb8"
+
+[update]
+[update.modrinth]
+mod-id = "dkqiCqoC"
+version = "1c6cEyYH"

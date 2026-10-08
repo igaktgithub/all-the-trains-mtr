@@ -1800,6 +1800,11 @@ hash = "742058b5775f09f2b88155edb3b1a4f436e7fbdf6314f10fcfdc24c7658d6792"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtrjcm-de-s-bahn-pack.pw.toml"
+hash = "4c71f489fbbdae29c77a0cd5c094c454c67307f3fed4184d7149a3f68d3365dd"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtrjcm-u-bahn-pack.pw.toml"
 hash = "0f2058f22078c8c0f23eca1caf9561fa379ec5e5d1f94dbc2ee23d39d825dc27"
 metafile = true
@@ -2292,6 +2297,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/volvo-b10tl-wright.pw.toml"
 hash = "49d09308d269ee7de8329c925c30ac43cdbd15042f5856778e125c1442eb3242"
+metafile = true
+
+[[files]]
+file = "resourcepacks/volzhanin6270.pw.toml"
+hash = "f1658b07463dbc7e6afd66dbc609f6e96b74b955ca0b6352e57d53df50a3ff46"
 metafile = true
 
 [[files]]

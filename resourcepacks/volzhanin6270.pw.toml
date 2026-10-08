@@ -1,0 +1,13 @@
+name = "[MTR4/JCM] Volzhanin 6270 | Beta"
+filename = "volzhanin_beta_06102026_dev1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hZD2jekG/versions/tnb7XnXC/volzhanin_beta_06102026_dev1.zip"
+hash-format = "sha512"
+hash = "0e834012b883b91532206e98a5b30171598a5cc34710c9014587cea24a07d3f82ee288ac0ed737bf5c6ef2f48698a83ba103b108feaab265b489fcc2ae8deb42"
+
+[update]
+[update.modrinth]
+mod-id = "hZD2jekG"
+version = "tnb7XnXC"
