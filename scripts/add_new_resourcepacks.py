@@ -63,7 +63,7 @@ RESOURCEPACKS_DIR = Path("resourcepacks")
 CHANGELOG_ENABLED = True
 # Only runs on/after this date write to CHANGELOG.txt. Earlier runs (and
 # anything before this feature existed) are never logged retroactively.
-CHANGELOG_START_DATE = date(2026, 9, 2)
+CHANGELOG_START_DATE = date(2026, 9, 19)
 CHANGELOG_FILE = Path("CHANGELOG.txt")
 # True: a name already listed in a section is not listed again (the same mod
 # updated on several days appears once). False: every run appends everything.

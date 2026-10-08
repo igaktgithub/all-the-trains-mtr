@@ -1,5 +1,4 @@
-Added 16 resource packs:
-- [MTR4] Chicago CTA Signage
+Added 15 resource packs:
 - MTR 4 Kiha 47
 - MTR4 - Tokyo Metro 07 Series
 - [MTR4] Mercedes-Benz tCitaro
@@ -16,14 +15,13 @@ Added 16 resource packs:
 - [MTR/JCM] S-Bahn Pack
 - [MTR4/JCM] Volzhanin 6270 | Beta
 Updated 26 resource packs:
-- [MTR4] 京急新1000形 | Keikyu New 1000 Series
-- WelshieRail
 - [MTR4]JR東日本 E217系|JR East E217 series
 - [MTR4] Tokyo Metro 05 Series
 - MTR4 - Tokyo Metro 06 Series
 - [MTR4] SKM Pack
 - [MTR4] FlixTrain Siemens Vectron Locomtive + Eurofima Coaches
 - [MTR4] 相鉄11000系 | Sotetsu 11000 series
+- WelshieRail
 - Leah's Cehntro Pack
 - [MTR4] Moszyan Railways Resources for MTR
 - [MTR/NTE] International TrainPack
@@ -34,6 +32,7 @@ Updated 26 resource packs:
 - [MTR4]JR東日本 E131系 | JR East E131 Series
 - [MTR4] JR東日本 E235系 | JR East E235 series
 - [MTR4] JR East E233 Series | JR東日本 E233系
+- [MTR4] 京急新1000形 | Keikyu New 1000 Series
 - [MTR4] RČ Pack
 - [MTR4] Thadanorka Cargo Pack
 - [MTR4] Seoul Metro Signage
