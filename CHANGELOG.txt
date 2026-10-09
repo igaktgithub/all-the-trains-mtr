@@ -41,6 +41,7 @@ Updated 26 resource packs:
 - [MTR4] JR East E531 series | JR東日本E531系
 - [MTR 4] Signs+
 - [MTR3/4] BR InterCity 225 Set
-Updated 2 mods:
+Updated 3 mods:
 - Entity Culling
 - Joban Client Mod
+- Fabric Language Kotlin

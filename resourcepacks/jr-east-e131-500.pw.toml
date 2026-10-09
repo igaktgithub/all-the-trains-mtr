@@ -1,13 +1,13 @@
 name = "[MTR4]JR東日本 E131系 | JR East E131 Series"
-filename = "JR_East_E131_Series_v1.6.zip"
+filename = "JR_East_E131_Series_v1.6.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jWaLdDUS/versions/K02827AO/JR_East_E131_Series_v1.6.zip"
+url = "https://cdn.modrinth.com/data/jWaLdDUS/versions/lATcsI5v/JR_East_E131_Series_v1.6.1.zip"
 hash-format = "sha512"
-hash = "abb3b5e4f6e3e0de03998d73ac695c34bc5a3c2366ed68ba15f715d4a2b1db19fda41c19e3194b32808b2c8861f9baf8877279701f485e424980e4002f3e3016"
+hash = "58f5688a0498390c8800a495abf07fb5e36fa3a9c70a591af79db0b1fd835123416e0da0e1a156fffed9fdcce5bcc0f852d9435d5b4b98d51f2f4ff6855af336"
 
 [update]
 [update.modrinth]
 mod-id = "jWaLdDUS"
-version = "K02827AO"
+version = "lATcsI5v"
