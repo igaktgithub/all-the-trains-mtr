@@ -8,7 +8,6 @@ Added 15 resource packs:
 - [MTR 4] Toei 10-300 series 3rd batch train|都营10-300系3次車
 - S-Bahn Rheinland Repaint Pack
 - [MTR4] 相鉄12000系 | Sotetsu 12000 series
-- [MTR4/JCM]JREAST_zairai_lcd_pids
 - [MTR] Ryanair boeing 747-200
 - [MTR4] DB Fahrzeuge Pack
 - SG MRT style PIDS v1.01 Public Ver [MTR4]

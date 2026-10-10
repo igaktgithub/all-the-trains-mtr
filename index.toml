@@ -555,11 +555,6 @@ hash = "383b094f6e451e660cc8b11050b8ea3dbc4cca4d83ee70e4ce832e369e7b3166"
 metafile = true
 
 [[files]]
-file = "resourcepacks/jreast_zairai_lcd_pids.pw.toml"
-hash = "bb53f598a14a9425bf79e44101fcf01bf8b9fa0bc4ce0c6eca76f96eb1dabc6a"
-metafile = true
-
-[[files]]
 file = "resourcepacks/keikyu-n1000-siemens.pw.toml"
 hash = "d68272bdba093d0c4eca2bd85ae1d8ddc06d81fedbf192b355f78101334ccfb4"
 metafile = true
@@ -2306,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/welshierail.pw.toml"
-hash = "c7ba218118c7a04d9ce16f2d191a08c04cb23245b2d8c709aff198c1efed7308"
+hash = "15f6927b15139afc80870243fc4de6a72a126fbb74fb533bf73ed73204c7976e"
 metafile = true
 
 [[files]]

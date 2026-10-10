@@ -1,13 +1,13 @@
 name = "WelshieRail"
-filename = "WelshieRail and GRCR Class 378.zip"
+filename = "WR And Foxline Intercity 225.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vcwas0FV/versions/UrqwCBKk/WelshieRail%20and%20GRCR%20Class%20378.zip"
+url = "https://cdn.modrinth.com/data/Vcwas0FV/versions/khurdMWr/WR%20And%20Foxline%20Intercity%20225.zip"
 hash-format = "sha512"
-hash = "679654c1f70f2feed1f0e908310a459d3191c55d417e5779776a59b8db45dfc1cd5b79765c2e1c98339e27ef2f550eddf2ed5cb8508ff2215261e6d0eeb4522b"
+hash = "3c0b6bd372cbe3fc87fc3e9a174e06c266b3d38b2358b2852a61311e4a1414f7981f5664decd2fc77ab49233ef3dc557ebc54fe0a2c620dc32e9ddc5f84ba77e"
 
 [update]
 [update.modrinth]
 mod-id = "Vcwas0FV"
-version = "UrqwCBKk"
+version = "khurdMWr"
