@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "ea4228b597e0aadf576339d3840b613c08d2f903be0a3f1107c25fe888306362"
+hash = "de8bc881fda9a08fbd1e2153a05c0cee9703627902c4a7187095a0fbb613f5f9"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -2301,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/welshierail.pw.toml"
-hash = "15f6927b15139afc80870243fc4de6a72a126fbb74fb533bf73ed73204c7976e"
+hash = "c7ba218118c7a04d9ce16f2d191a08c04cb23245b2d8c709aff198c1efed7308"
 metafile = true
 
 [[files]]
