@@ -1,13 +1,13 @@
 name = "[MTR4] Tokyo Metro 05 Series"
-filename = "MTR4 TM-05 Series v1.5.zip"
+filename = "MTR4 TM-05 Series v1.6.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NgeZcbDr/versions/fDSELKVX/MTR4%20TM-05%20Series%20v1.5.zip"
+url = "https://cdn.modrinth.com/data/NgeZcbDr/versions/EBL6oOYP/MTR4%20TM-05%20Series%20v1.6.zip"
 hash-format = "sha512"
-hash = "2c2d2f55e31cd0abff6717fbcb9d9f9cf3cdc56b486fdcecfd29fe79c03f9eaa339d196c5fc44cb10826383634324f5032a509db2362f296b809d1f03ec6aa21"
+hash = "a197ae3c5318c7a77073cd8c23bbf28fab7884911688a7cd2d3b005bde1e7016644226f571bb9a4fb573a2c27e481851075a65707fa7a70e611e4960b4381b4a"
 
 [update]
 [update.modrinth]
 mod-id = "NgeZcbDr"
-version = "fDSELKVX"
+version = "EBL6oOYP"
