@@ -13,7 +13,7 @@ Added 14 resource packs:
 - SG MRT style PIDS v1.01 Public Ver [MTR4]
 - [MTR/JCM] S-Bahn Pack
 - [MTR4/JCM] Volzhanin 6270 | Beta
-Updated 27 resource packs:
+Updated 28 resource packs:
 - [MTR4]JR東日本 E217系|JR East E217 series
 - [MTR4] Tokyo Metro 05 Series
 - MTR4 - Tokyo Metro 06 Series
@@ -41,6 +41,7 @@ Updated 27 resource packs:
 - [MTR 4] Signs+
 - [MTR3/4] BR InterCity 225 Set
 - World PIDS-Pack [MTR 4/JCM]
+- 【MTR3/4】botamochi129 Rail&Structure Pack
 Updated 3 mods:
 - Entity Culling
 - Joban Client Mod
