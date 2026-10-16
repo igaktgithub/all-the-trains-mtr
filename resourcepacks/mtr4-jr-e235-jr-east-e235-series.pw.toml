@@ -1,13 +1,13 @@
 name = "[MTR4] JR東日本 E235系 | JR East E235 series"
-filename = "JR_East_E235_Series_v1.7.zip"
+filename = "JR_East_E235_Series_v1.8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QefHbKfp/versions/mziJQ9iQ/JR_East_E235_Series_v1.7.zip"
+url = "https://cdn.modrinth.com/data/QefHbKfp/versions/uPdbbvtQ/JR_East_E235_Series_v1.8.zip"
 hash-format = "sha512"
-hash = "ec7f5014e1e91852626d2377ce1f6bb46f7c8ee65fb07706d3c2ba17cb7ccb11aff224cbc3a7aab32ec8a82fb7f0565336e68abac7ebacd2b8d75480066cc91d"
+hash = "79d8a7a4ad3a1ce6279dfd4460efef1b189774562f61bddcb8ebdbf2af90c1b9d1ee1ff81a04276e368a5c6b2fa5ec5999801738c21a1229100979d0fefe2f0e"
 
 [update]
 [update.modrinth]
 mod-id = "QefHbKfp"
-version = "mziJQ9iQ"
+version = "uPdbbvtQ"
