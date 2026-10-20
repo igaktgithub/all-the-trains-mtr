@@ -1,7 +1,7 @@
 name: Add new MTR4 resource packs and update pack
 
 on:
-  schedule:
+  # schedule:
     # Runs daily. This job now also covers what update-mods.yml used to do
     # (packwiz refresh / update --all / refresh) -- if you keep both
     # workflows enabled, disable or delete update-mods.yml so they don't
