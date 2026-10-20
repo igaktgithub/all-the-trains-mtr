@@ -1,13 +1,13 @@
 name = "[MTR4] The PäRail Trains Addon"
-filename = "PaRail Trains Addon 3.1.0.zip"
+filename = "PaRail Trains Addon 3.2.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8t914mWo/versions/kY07E0Y6/PaRail%20Trains%20Addon%203.1.0.zip"
+url = "https://cdn.modrinth.com/data/8t914mWo/versions/e0aQTdmz/PaRail%20Trains%20Addon%203.2.0.zip"
 hash-format = "sha512"
-hash = "c591980454ea9f4a56d9ea733393e1842bff3a989c5e089d0935db628d810e8e2a200fda820b9ec9517978d1811cdace4ae3105b636050b63f290d0fa5eb004d"
+hash = "edd94e4f4f818f60b6ea5335a445398f633e9431ff7e99581a95bea804641cdc54e5489dd26c28c30684100c73de7b8705fc34375dc62187e9ae64c54ede64fc"
 
 [update]
 [update.modrinth]
 mod-id = "8t914mWo"
-version = "kY07E0Y6"
+version = "e0aQTdmz"
