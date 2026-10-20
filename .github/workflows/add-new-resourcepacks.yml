@@ -6,7 +6,7 @@ on:
     # (packwiz refresh / update --all / refresh) -- if you keep both
     # workflows enabled, disable or delete update-mods.yml so they don't
     # both push to main and race each other.
-    - cron: "0 6 * * *"
+    # - cron: "0 6 * * *"
   workflow_dispatch: {}
 
 permissions:
